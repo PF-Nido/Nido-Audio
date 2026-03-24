@@ -49,7 +49,7 @@ def analyze_file(items):
     return results
 
 
-def check_database_settings(db: sqlite_usearch_impl.SQLiteUsearchDB):
+def check_database_settings(db: sqlite_usearch_impl.SQLiteUSearchDB):
     try:
         settings = db.get_metadata("birdnet_analyzer_settings")
         if settings["BANDPASS_FMIN"] != cfg.BANDPASS_FMIN or settings["BANDPASS_FMAX"] != cfg.BANDPASS_FMAX or settings["AUDIO_SPEED"] != cfg.AUDIO_SPEED:
@@ -134,7 +134,7 @@ def create_file_output(output_path: str, database: str):
             f.write(",".join(map(str, embedding.tolist())))
 
 
-def consume_embedding(fpath, s_start, s_end, embeddings, db: sqlite_usearch_impl.SQLiteUsearchDB):
+def consume_embedding(fpath, s_start, s_end, embeddings, db: sqlite_usearch_impl.SQLiteUSearchDB):
     # Check if embedding already exists
     existing_embedding = db.get_embeddings_by_source(DATASET_NAME, fpath, np.array([s_start, s_end]))
 

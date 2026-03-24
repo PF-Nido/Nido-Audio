@@ -1,0 +1,19 @@
+{
+  "xc_id": "1069623",
+  "nombre_cientifico": "Microsciurus mimulus",
+  "nombre_ingles": "Western Dwarf Squirrel",
+  "pais": "Colombia",
+  "localidad": "Reserva Natural río Ñambí, Vereda el Barro, Altaquer, Barbacoas, Nariño.",
+  "lat": "1.3001",
+  "lon": "-78.0834",
+  "altura": "1240",
+  "fecha": "2025-02-25",
+  "hora": "07:30",
+  "calidad_xc": "A",
+  "tipo_canto": "alarm call, call",
+  "duracion": "2:06",
+  "url_audio": "https://xeno-canto.org/1069623/download",
+  "url_pagina": "//xeno-canto.org/1069623",
+  "recordista": "Fabrice Schmitt",
+  "licencia": "//creativecommons.org/licenses/by-nc-sa/4.0/"
+}

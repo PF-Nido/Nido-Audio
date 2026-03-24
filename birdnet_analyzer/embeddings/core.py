@@ -60,7 +60,7 @@ def try_get_database(db_path: str):
     from perch_hoplite.db import sqlite_usearch_impl
 
     try:
-        return sqlite_usearch_impl.SQLiteUsearchDB.create(db_path=db_path)
+        return sqlite_usearch_impl.SQLiteUSearchDB.create(db_path=db_path)
     except ValueError:
         return None
 
@@ -78,11 +78,11 @@ def get_or_create_database(db_path: str):
 
     if not os.path.exists(db_path):
         os.makedirs(os.path.dirname(db_path), exist_ok=True)
-        return sqlite_usearch_impl.SQLiteUsearchDB.create(
+        return sqlite_usearch_impl.SQLiteUSearchDB.create(
             db_path=db_path,
             usearch_cfg=sqlite_usearch_impl.get_default_usearch_config(embedding_dim=1024),  # TODO: dont hardcode this
         )
     try:
-        return sqlite_usearch_impl.SQLiteUsearchDB.create(db_path=db_path)
+        return sqlite_usearch_impl.SQLiteUSearchDB.create(db_path=db_path)
     except ValueError:
-        return sqlite_usearch_impl.SQLiteUsearchDB.create(db_path=db_path, usearch_cfg=sqlite_usearch_impl.get_default_usearch_config(embedding_dim=1024))
+        return sqlite_usearch_impl.SQLiteUSearchDB.create(db_path=db_path, usearch_cfg=sqlite_usearch_impl.get_default_usearch_config(embedding_dim=1024))
