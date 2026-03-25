@@ -4,7 +4,7 @@ uv.lock
 # IDE/Editor settings
 .vscode/*
 
-/xeno.py
+chat.txt
 
 # Allow VSCode recommendations
 !.vscode/extensions.json

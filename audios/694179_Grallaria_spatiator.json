@@ -1,0 +1,19 @@
+{
+  "xc_id": "694179",
+  "nombre_cientifico": "Grallaria spatiator",
+  "nombre_ingles": "Sierra Nevada Antpitta",
+  "pais": "Colombia",
+  "localidad": "Santa Marta, Magdalena",
+  "lat": "11.1064",
+  "lon": "-74.0513",
+  "altura": "2600",
+  "fecha": "2021-11-27",
+  "hora": "07:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:44",
+  "url_audio": "https://xeno-canto.org/694179/download",
+  "url_pagina": "//xeno-canto.org/694179",
+  "recordista": "Bram Vogels",
+  "licencia": "//creativecommons.org/licenses/by-nc-sa/4.0/"
+}

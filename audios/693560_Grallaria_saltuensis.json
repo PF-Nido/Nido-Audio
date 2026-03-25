@@ -1,0 +1,19 @@
+{
+  "xc_id": "693560",
+  "nombre_cientifico": "Grallaria saltuensis",
+  "nombre_ingles": "Perija Antpitta",
+  "pais": "Colombia",
+  "localidad": "Páramo de Sabana Rubia, Perija, Cesar",
+  "lat": "10.3992",
+  "lon": "-72.9224",
+  "altura": null,
+  "fecha": "2021-11-11",
+  "hora": "07:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "1:20",
+  "url_audio": "https://xeno-canto.org/693560/download",
+  "url_pagina": "//xeno-canto.org/693560",
+  "recordista": "Peter Boesman",
+  "licencia": "//creativecommons.org/licenses/by-nc-nd/4.0/"
+}

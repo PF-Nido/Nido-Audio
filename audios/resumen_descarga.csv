@@ -1,0 +1,11 @@
+xc_id,especie,calidad,pais,lat,lon,altura,fecha,hora,tipo_canto,estado,segmentos,confiables,csv_path
+744136,Grallaria saltuensis,A,Colombia,10.3626,-72.9413,2900,2022-03-18,06:30,call,ok,11,0,audios\744136_Grallaria_saltuensis.csv
+725922,Basileuterus delattrii,A,Colombia,4.4787,-74.6081,380,2022-04-24,07:49,call,ok,48,0,audios\725922_Basileuterus_delattrii.csv
+721914,Saltator olivascens,A,Colombia,4.5551,-74.9548,420,2020-06-26,08:30,"call, song",ok,10,0,audios\721914_Saltator_olivascens.csv
+716835,Saltator olivascens,A,Colombia,4.402,-75.0191,650,2020-10-03,06:48,"call, song",ok,14,0,audios\716835_Saltator_olivascens.csv
+694179,Grallaria spatiator,A,Colombia,11.1064,-74.0513,2600,2021-11-27,07:00,song,ok,15,0,audios\694179_Grallaria_spatiator.csv
+693801,Pyriglena maura,A,Colombia,1.870666,-75.678732,?,2021-11-17,16:30,"call, song, song and call",ok,40,0,audios\693801_Pyriglena_maura.csv
+693800,Pyriglena maura,A,Colombia,1.6608855,-76.1095267,,2021-11-16,07:00,song,ok,11,0,audios\693800_Pyriglena_maura.csv
+693560,Grallaria saltuensis,A,Colombia,10.3992,-72.9224,,2021-11-11,07:00,song,ok,27,0,audios\693560_Grallaria_saltuensis.csv
+693559,Grallaria saltuensis,A,Colombia,10.3992,-72.9224,,2021-11-11,07:00,call,ok,26,0,audios\693559_Grallaria_saltuensis.csv
+693558,Grallaria saltuensis,A,Colombia,10.3992,-72.9224,,2021-11-11,07:00,call,ok,12,0,audios\693558_Grallaria_saltuensis.csv
