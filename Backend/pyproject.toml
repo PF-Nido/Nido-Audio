@@ -1,0 +1,65 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nido"
+version = "0.1.0"
+description = "Sistema inteligente de identificación de aves de Colombia"
+requires-python = ">=3.10"
+
+# Dependencias principales (lo que antes era requirements.txt)
+dependencies = [
+    "fastapi>=0.109.0",
+    "uvicorn>=0.27.0",
+    "pydantic>=2.5.0",
+    "lightgbm>=4.2.0",
+    "numpy>=1.26.0",
+    "pandas>=2.1.0",
+    "librosa>=0.10.0",
+    "umap-learn>=0.5.5",
+    "psycopg2-binary>=2.9.9",
+    "redis>=5.0.1",
+    "sqlalchemy>=2.0.25",
+    "geoalchemy2>=0.14.3",
+    "python-multipart>=0.0.7",
+    "httpx>=0.26.0",
+    "sqlalchemy>=2.0.25",
+    "asyncpg>=0.29.0",        # driver async para PostgreSQL
+    "redis>=5.0.1",
+    "geoalchemy2>=0.14.3",
+]
+
+# Dependencias solo para desarrollo
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4.0",
+    "pytest-asyncio>=0.23.0",
+    "black>=24.1.0",
+    "ruff>=0.1.14",
+    "mypy>=1.8.0",
+    "pre-commit>=3.6.0",
+    "locust>=2.20.0",
+]
+
+# Configuración de herramientas, todo en el mismo archivo
+
+[tool.black]
+line-length = 88
+target-version = ["py310"]
+
+[tool.ruff]
+line-length = 88
+select = ["E", "F", "I"]   # errores, pyflakes, isort
+
+[tool.mypy]
+python_version = "3.10"
+strict = false
+ignore_missing_imports = true
+
+[tool.pytest.ini_options]
+testpaths = ["src/tests"]
+asyncio_mode = "auto"
+
+[tool.setuptools.packages.find]
+where = ["src"]

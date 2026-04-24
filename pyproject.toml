@@ -124,7 +124,6 @@ select = [
     "SIM",
     "TID",
     "TD",
-    "TC",
     #"PTH",
     "FLY",
     "I",
@@ -137,7 +136,6 @@ select = [
     #"D",
     "PL",
     "UP",
-    "FURB",
     "RUF",
 ]
 ignore = [
@@ -150,7 +148,6 @@ ignore = [
     "PLR0913",
     "PLR0915",
     "PLR0912",
-    "PLC0206",
     "PLC0415",
     "RUF015",
 ]

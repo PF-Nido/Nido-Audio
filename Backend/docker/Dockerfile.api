@@ -1,0 +1,54 @@
+# ================================
+# STAGE 1: dependencias
+# ================================
+FROM python:3.10-slim AS builder
+
+WORKDIR /app
+
+# Instalar dependencias del sistema necesarias para librosa y psycopg2
+RUN apt-get update && apt-get install -y \
+    gcc \
+    libpq-dev \
+    libsndfile1 \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copiar solo lo necesario para instalar dependencias
+COPY pyproject.toml .
+COPY src/ src/
+
+# Instalar dependencias
+RUN pip install --upgrade pip setuptools wheel
+RUN pip install -e ".[dev]"
+
+
+# ================================
+# STAGE 2: imagen final
+# ================================
+FROM python:3.10-slim AS final
+
+WORKDIR /app
+
+# Dependencias del sistema en la imagen final
+RUN apt-get update && apt-get install -y \
+    libpq-dev \
+    libsndfile1 \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copiar dependencias instaladas desde el builder
+COPY --from=builder /usr/local/lib/python3.10/site-packages /usr/local/lib/python3.10/site-packages
+COPY --from=builder /usr/local/bin /usr/local/bin
+
+# Copiar el código
+COPY src/ src/
+COPY pyproject.toml .
+COPY configs/ configs/
+
+# Variables de entorno
+ENV PYTHONUNBUFFERED=1
+ENV PYTHONDONTWRITEBYTECODE=1
+
+# Puerto
+EXPOSE 8000
+
+# Comando de inicio
+CMD ["uvicorn", "nido.serving.app:app", "--host", "0.0.0.0", "--port", "8000"]
