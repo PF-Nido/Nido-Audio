@@ -389,13 +389,13 @@ def extract_embeddings_from_audio(
                 "rms_segmento":         round(rms_seg, 6),
                 "otras_especies":       otras_especies,
                 "birdnet_top1":         _normalizar_nombre(top1[0]) if top1[0] else "",
-                "birdnet_score1":       top1[1] if top1[1] is not None else "",
+                "birdnet_score1":       top1[1],
                 "birdnet_top2":         _normalizar_nombre(top2[0]) if top2[0] else "",
-                "birdnet_score2":       top2[1] if top2[1] is not None else "",
+                "birdnet_score2":       top2[1],
                 "birdnet_top3":         _normalizar_nombre(top3[0]) if top3[0] else "",
-                "birdnet_score3":       top3[1] if top3[1] is not None else "",
-                "score_especie_xc":     score_xc if score_xc is not None else "",
-                "posicion_especie_xc":  posicion_xc if posicion_xc is not None else "",
+                "birdnet_score3":       top3[1],
+                "score_especie_xc":     score_xc,
+                "posicion_especie_xc":  posicion_xc,
                 "embedding":            str_emb,
             })
 
@@ -417,9 +417,7 @@ def extract_embeddings_from_audio(
         # ── Resumen ──────────────────────────────────────────────────
         total = len(resultados_emb)
         guardados = len(df)
-        con_especie = df["score_especie_xc"].apply(
-            lambda x: x != "" and x is not None
-        ).sum() if "score_especie_xc" in df.columns else 0
+        con_especie = df["score_especie_xc"].notna().sum() if "score_especie_xc" in df.columns else 0
 
         print(f"\n{'═' * 60}")
         print(f"  RESUMEN")

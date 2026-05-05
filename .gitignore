@@ -6,6 +6,8 @@ uv.lock
 
 chat.txt
 
+analisis_datos/datos_fase1
+
 # Allow VSCode recommendations
 !.vscode/extensions.json
 
