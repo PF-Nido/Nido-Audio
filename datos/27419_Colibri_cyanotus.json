@@ -1,0 +1,33 @@
+{
+  "xc_id": "27419",
+  "genero": "Colibri",
+  "especie": "cyanotus",
+  "subespecie": "",
+  "nombre_cientifico": "Colibri cyanotus",
+  "nombre_ingles": "Lesser Violetear",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Antioquia: below Méjico",
+  "lat": 5.5334,
+  "lon": null,
+  "altura": 2800.0,
+  "fecha": "2004-08-20",
+  "hora": "09:40",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:18",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Niels Krabbe",
+  "comentarios": "Not seen. Tape ref. A 447-459",
+  "otras_especies": [
+    "Elaenia frantzii"
+  ],
+  "url_audio": "https://xeno-canto.org/27419/download",
+  "url_pagina": "https://xeno-canto.org/27419",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

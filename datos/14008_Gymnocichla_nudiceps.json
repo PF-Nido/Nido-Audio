@@ -1,0 +1,33 @@
+{
+  "xc_id": "14008",
+  "genero": "Gymnocichla",
+  "especie": "nudiceps",
+  "subespecie": "sanctamartae",
+  "nombre_cientifico": "Gymnocichla nudiceps",
+  "nombre_ingles": "Bare-crowned Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RNA El Paujil, Serrania de las Quinchas,Santander, Colombia",
+  "lat": 5.9334,
+  "lon": null,
+  "altura": 200.0,
+  "fecha": "2007-06-11",
+  "hora": "08:55",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:56",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Bradley Davis",
+  "comentarios": "in response to tape",
+  "otras_especies": [
+    "Pheugopedius fasciatoventris"
+  ],
+  "url_audio": "https://xeno-canto.org/14008/download",
+  "url_pagina": "https://xeno-canto.org/14008",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

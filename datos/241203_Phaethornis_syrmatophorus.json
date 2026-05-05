@@ -1,0 +1,33 @@
+{
+  "xc_id": "241203",
+  "genero": "Phaethornis",
+  "especie": "syrmatophorus",
+  "subespecie": "syrmatophorus",
+  "nombre_cientifico": "Phaethornis syrmatophorus",
+  "nombre_ingles": "Tawny-bellied Hermit",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Natural río Ñambí, Vereda el Barro, Altaquer, Barbacoas, Nariño.",
+  "lat": 1.3001,
+  "lon": null,
+  "altura": 1300.0,
+  "fecha": "2014-01-20",
+  "hora": "06:43",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "3:18",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marín Gómez",
+  "comentarios": "Two birds singing in lek in dense understory near to Columnea medicinalis patches. Distance: 10 m to mic. ID accurancy: 100%. Habitat: Low montane rain forest. Code: NAMBI _1345.  TASCAM DR 100 MKII with Sennheiser ME 66.",
+  "otras_especies": [
+    "Basileuterus tristriatus"
+  ],
+  "url_audio": "https://xeno-canto.org/241203/download",
+  "url_pagina": "https://xeno-canto.org/241203",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

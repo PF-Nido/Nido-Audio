@@ -1,0 +1,33 @@
+{
+  "xc_id": "763082",
+  "genero": "Hellmayrea",
+  "especie": "gularis",
+  "subespecie": "",
+  "nombre_cientifico": "Hellmayrea gularis",
+  "nombre_ingles": "White-browed Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Bogotá. Cerro Guadalupe",
+  "lat": 4.5867,
+  "lon": null,
+  "altura": 3100.0,
+  "fecha": "2022-11-23",
+  "hora": "07:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "1:09",
+  "sexo": "male",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Nick Bayly",
+  "comentarios": "Bird vocalizing at close distance from dense chusqua. ",
+  "otras_especies": [
+    "Myiothlypis nigrocristata"
+  ],
+  "url_audio": "https://xeno-canto.org/763082/download",
+  "url_pagina": "https://xeno-canto.org/763082",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

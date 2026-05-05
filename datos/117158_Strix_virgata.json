@@ -1,0 +1,33 @@
+{
+  "xc_id": "117158",
+  "genero": "Strix",
+  "especie": "virgata",
+  "subespecie": "",
+  "nombre_cientifico": "Strix virgata",
+  "nombre_ingles": "Mottled Owl",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "El Dorado Lodge, Santa Marta, Magdalena",
+  "lat": 11.1006,
+  "lon": null,
+  "altura": 1900.0,
+  "fecha": "2013-01-10",
+  "hora": "00:30",
+  "calidad_xc": "A",
+  "tipo_canto": "call",
+  "duracion": "3:24",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Gustavo Bautista",
+  "comentarios": "Natural vocalizations, heard in regenerated secondary forest, forest edge habitats, around \"Reserva ProAves - El Dorado Birding and Nature Lodge\". Birds were first heard around 00:10 hrs. along with  Santa Marta Screech-Owl (Megascops sp.nov.Santa_Marta) [Santa Marta Screech-Owl was further away (Sound Type: Song--fast, high fading hooted trill, 3-5 sec)], bird was recorded around 16 ft. to 32 ft. away from the recordist and bird was between 10 to 17 ft. above the ground. At the end of the recording it seems that the Mottled Owl flew to the direction of the second Mottled Owl where they appeared to be in conflict.\r\n\r\nSighting conditions:\r\nWeather: Mostly Clear: 75ºF/23ºC, Moon: Waning Crescent (10%), Humidity: 76%, Precip.: 0%, Wind: NINE at 8 mph.",
+  "otras_especies": [
+    "Strix virgata"
+  ],
+  "url_audio": "https://xeno-canto.org/117158/download",
+  "url_pagina": "https://xeno-canto.org/117158",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

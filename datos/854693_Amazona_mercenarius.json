@@ -1,0 +1,33 @@
+{
+  "xc_id": "854693",
+  "genero": "Amazona",
+  "especie": "mercenarius",
+  "subespecie": "",
+  "nombre_cientifico": "Amazona mercenarius",
+  "nombre_ingles": "Scaly-naped Amazon",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "El Manantial, Manizales, Caldas",
+  "lat": 5.0876,
+  "lon": null,
+  "altura": 2160.0,
+  "fecha": "2023-11-28",
+  "hora": "6:21",
+  "calidad_xc": "B",
+  "tipo_canto": "",
+  "duracion": "0:08",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Alejandro Morales Betancourt",
+  "comentarios": "",
+  "otras_especies": [
+    "Thamnophilus multistriatus"
+  ],
+  "url_audio": "https://xeno-canto.org/854693/download",
+  "url_pagina": "https://xeno-canto.org/854693",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

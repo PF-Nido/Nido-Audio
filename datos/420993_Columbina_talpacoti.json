@@ -1,0 +1,33 @@
+{
+  "xc_id": "420993",
+  "genero": "Columbina",
+  "especie": "talpacoti",
+  "subespecie": "",
+  "nombre_cientifico": "Columbina talpacoti",
+  "nombre_ingles": "Ruddy Ground Dove",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Natural Gaia, Ibagué, Tolima",
+  "lat": 4.4611,
+  "lon": null,
+  "altura": 1400.0,
+  "fecha": "2017-08-16",
+  "hora": "15:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:21",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Yair Guillermo Molina Martínez.",
+  "comentarios": "Grabación hecha en el marco del Proyecto \"Estudio técnico y participativo de la biodiversidad aviar del municipio de Ibagué – Tolima, como estrategia para la consolidación del ecoturismo de aves, la conservación de sus hábitats y el desarrollo de procesos de educación ambiental\" Universidad de Ibagué - Rednatur - Colciencias.",
+  "otras_especies": [
+    "Legatus leucophaius"
+  ],
+  "url_audio": "https://xeno-canto.org/420993/download",
+  "url_pagina": "https://xeno-canto.org/420993",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

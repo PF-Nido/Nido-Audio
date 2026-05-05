@@ -1,0 +1,33 @@
+{
+  "xc_id": "316496",
+  "genero": "Clibanornis",
+  "especie": "rufipectus",
+  "subespecie": "",
+  "nombre_cientifico": "Clibanornis rufipectus",
+  "nombre_ingles": "Santa Marta Foliage-gleaner",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "El Campano, above Minca, Santa Marta Mountains",
+  "lat": 11.1118,
+  "lon": null,
+  "altura": 1300.0,
+  "fecha": "2016-04-06",
+  "hora": "16:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "2:45",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Guy Kirwan",
+  "comentarios": "Initially rather distant, at around 35 secs the bird suddenly comes much closer.",
+  "otras_especies": [
+    "Leptotila verreauxi"
+  ],
+  "url_audio": "https://xeno-canto.org/316496/download",
+  "url_pagina": "https://xeno-canto.org/316496",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "914953",
+  "genero": "Buteo",
+  "especie": "platypterus",
+  "subespecie": "",
+  "nombre_cientifico": "Buteo platypterus",
+  "nombre_ingles": "Broad-winged Hawk",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "El Manantial, Manizales, Caldas",
+  "lat": 5.0876,
+  "lon": null,
+  "altura": 2200.0,
+  "fecha": "2023-11-21",
+  "hora": "13:08",
+  "calidad_xc": "B",
+  "tipo_canto": "",
+  "duracion": "0:21",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Alejandro Morales Betancourt",
+  "comentarios": "",
+  "otras_especies": [
+    "Zonotrichia capensis"
+  ],
+  "url_audio": "https://xeno-canto.org/914953/download",
+  "url_pagina": "https://xeno-canto.org/914953",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

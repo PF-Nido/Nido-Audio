@@ -1,0 +1,33 @@
+{
+  "xc_id": "14039",
+  "genero": "Clytoctantes",
+  "especie": "alixii",
+  "subespecie": "",
+  "nombre_cientifico": "Clytoctantes alixii",
+  "nombre_ingles": "Recurve-billed Bushbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RNA Hormiguero de Torcoroma, Ocaña, Norte de Santander",
+  "lat": 8.2031,
+  "lon": null,
+  "altura": 1550.0,
+  "fecha": "2007-06-19",
+  "hora": "10:22",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:58",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Bradley Davis",
+  "comentarios": "two birds, responding to playback",
+  "otras_especies": [
+    "Pheugopedius mystacalis"
+  ],
+  "url_audio": "https://xeno-canto.org/14039/download",
+  "url_pagina": "https://xeno-canto.org/14039",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

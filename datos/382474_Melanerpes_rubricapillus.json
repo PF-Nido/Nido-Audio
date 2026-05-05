@@ -1,0 +1,33 @@
+{
+  "xc_id": "382474",
+  "genero": "Melanerpes",
+  "especie": "rubricapillus",
+  "subespecie": "",
+  "nombre_cientifico": "Melanerpes rubricapillus",
+  "nombre_ingles": "Red-crowned Woodpecker",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Santuario de fauna y flora los Colorados, San Juán Nepomuceno, Bolívar",
+  "lat": 9.9261,
+  "lon": null,
+  "altura": 260.0,
+  "fecha": "2017-08-06",
+  "hora": "06:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:07",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andres Angulo ",
+  "comentarios": "A male foraging at woodland near to forest edge of dry forest. Recording distance was 10 meters.",
+  "otras_especies": [
+    "Campylorhynchus nuchalis"
+  ],
+  "url_audio": "https://xeno-canto.org/382474/download",
+  "url_pagina": "https://xeno-canto.org/382474",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

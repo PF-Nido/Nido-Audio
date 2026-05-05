@@ -1,0 +1,33 @@
+{
+  "xc_id": "661464",
+  "genero": "Herpetotheres",
+  "especie": "cachinnans",
+  "subespecie": "",
+  "nombre_cientifico": "Herpetotheres cachinnans",
+  "nombre_ingles": "Laughing Falcon",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Finca El Placer, El Rosario, Caldas",
+  "lat": 5.0353,
+  "lon": null,
+  "altura": 1300.0,
+  "fecha": "2021-06-29",
+  "hora": "05:30",
+  "calidad_xc": "B",
+  "tipo_canto": "duet, song",
+  "duracion": "0:32",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Nick Bayly",
+  "comentarios": "",
+  "otras_especies": [
+    "Crotophaga ani"
+  ],
+  "url_audio": "https://xeno-canto.org/661464/download",
+  "url_pagina": "https://xeno-canto.org/661464",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

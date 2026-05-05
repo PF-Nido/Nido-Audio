@@ -1,0 +1,33 @@
+{
+  "xc_id": "763963",
+  "genero": "Geranospiza",
+  "especie": "caerulescens",
+  "subespecie": "",
+  "nombre_cientifico": "Geranospiza caerulescens",
+  "nombre_ingles": "Crane Hawk",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Honda, Tolima",
+  "lat": 5.2646,
+  "lon": null,
+  "altura": 200.0,
+  "fecha": "2022-03-14",
+  "hora": "08:30",
+  "calidad_xc": "B",
+  "tipo_canto": "duet",
+  "duracion": "0:30",
+  "sexo": "female, male",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andres Felipe Espinosa",
+  "comentarios": "Ave cerca al nido, probablemente con polluelo. Al fondo se escucha tambien que otro individuo contesta al llamado.",
+  "otras_especies": [
+    "Brotogeris jugularis"
+  ],
+  "url_audio": "https://xeno-canto.org/763963/download",
+  "url_pagina": "https://xeno-canto.org/763963",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

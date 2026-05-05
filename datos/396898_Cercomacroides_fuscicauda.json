@@ -1,0 +1,33 @@
+{
+  "xc_id": "396898",
+  "genero": "Cercomacroides",
+  "especie": "fuscicauda",
+  "subespecie": "",
+  "nombre_cientifico": "Cercomacroides fuscicauda",
+  "nombre_ingles": "Riparian Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Puerto Asís, Putumayo",
+  "lat": 0.4852,
+  "lon": null,
+  "altura": 260.0,
+  "fecha": "2017-12-22",
+  "hora": "07:45",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:16",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Luisa Fernanda Chavez Paz",
+  "comentarios": "El sonido se escuchó en medio de una bandada .. mezcla de Icterides, I. croconotus y cayanensis, Cacicus cela, Psarocolius angustifrons, y otros como ramphocelus carbo, thraupis palmarum y episcopus, pachyramphus polychopterus. El área es boscosa al margen de un río con rastrojo y pastizales.",
+  "otras_especies": [
+    "Pachyramphus polychopterus"
+  ],
+  "url_audio": "https://xeno-canto.org/396898/download",
+  "url_pagina": "https://xeno-canto.org/396898",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

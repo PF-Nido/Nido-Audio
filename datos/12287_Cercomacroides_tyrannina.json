@@ -1,0 +1,33 @@
+{
+  "xc_id": "12287",
+  "genero": "Cercomacroides",
+  "especie": "tyrannina",
+  "subespecie": "",
+  "nombre_cientifico": "Cercomacroides tyrannina",
+  "nombre_ingles": "Dusky Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Suaita, Santander",
+  "lat": 6.106418,
+  "lon": null,
+  "altura": 1400.0,
+  "fecha": "2003-04-09",
+  "hora": "10:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song?",
+  "duracion": "0:56",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Laverde",
+  "comentarios": "Tambien un trino bastante agudo, tipo colibri",
+  "otras_especies": [
+    "Saltator striatipectus"
+  ],
+  "url_audio": "https://xeno-canto.org/12287/download",
+  "url_pagina": "https://xeno-canto.org/12287",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

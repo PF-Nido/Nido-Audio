@@ -1,0 +1,33 @@
+{
+  "xc_id": "1048184",
+  "genero": "Leptosittaca",
+  "especie": "branickii",
+  "subespecie": "",
+  "nombre_cientifico": "Leptosittaca branickii",
+  "nombre_ingles": "Golden-plumed Parakeet",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Corregimiento El Manantial, Manizales, Caldas",
+  "lat": 5.087,
+  "lon": null,
+  "altura": 2160.0,
+  "fecha": "2025-10-14",
+  "hora": "09:42",
+  "calidad_xc": "B",
+  "tipo_canto": "",
+  "duracion": "3:07",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Alejandro Morales Betancourt",
+  "comentarios": "Seis individuos alimentándose de frutos. Voces humanas y ruidos antropogénicos al fondo.",
+  "otras_especies": [
+    "Pheugopedius mystacalis"
+  ],
+  "url_audio": "https://xeno-canto.org/1048184/download",
+  "url_pagina": "https://xeno-canto.org/1048184",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

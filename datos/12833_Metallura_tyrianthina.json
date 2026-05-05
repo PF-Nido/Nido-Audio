@@ -1,0 +1,33 @@
+{
+  "xc_id": "12833",
+  "genero": "Metallura",
+  "especie": "tyrianthina",
+  "subespecie": "",
+  "nombre_cientifico": "Metallura tyrianthina",
+  "nombre_ingles": "Tyrian Metaltail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Soatá, Alto Onzaga, Santander",
+  "lat": 6.5667,
+  "lon": null,
+  "altura": 2500.0,
+  "fecha": "2005-10-03",
+  "hora": "5:52",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:29",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Laverde",
+  "comentarios": "",
+  "otras_especies": [
+    "Mecocerculus leucophrys"
+  ],
+  "url_audio": "https://xeno-canto.org/12833/download",
+  "url_pagina": "https://xeno-canto.org/12833",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

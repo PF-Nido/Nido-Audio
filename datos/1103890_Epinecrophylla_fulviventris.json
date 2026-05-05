@@ -1,0 +1,33 @@
+{
+  "xc_id": "1103890",
+  "genero": "Epinecrophylla",
+  "especie": "fulviventris",
+  "subespecie": "",
+  "nombre_cientifico": "Epinecrophylla fulviventris",
+  "nombre_ingles": "Checker-throated Stipplethroat",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "vía La Mula-Cañaveral, Samaná, Caldas",
+  "lat": 5.5471,
+  "lon": null,
+  "altura": 600.0,
+  "fecha": "2026-04-27",
+  "hora": "10:17",
+  "calidad_xc": "B",
+  "tipo_canto": "",
+  "duracion": "1:01",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Alejandro Morales Betancourt",
+  "comentarios": "se escuchan gotas de lluvia",
+  "otras_especies": [
+    "Lepidocolaptes souleyetii"
+  ],
+  "url_audio": "https://xeno-canto.org/1103890/download",
+  "url_pagina": "https://xeno-canto.org/1103890",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

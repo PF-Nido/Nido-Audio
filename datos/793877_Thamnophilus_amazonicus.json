@@ -1,0 +1,33 @@
+{
+  "xc_id": "793877",
+  "genero": "Thamnophilus",
+  "especie": "amazonicus",
+  "subespecie": "",
+  "nombre_cientifico": "Thamnophilus amazonicus",
+  "nombre_ingles": "Amazonian Antshrike",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Mitú Cachivera",
+  "lat": 1.1999,
+  "lon": null,
+  "altura": 200.0,
+  "fecha": "2023-03-04",
+  "hora": "06:15",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:28",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Alexander Schlatmann",
+  "comentarios": "",
+  "otras_especies": [
+    "Attila citriniventris"
+  ],
+  "url_audio": "https://xeno-canto.org/793877/download",
+  "url_pagina": "https://xeno-canto.org/793877",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

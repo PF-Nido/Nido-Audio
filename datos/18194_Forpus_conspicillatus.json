@@ -1,0 +1,33 @@
+{
+  "xc_id": "18194",
+  "genero": "Forpus",
+  "especie": "conspicillatus",
+  "subespecie": "",
+  "nombre_cientifico": "Forpus conspicillatus",
+  "nombre_ingles": "Spectacled Parrotlet",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "El canon del Rio Claro, Antioquia",
+  "lat": 5.8334,
+  "lon": null,
+  "altura": 600.0,
+  "fecha": "2008-02-05",
+  "hora": "14:20",
+  "calidad_xc": "B",
+  "tipo_canto": "call, calls of two perched birds.",
+  "duracion": "0:18",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Herman van Oosten",
+  "comentarios": "Two birds, a pair, doing their thing (quite close, 10m) on a telephone wire",
+  "otras_especies": [
+    "Legatus leucophaius"
+  ],
+  "url_audio": "https://xeno-canto.org/18194/download",
+  "url_pagina": "https://xeno-canto.org/18194",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "357634",
+  "genero": "Formicivora",
+  "especie": "grisea",
+  "subespecie": "rufiventris",
+  "nombre_cientifico": "Formicivora grisea",
+  "nombre_ingles": "Southern White-fringed Antwren",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Inírida, Guainía",
+  "lat": 3.8186,
+  "lon": null,
+  "altura": 110.0,
+  "fecha": "2017-02-15",
+  "hora": "09:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:27",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Guy Kirwan",
+  "comentarios": "Another cut of the same pair (as in XC357633) responding to playback in scrub at edge of white-sand forest.",
+  "otras_especies": [
+    "Brotogeris cyanoptera"
+  ],
+  "url_audio": "https://xeno-canto.org/357634/download",
+  "url_pagina": "https://xeno-canto.org/357634",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

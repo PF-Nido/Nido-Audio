@@ -1,0 +1,33 @@
+{
+  "xc_id": "558564",
+  "genero": "Synallaxis",
+  "especie": "brachyura",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis brachyura",
+  "nombre_ingles": "Slaty Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Filandia, Quindío",
+  "lat": 4.659,
+  "lon": null,
+  "altura": 1800.0,
+  "fecha": "2020-02-22",
+  "hora": "06:30",
+  "calidad_xc": "B",
+  "tipo_canto": "",
+  "duracion": "0:11",
+  "sexo": "",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Sergio Adrian Garcia-Murcia",
+  "comentarios": "",
+  "otras_especies": [
+    "Saltator striatipectus"
+  ],
+  "url_audio": "https://xeno-canto.org/558564/download",
+  "url_pagina": "https://xeno-canto.org/558564",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

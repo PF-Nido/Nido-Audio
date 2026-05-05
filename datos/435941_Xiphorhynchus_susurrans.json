@@ -1,0 +1,33 @@
+{
+  "xc_id": "435941",
+  "genero": "Xiphorhynchus",
+  "especie": "susurrans",
+  "subespecie": "",
+  "nombre_cientifico": "Xiphorhynchus susurrans",
+  "nombre_ingles": "Cocoa Woodcreeper",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Santa Fé de Antioquia, Antioquia",
+  "lat": 6.4788,
+  "lon": null,
+  "altura": 800.0,
+  "fecha": "2017-06-25",
+  "hora": "07:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:21",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andres Angulo ",
+  "comentarios": "Probably male?, heard from canopy in forest interior of dry forest. Recording distance was 10 meters probably.",
+  "otras_especies": [
+    "Myiarchus apicalis"
+  ],
+  "url_audio": "https://xeno-canto.org/435941/download",
+  "url_pagina": "https://xeno-canto.org/435941",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

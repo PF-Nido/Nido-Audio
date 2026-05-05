@@ -1,0 +1,33 @@
+{
+  "xc_id": "154654",
+  "genero": "Ramphastos",
+  "especie": "sulfuratus",
+  "subespecie": "",
+  "nombre_cientifico": "Ramphastos sulfuratus",
+  "nombre_ingles": "Keel-billed Toucan",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "El Dorado Lodge, Santa Marta, Magdalena",
+  "lat": 11.1006,
+  "lon": null,
+  "altura": 1900.0,
+  "fecha": "2013-09-11",
+  "hora": "06:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:10",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oswaldo Cortes",
+  "comentarios": "",
+  "otras_especies": [
+    "Anthocephala floriceps"
+  ],
+  "url_audio": "https://xeno-canto.org/154654/download",
+  "url_pagina": "https://xeno-canto.org/154654",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

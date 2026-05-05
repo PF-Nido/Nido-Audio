@@ -1,0 +1,33 @@
+{
+  "xc_id": "655381",
+  "genero": "Asio",
+  "especie": "clamator",
+  "subespecie": "",
+  "nombre_cientifico": "Asio clamator",
+  "nombre_ingles": "Striped Owl",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Pitalito, Huila",
+  "lat": 1.8885,
+  "lon": null,
+  "altura": 1300.0,
+  "fecha": "2021-06-08",
+  "hora": "23:30",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:56",
+  "sexo": "uncertain",
+  "etapa_vida": "uncertain",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Jorge L. Peña",
+  "comentarios": "",
+  "otras_especies": [
+    "Megascops choliba"
+  ],
+  "url_audio": "https://xeno-canto.org/655381/download",
+  "url_pagina": "https://xeno-canto.org/655381",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "116292",
+  "genero": "Dysithamnus",
+  "especie": "occidentalis",
+  "subespecie": "occidentalis",
+  "nombre_cientifico": "Dysithamnus occidentalis",
+  "nombre_ingles": "Bicolored Antvireo",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Montezuma Peak Road, Pueblo Rico, Risaralda, W Andes - Tatama National Park",
+  "lat": 5.2431,
+  "lon": null,
+  "altura": 1510.0,
+  "fecha": "2012-05-02",
+  "hora": "17:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:33",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Diego Calderon-F.",
+  "comentarios": "",
+  "otras_especies": [
+    "Myadestes ralloides"
+  ],
+  "url_audio": "https://xeno-canto.org/116292/download",
+  "url_pagina": "https://xeno-canto.org/116292",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

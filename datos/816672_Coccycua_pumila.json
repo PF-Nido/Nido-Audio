@@ -1,0 +1,33 @@
+{
+  "xc_id": "816672",
+  "genero": "Coccycua",
+  "especie": "pumila",
+  "subespecie": "",
+  "nombre_cientifico": "Coccycua pumila",
+  "nombre_ingles": "Dwarf Cuckoo",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Natural Cauquitá",
+  "lat": 4.843,
+  "lon": null,
+  "altura": 1100.0,
+  "fecha": "2023-07-14",
+  "hora": "08:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:09",
+  "sexo": "uncertain",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "David Monroy Rengifo",
+  "comentarios": "",
+  "otras_especies": [
+    "Synallaxis albescens"
+  ],
+  "url_audio": "https://xeno-canto.org/816672/download",
+  "url_pagina": "https://xeno-canto.org/816672",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

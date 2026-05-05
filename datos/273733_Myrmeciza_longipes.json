@@ -1,0 +1,33 @@
+{
+  "xc_id": "273733",
+  "genero": "Myrmeciza",
+  "especie": "longipes",
+  "subespecie": "",
+  "nombre_cientifico": "Myrmeciza longipes",
+  "nombre_ingles": "White-bellied Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Mana Dulce, Cundinamarca",
+  "lat": 4.351,
+  "lon": null,
+  "altura": null,
+  "fecha": "2010-01-05",
+  "hora": "08:20",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "2:09",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Peter Boesman",
+  "comentarios": "",
+  "otras_especies": [
+    "Cyclarhis gujanensis"
+  ],
+  "url_audio": "https://xeno-canto.org/273733/download",
+  "url_pagina": "https://xeno-canto.org/273733",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

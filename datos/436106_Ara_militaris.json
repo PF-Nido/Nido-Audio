@@ -1,0 +1,33 @@
+{
+  "xc_id": "436106",
+  "genero": "Ara",
+  "especie": "militaris",
+  "subespecie": "",
+  "nombre_cientifico": "Ara militaris",
+  "nombre_ingles": "Military Macaw",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Santa Fé de Antioquia, Antioquia",
+  "lat": 6.4764,
+  "lon": null,
+  "altura": 650.0,
+  "fecha": "2017-06-27",
+  "hora": "08:00",
+  "calidad_xc": "B",
+  "tipo_canto": "call, song",
+  "duracion": "0:27",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andres Angulo ",
+  "comentarios": "Very distant flock,  probably from an adyacent hill where there is a extensive area of forest far from the highway. Recording distance more 80 meters or 100 meters?. Cut was amplified.",
+  "otras_especies": [
+    "Tapera naevia"
+  ],
+  "url_audio": "https://xeno-canto.org/436106/download",
+  "url_pagina": "https://xeno-canto.org/436106",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

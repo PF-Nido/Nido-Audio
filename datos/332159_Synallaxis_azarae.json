@@ -1,0 +1,33 @@
+{
+  "xc_id": "332159",
+  "genero": "Synallaxis",
+  "especie": "azarae",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis azarae",
+  "nombre_ingles": "Azara's Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Yarumal, Antioquia",
+  "lat": 6.8253,
+  "lon": null,
+  "altura": 2700.0,
+  "fecha": "2016-04-16",
+  "hora": "07:30",
+  "calidad_xc": "A",
+  "tipo_canto": "call",
+  "duracion": "4:01",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andres Angulo",
+  "comentarios": "a pair was foraging on the ground inside andean montane scrub.  recording distance was 10 meters.",
+  "otras_especies": [
+    "Elaenia frantzii"
+  ],
+  "url_audio": "https://xeno-canto.org/332159/download",
+  "url_pagina": "https://xeno-canto.org/332159",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "477199",
+  "genero": "Crypturellus",
+  "especie": "berlepschi",
+  "subespecie": "",
+  "nombre_cientifico": "Crypturellus berlepschi",
+  "nombre_ingles": "Berlepsch's Tinamou",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Anchicayá Nature Camp",
+  "lat": 3.5845,
+  "lon": null,
+  "altura": 850.0,
+  "fecha": "2019-05-07",
+  "hora": "17:05",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:35",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andrés Felipe Tigreros Andrade",
+  "comentarios": "",
+  "otras_especies": [
+    "Turdus obsoletus"
+  ],
+  "url_audio": "https://xeno-canto.org/477199/download",
+  "url_pagina": "https://xeno-canto.org/477199",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

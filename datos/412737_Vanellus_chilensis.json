@@ -1,0 +1,33 @@
+{
+  "xc_id": "412737",
+  "genero": "Vanellus",
+  "especie": "chilensis",
+  "subespecie": "",
+  "nombre_cientifico": "Vanellus chilensis",
+  "nombre_ingles": "Southern Lapwing",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Chía, Cundinamarca, Arte y Conservación Preserve",
+  "lat": 4.867,
+  "lon": null,
+  "altura": 3000.0,
+  "fecha": "2018-04-28",
+  "hora": "08:30",
+  "calidad_xc": "A",
+  "tipo_canto": "alarm call",
+  "duracion": "0:28",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Emmanuel Laverde",
+  "comentarios": "",
+  "otras_especies": [
+    "Sturnella magna"
+  ],
+  "url_audio": "https://xeno-canto.org/412737/download",
+  "url_pagina": "https://xeno-canto.org/412737",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

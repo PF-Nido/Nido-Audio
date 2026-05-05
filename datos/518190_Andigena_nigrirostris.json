@@ -1,0 +1,33 @@
+{
+  "xc_id": "518190",
+  "genero": "Andigena",
+  "especie": "nigrirostris",
+  "subespecie": "",
+  "nombre_cientifico": "Andigena nigrirostris",
+  "nombre_ingles": "Black-billed Mountain Toucan",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Área La Ceja/Toche",
+  "lat": 4.5333333,
+  "lon": null,
+  "altura": 2800.0,
+  "fecha": "1998-06-10",
+  "hora": "07:25:00",
+  "calidad_xc": "B",
+  "tipo_canto": "non vocal",
+  "duracion": "2:04",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Bernabé López-Lanus (Colección de Sonidos Ambientales - Instituto Humboldt)",
+  "comentarios": "IAvH-CSA-01016\r\nTo obtain a wav file of the original recording, please contact coleccionesbiologicas@humboldt.org.co\r\nGrabado por Bernabé López-Lanus el 10 de junio de 1998 en Área La Ceja/Toche en Tolima a los 2800 msnm",
+  "otras_especies": [
+    "Phyllomyias nigrocapillus"
+  ],
+  "url_audio": "https://xeno-canto.org/518190/download",
+  "url_pagina": "https://xeno-canto.org/518190",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

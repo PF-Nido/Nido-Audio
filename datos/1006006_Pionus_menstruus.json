@@ -1,0 +1,33 @@
+{
+  "xc_id": "1006006",
+  "genero": "Pionus",
+  "especie": "menstruus",
+  "subespecie": "",
+  "nombre_cientifico": "Pionus menstruus",
+  "nombre_ingles": "Blue-headed Parrot",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Vereda La Cima, Dosquebradas, Risaralda",
+  "lat": 4.8616,
+  "lon": null,
+  "altura": 1750.0,
+  "fecha": "2025-06-11",
+  "hora": "15:59",
+  "calidad_xc": "B",
+  "tipo_canto": "",
+  "duracion": "0:36",
+  "sexo": "",
+  "etapa_vida": "juvenile",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Alejandro Morales Betancourt",
+  "comentarios": "Reclamos de un juvenil, acompañado por dos adultos.",
+  "otras_especies": [
+    "Stilpnia vitriolina"
+  ],
+  "url_audio": "https://xeno-canto.org/1006006/download",
+  "url_pagina": "https://xeno-canto.org/1006006",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

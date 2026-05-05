@@ -1,0 +1,33 @@
+{
+  "xc_id": "943078",
+  "genero": "Synallaxis",
+  "especie": "azarae",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis azarae",
+  "nombre_ingles": "Azara's Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RN San Sebastian de La Castellana, Antioquia",
+  "lat": 6.12,
+  "lon": null,
+  "altura": 2600.0,
+  "fecha": "2023-12-30",
+  "hora": "07:00",
+  "calidad_xc": "A",
+  "tipo_canto": "",
+  "duracion": "0:37",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Carlos Delgado JUMABITA",
+  "comentarios": "",
+  "otras_especies": [
+    "Colibri cyanotus"
+  ],
+  "url_audio": "https://xeno-canto.org/943078/download",
+  "url_pagina": "https://xeno-canto.org/943078",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

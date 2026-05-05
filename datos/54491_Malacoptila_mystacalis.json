@@ -1,0 +1,33 @@
+{
+  "xc_id": "54491",
+  "genero": "Malacoptila",
+  "especie": "mystacalis",
+  "subespecie": "",
+  "nombre_cientifico": "Malacoptila mystacalis",
+  "nombre_ingles": "Moustached Puffbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Laguna de Pedro Palo, Tena, Cundinamarca",
+  "lat": null,
+  "lon": null,
+  "altura": 2150.0,
+  "fecha": "2000-04-15",
+  "hora": "08:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:17",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Bernabe Lopez-Lanus",
+  "comentarios": "Also Coereba flaveola",
+  "otras_especies": [
+    "Coereba flaveola"
+  ],
+  "url_audio": "https://xeno-canto.org/54491/download",
+  "url_pagina": "https://xeno-canto.org/54491",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

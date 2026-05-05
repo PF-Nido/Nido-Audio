@@ -1,0 +1,33 @@
+{
+  "xc_id": "29411",
+  "genero": "Anabacerthia",
+  "especie": "striaticollis",
+  "subespecie": "",
+  "nombre_cientifico": "Anabacerthia striaticollis",
+  "nombre_ingles": "Montane Foliage-gleaner",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Alto Cantagallos, San Vicente, Yariguies, Santander, 06°49N, 73°22",
+  "lat": 6.8137,
+  "lon": null,
+  "altura": 2400.0,
+  "fecha": "2004-01-00",
+  "hora": "xx:xx",
+  "calidad_xc": "B",
+  "tipo_canto": "?",
+  "duracion": "0:07",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Myornis",
+  "comentarios": "",
+  "otras_especies": [
+    "Pharomachrus auriceps"
+  ],
+  "url_audio": "https://xeno-canto.org/29411/download",
+  "url_pagina": "https://xeno-canto.org/29411",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

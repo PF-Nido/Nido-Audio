@@ -1,0 +1,33 @@
+{
+  "xc_id": "154676",
+  "genero": "Synallaxis",
+  "especie": "brachyura",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis brachyura",
+  "nombre_ingles": "Slaty Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "PNN Cueva de los Guácharos, Acevedo, Huila",
+  "lat": 1.6169,
+  "lon": null,
+  "altura": 2000.0,
+  "fecha": "2013-11-02",
+  "hora": "11:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:12",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oswaldo Cortes",
+  "comentarios": "",
+  "otras_especies": [
+    "Troglodytes aedon"
+  ],
+  "url_audio": "https://xeno-canto.org/154676/download",
+  "url_pagina": "https://xeno-canto.org/154676",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

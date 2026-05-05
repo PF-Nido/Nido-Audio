@@ -1,0 +1,33 @@
+{
+  "xc_id": "978595",
+  "genero": "Thamnophilus",
+  "especie": "unicolor",
+  "subespecie": "",
+  "nombre_cientifico": "Thamnophilus unicolor",
+  "nombre_ingles": "Uniform Antshrike",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Salento, Quindio",
+  "lat": 4.7002,
+  "lon": null,
+  "altura": 2200.0,
+  "fecha": "2025-02-23",
+  "hora": "08:30",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:28",
+  "sexo": "male",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Sergio Adrian Garcia-Murcia",
+  "comentarios": "",
+  "otras_especies": [
+    "Grallaria ruficapilla"
+  ],
+  "url_audio": "https://xeno-canto.org/978595/download",
+  "url_pagina": "https://xeno-canto.org/978595",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

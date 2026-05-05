@@ -1,0 +1,33 @@
+{
+  "xc_id": "415876",
+  "genero": "Basileuterus",
+  "especie": "delattrii",
+  "subespecie": "",
+  "nombre_cientifico": "Basileuterus delattrii",
+  "nombre_ingles": "Chestnut-capped Warbler",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Guaduas, Cundinamarca",
+  "lat": 5.1188,
+  "lon": null,
+  "altura": 1300.0,
+  "fecha": "2017-02-13",
+  "hora": "08:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:57",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andres Angulo ",
+  "comentarios": "Same individual as  XC415874s, but two minutes later. previously in the collection as XC379418.",
+  "otras_especies": [
+    "Ramphocelus dimidiatus"
+  ],
+  "url_audio": "https://xeno-canto.org/415876/download",
+  "url_pagina": "https://xeno-canto.org/415876",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

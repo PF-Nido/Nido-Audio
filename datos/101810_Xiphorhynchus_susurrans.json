@@ -1,0 +1,33 @@
+{
+  "xc_id": "101810",
+  "genero": "Xiphorhynchus",
+  "especie": "susurrans",
+  "subespecie": "nana",
+  "nombre_cientifico": "Xiphorhynchus susurrans",
+  "nombre_ingles": "Cocoa Woodcreeper",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Minca, Magdalena",
+  "lat": 11.15,
+  "lon": null,
+  "altura": 650.0,
+  "fecha": "2012-04-17",
+  "hora": "16:39",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:19",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Jeremy Minns",
+  "comentarios": "Secondary scrub beside road. In a low, dense tree.",
+  "otras_especies": [
+    "Trogon caligatus"
+  ],
+  "url_audio": "https://xeno-canto.org/101810/download",
+  "url_pagina": "https://xeno-canto.org/101810",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

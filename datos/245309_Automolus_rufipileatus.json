@@ -1,0 +1,33 @@
+{
+  "xc_id": "245309",
+  "genero": "Automolus",
+  "especie": "rufipileatus",
+  "subespecie": "",
+  "nombre_cientifico": "Automolus rufipileatus",
+  "nombre_ingles": "Chestnut-crowned Foliage-gleaner",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Bosque El Algarrobo, Vereda San Pedro, Tamara, Casanare",
+  "lat": 5.76,
+  "lon": null,
+  "altura": 560.0,
+  "fecha": "2015-03-24",
+  "hora": "07:40",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:24",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marín Gómez",
+  "comentarios": "ID accurancy: 75%. Habitat: Bosque de Vega. Distance to mic: 5 m. Tascam DR-100MKII. Reference: 150324_2179.",
+  "otras_especies": [
+    "Pheugopedius rutilus"
+  ],
+  "url_audio": "https://xeno-canto.org/245309/download",
+  "url_pagina": "https://xeno-canto.org/245309",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

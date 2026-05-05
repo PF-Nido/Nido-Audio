@@ -1,0 +1,33 @@
+{
+  "xc_id": "360404",
+  "genero": "Eupsittula",
+  "especie": "pertinax",
+  "subespecie": "",
+  "nombre_cientifico": "Eupsittula pertinax",
+  "nombre_ingles": "Brown-throated Parakeet",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Colosó, Sucre",
+  "lat": 9.4997,
+  "lon": null,
+  "altura": 130.0,
+  "fecha": "2017-02-17",
+  "hora": "17:30",
+  "calidad_xc": "A",
+  "tipo_canto": "call, flight call",
+  "duracion": "0:26",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Nick Komar",
+  "comentarios": "Gallery forest/farmland ecotone. Recording filtered.",
+  "otras_especies": [
+    "Cyanocorax affinis"
+  ],
+  "url_audio": "https://xeno-canto.org/360404/download",
+  "url_pagina": "https://xeno-canto.org/360404",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

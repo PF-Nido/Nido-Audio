@@ -1,0 +1,33 @@
+{
+  "xc_id": "926821",
+  "genero": "Notharchus",
+  "especie": "hyperrhynchus",
+  "subespecie": "",
+  "nombre_cientifico": "Notharchus hyperrhynchus",
+  "nombre_ingles": "White-necked Puffbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Serrania de la Paz - Bajo, Betulia, Santander",
+  "lat": 7.0592,
+  "lon": null,
+  "altura": 380.0,
+  "fecha": "2023-03-10",
+  "hora": "08:17",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:07",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Carlos Andrés Pinto Quinche",
+  "comentarios": "",
+  "otras_especies": [
+    "Cercomacra nigricans"
+  ],
+  "url_audio": "https://xeno-canto.org/926821/download",
+  "url_pagina": "https://xeno-canto.org/926821",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "980389",
+  "genero": "Synallaxis",
+  "especie": "brachyura",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis brachyura",
+  "nombre_ingles": "Slaty Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Parque Temático Meraki, Vda Bellavista, Ibagué, Tolima",
+  "lat": 4.4683,
+  "lon": null,
+  "altura": 1300.0,
+  "fecha": "2024-09-13",
+  "hora": "09:03",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:47",
+  "sexo": "uncertain",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Yair Guillermo Molina Martínez.",
+  "comentarios": "",
+  "otras_especies": [
+    "Leptotila verreauxi"
+  ],
+  "url_audio": "https://xeno-canto.org/980389/download",
+  "url_pagina": "https://xeno-canto.org/980389",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

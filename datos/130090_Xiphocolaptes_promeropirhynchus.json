@@ -1,0 +1,33 @@
+{
+  "xc_id": "130090",
+  "genero": "Xiphocolaptes",
+  "especie": "promeropirhynchus",
+  "subespecie": "",
+  "nombre_cientifico": "Xiphocolaptes promeropirhynchus",
+  "nombre_ingles": "Strong-billed Woodcreeper",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-La Popa",
+  "lat": 4.6717,
+  "lon": null,
+  "altura": 1800.0,
+  "fecha": "2007-11-12",
+  "hora": "05:35",
+  "calidad_xc": "B",
+  "tipo_canto": "dawn song, song",
+  "duracion": "0:12",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marin-Gomez",
+  "comentarios": "Ref: OHM005A 0446.",
+  "otras_especies": [
+    "Dysithamnus mentalis"
+  ],
+  "url_audio": "https://xeno-canto.org/130090/download",
+  "url_pagina": "https://xeno-canto.org/130090",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

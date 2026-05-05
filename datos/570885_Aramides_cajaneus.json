@@ -1,0 +1,33 @@
+{
+  "xc_id": "570885",
+  "genero": "Aramides",
+  "especie": "cajaneus",
+  "subespecie": "",
+  "nombre_cientifico": "Aramides cajaneus",
+  "nombre_ingles": "Grey-cowled Wood Rail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Mana Dulce, Cundinamarca",
+  "lat": 4.351,
+  "lon": null,
+  "altura": 380.0,
+  "fecha": "2020-06-16",
+  "hora": "05:30",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:49",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Jerome Fischer",
+  "comentarios": "",
+  "otras_especies": [
+    "Amazilia tzacatl"
+  ],
+  "url_audio": "https://xeno-canto.org/570885/download",
+  "url_pagina": "https://xeno-canto.org/570885",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

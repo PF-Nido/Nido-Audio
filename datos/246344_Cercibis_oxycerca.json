@@ -1,0 +1,33 @@
+{
+  "xc_id": "246344",
+  "genero": "Cercibis",
+  "especie": "oxycerca",
+  "subespecie": "",
+  "nombre_cientifico": "Cercibis oxycerca",
+  "nombre_ingles": "Sharp-tailed Ibis",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "La Candelaria, vereda El Guira (Tauramena, Casanare)",
+  "lat": 4.6741,
+  "lon": null,
+  "altura": 190.0,
+  "fecha": "2015-05-02",
+  "hora": "05:38",
+  "calidad_xc": "B",
+  "tipo_canto": "flight call",
+  "duracion": "0:56",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Alejandro Morales Betancourt",
+  "comentarios": "",
+  "otras_especies": [
+    "Tyrannus melancholicus"
+  ],
+  "url_audio": "https://xeno-canto.org/246344/download",
+  "url_pagina": "https://xeno-canto.org/246344",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "104230",
+  "genero": "Myrmotherula",
+  "especie": "schisticolor",
+  "subespecie": "",
+  "nombre_cientifico": "Myrmotherula schisticolor",
+  "nombre_ingles": "Slaty Antwren",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Santa Cecilia, Serrania de San Lucas",
+  "lat": 7.9759,
+  "lon": null,
+  "altura": 1550.0,
+  "fecha": "2010-01-09",
+  "hora": "08:00",
+  "calidad_xc": "B",
+  "tipo_canto": "call, calls on release",
+  "duracion": "0:09",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Myornis",
+  "comentarios": "Alarm call of bird upon release from netting, then contact calls of bird in the field originally following its release.",
+  "otras_especies": [
+    "Basileuterus tristriatus"
+  ],
+  "url_audio": "https://xeno-canto.org/104230/download",
+  "url_pagina": "https://xeno-canto.org/104230",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

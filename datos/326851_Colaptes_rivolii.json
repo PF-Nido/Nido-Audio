@@ -1,0 +1,33 @@
+{
+  "xc_id": "326851",
+  "genero": "Colaptes",
+  "especie": "rivolii",
+  "subespecie": "",
+  "nombre_cientifico": "Colaptes rivolii",
+  "nombre_ingles": "Crimson-mantled Woodpecker",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "San Andrés de Cuerquía, Antioquia",
+  "lat": 6.8883,
+  "lon": null,
+  "altura": 2600.0,
+  "fecha": "2016-04-20",
+  "hora": "16:30",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:50",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andres Angulo",
+  "comentarios": "One individual of a breeding pair was foraging  at understory of forest edge in an andean forest fragment. It was involved on chicks feeding. Recording distance was 5 meters.",
+  "otras_especies": [
+    "Rupornis magnirostris"
+  ],
+  "url_audio": "https://xeno-canto.org/326851/download",
+  "url_pagina": "https://xeno-canto.org/326851",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

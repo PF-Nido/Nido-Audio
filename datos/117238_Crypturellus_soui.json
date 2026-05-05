@@ -1,0 +1,33 @@
+{
+  "xc_id": "117238",
+  "genero": "Crypturellus",
+  "especie": "soui",
+  "subespecie": "",
+  "nombre_cientifico": "Crypturellus soui",
+  "nombre_ingles": "Little Tinamou",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "PNN Tamá, Toledo, Norte de Santander",
+  "lat": 7.124444,
+  "lon": null,
+  "altura": 1000.0,
+  "fecha": "1999-09-29",
+  "hora": "?",
+  "calidad_xc": "B",
+  "tipo_canto": "?",
+  "duracion": "1:36",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)",
+  "comentarios": "IAvH-CSA 619\r\n\r\nTo obtain a wav file of the original recording, please contact csa@humboldt.org.co",
+  "otras_especies": [
+    "Zimmerius chrysops"
+  ],
+  "url_audio": "https://xeno-canto.org/117238/download",
+  "url_pagina": "https://xeno-canto.org/117238",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

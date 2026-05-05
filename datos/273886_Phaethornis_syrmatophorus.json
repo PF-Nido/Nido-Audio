@@ -1,0 +1,33 @@
+{
+  "xc_id": "273886",
+  "genero": "Phaethornis",
+  "especie": "syrmatophorus",
+  "subespecie": "",
+  "nombre_cientifico": "Phaethornis syrmatophorus",
+  "nombre_ingles": "Tawny-bellied Hermit",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "PN Tatamá, Montezuma trail near Pueblo Rico , Risaralda",
+  "lat": 5.234,
+  "lon": null,
+  "altura": 1600.0,
+  "fecha": "2010-01-01",
+  "hora": "11:40",
+  "calidad_xc": "A",
+  "tipo_canto": "call",
+  "duracion": "0:15",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Peter Boesman",
+  "comentarios": "",
+  "otras_especies": [
+    "Baryphthengus martii"
+  ],
+  "url_audio": "https://xeno-canto.org/273886/download",
+  "url_pagina": "https://xeno-canto.org/273886",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

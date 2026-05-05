@@ -1,0 +1,33 @@
+{
+  "xc_id": "380228",
+  "genero": "Myrmeciza",
+  "especie": "longipes",
+  "subespecie": "",
+  "nombre_cientifico": "Myrmeciza longipes",
+  "nombre_ingles": "White-bellied Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Guaduas, Cundinamarca",
+  "lat": 5.1252,
+  "lon": null,
+  "altura": 1200.0,
+  "fecha": "2017-02-12",
+  "hora": "08:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:08",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andres Angulo ",
+  "comentarios": "A pair was regularly heard on woodland adyacent to a small patch of secundary vegetation. Recording distance was probably 10 meters. ",
+  "otras_especies": [
+    "Dendroplex picus"
+  ],
+  "url_audio": "https://xeno-canto.org/380228/download",
+  "url_pagina": "https://xeno-canto.org/380228",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

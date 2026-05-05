@@ -1,0 +1,33 @@
+{
+  "xc_id": "1102481",
+  "genero": "Myrmotherula",
+  "especie": "schisticolor",
+  "subespecie": "schisticolor",
+  "nombre_cientifico": "Myrmotherula schisticolor",
+  "nombre_ingles": "Slaty Antwren",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Forestal Bosque Yotoco, Valle del Cauca",
+  "lat": 3.8774,
+  "lon": null,
+  "altura": 1625.0,
+  "fecha": "2026-03-26",
+  "hora": "06:00",
+  "calidad_xc": "B",
+  "tipo_canto": "call, song",
+  "duracion": "1:52",
+  "sexo": "female, male",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andrés M. Cuervo",
+  "comentarios": "Although loudest sound is that of a pair Pulsatrix perspicillata, focal subjects were a male and female Myrmotherula schisticolor.",
+  "otras_especies": [
+    "Pulsatrix perspicillata"
+  ],
+  "url_audio": "https://xeno-canto.org/1102481/download",
+  "url_pagina": "https://xeno-canto.org/1102481",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

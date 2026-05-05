@@ -1,0 +1,33 @@
+{
+  "xc_id": "365072",
+  "genero": "Anabacerthia",
+  "especie": "striaticollis",
+  "subespecie": "",
+  "nombre_cientifico": "Anabacerthia striaticollis",
+  "nombre_ingles": "Montane Foliage-gleaner",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "San lorenzo ridge , sierra nevada de Santa Marta, Magdalena",
+  "lat": 11.0964,
+  "lon": null,
+  "altura": 2000.0,
+  "fecha": "2017-01-09",
+  "hora": "08:00",
+  "calidad_xc": "A",
+  "tipo_canto": "call",
+  "duracion": "0:51",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andres Angulo",
+  "comentarios": "A pair was seen on forest edge near the trail on montane forest. They moved quickly and gleaning over the leaves  for insects.  Recording distance was 10 meters.",
+  "otras_especies": [
+    "Myiothlypis conspicillata"
+  ],
+  "url_audio": "https://xeno-canto.org/365072/download",
+  "url_pagina": "https://xeno-canto.org/365072",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

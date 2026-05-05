@@ -1,0 +1,33 @@
+{
+  "xc_id": "13944",
+  "genero": "Cranioleuca",
+  "especie": "erythrops",
+  "subespecie": "",
+  "nombre_cientifico": "Cranioleuca erythrops",
+  "nombre_ingles": "Red-faced Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Dapa, Valle del Cauca",
+  "lat": 3.5628,
+  "lon": null,
+  "altura": 2000.0,
+  "fecha": "2007-06-03",
+  "hora": "08:42",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:54",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Bradley Davis",
+  "comentarios": "",
+  "otras_especies": [
+    "Zentrygon frenata"
+  ],
+  "url_audio": "https://xeno-canto.org/13944/download",
+  "url_pagina": "https://xeno-canto.org/13944",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "240026",
+  "genero": "Trogon",
+  "especie": "collaris",
+  "subespecie": "",
+  "nombre_cientifico": "Trogon collaris",
+  "nombre_ingles": "Collared Trogon",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Bremen-Quebrada Guaguas, Vereda Cruces, Filandia, Quindío",
+  "lat": 4.67378,
+  "lon": null,
+  "altura": 1910.0,
+  "fecha": "2008-01-11",
+  "hora": "08:19",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "1:00",
+  "sexo": "male",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marín Gómez",
+  "comentarios": "ID accurancy: 100%.  Habitat: Shrubs and border of Low Montane humid forest. OHM019A_2809 Trogon collaris.  Equipment: Marantz PMD 222 with Sennheiser ME 66, TDK 60 SA-II.",
+  "otras_especies": [
+    "Cyanocorax yncas"
+  ],
+  "url_audio": "https://xeno-canto.org/240026/download",
+  "url_pagina": "https://xeno-canto.org/240026",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

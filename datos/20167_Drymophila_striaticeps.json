@@ -1,0 +1,33 @@
+{
+  "xc_id": "20167",
+  "genero": "Drymophila",
+  "especie": "striaticeps",
+  "subespecie": "",
+  "nombre_cientifico": "Drymophila striaticeps",
+  "nombre_ingles": "Streak-headed Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Risaralda: Fizebar, Retiro (near Medellín)",
+  "lat": 6.0667,
+  "lon": null,
+  "altura": 2300.0,
+  "fecha": "1994-06-13",
+  "hora": "?",
+  "calidad_xc": "A",
+  "tipo_canto": "song, song after playback",
+  "duracion": "0:30",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Niels Krabbe",
+  "comentarios": "Ref.: NK LXXXA 383-390",
+  "otras_especies": [
+    "Thamnophilus unicolor"
+  ],
+  "url_audio": "https://xeno-canto.org/20167/download",
+  "url_pagina": "https://xeno-canto.org/20167",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

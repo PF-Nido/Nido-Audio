@@ -1,0 +1,33 @@
+{
+  "xc_id": "316497",
+  "genero": "Chamaepetes",
+  "especie": "goudotii",
+  "subespecie": "goudotii",
+  "nombre_cientifico": "Chamaepetes goudotii",
+  "nombre_ingles": "Sickle-winged Guan",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RNA El Colibrí del Sol, Páramo de Frontino, Antioquia",
+  "lat": 6.4381,
+  "lon": null,
+  "altura": 3500.0,
+  "fecha": "2016-04-16",
+  "hora": "07:00",
+  "calidad_xc": "A",
+  "tipo_canto": "alarm call",
+  "duracion": "1:54",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Guy Kirwan",
+  "comentarios": "",
+  "otras_especies": [
+    "Nothocercus julius"
+  ],
+  "url_audio": "https://xeno-canto.org/316497/download",
+  "url_pagina": "https://xeno-canto.org/316497",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

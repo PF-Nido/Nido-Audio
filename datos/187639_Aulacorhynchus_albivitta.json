@@ -1,0 +1,33 @@
+{
+  "xc_id": "187639",
+  "genero": "Aulacorhynchus",
+  "especie": "albivitta",
+  "subespecie": "griseigularis",
+  "nombre_cientifico": "Aulacorhynchus albivitta",
+  "nombre_ingles": "White-throated Toucanet",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva La Romera, Sabaneta, Antioquia",
+  "lat": 6.1298,
+  "lon": null,
+  "altura": 1900.0,
+  "fecha": "2014-07-13",
+  "hora": "08:38",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:50",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Danny Zapata-Henao",
+  "comentarios": "",
+  "otras_especies": [
+    "Vireo leucophrys"
+  ],
+  "url_audio": "https://xeno-canto.org/187639/download",
+  "url_pagina": "https://xeno-canto.org/187639",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "315897",
+  "genero": "Thripadectes",
+  "especie": "ignobilis",
+  "subespecie": "",
+  "nombre_cientifico": "Thripadectes ignobilis",
+  "nombre_ingles": "Uniform Treehunter",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Montezuma Peak Road, Pueblo Rico, Risaralda, W Andes - Tatama National Park",
+  "lat": 5.2431,
+  "lon": null,
+  "altura": 1600.0,
+  "fecha": "2016-04-11",
+  "hora": "05:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:47",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Guy Kirwan",
+  "comentarios": "Natural song, but lot of background river noise.",
+  "otras_especies": [
+    "Megascops ingens"
+  ],
+  "url_audio": "https://xeno-canto.org/315897/download",
+  "url_pagina": "https://xeno-canto.org/315897",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

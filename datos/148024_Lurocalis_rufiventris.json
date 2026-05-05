@@ -1,0 +1,33 @@
+{
+  "xc_id": "148024",
+  "genero": "Lurocalis",
+  "especie": "rufiventris",
+  "subespecie": "",
+  "nombre_cientifico": "Lurocalis rufiventris",
+  "nombre_ingles": "Rufous-bellied Nighthawk",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Huila, San Agustín, Reserva Los Yalcones, Cerca a la casa de la Reserva",
+  "lat": 1.81,
+  "lon": null,
+  "altura": 2500.0,
+  "fecha": "2004-08-18",
+  "hora": "6:19:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:40",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Diego Calderón (Colección de Sonidos Ambientales - Instituto Humboldt)",
+  "comentarios": "IAvH-CSA 16669\n\nTo obtain a wav file of the original recording, please contact csa@humboldt.org.co",
+  "otras_especies": [
+    "Myiothlypis coronata"
+  ],
+  "url_audio": "https://xeno-canto.org/148024/download",
+  "url_pagina": "https://xeno-canto.org/148024",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

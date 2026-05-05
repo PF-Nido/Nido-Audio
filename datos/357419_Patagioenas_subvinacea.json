@@ -1,0 +1,33 @@
+{
+  "xc_id": "357419",
+  "genero": "Patagioenas",
+  "especie": "subvinacea",
+  "subespecie": "ogilviegranti",
+  "nombre_cientifico": "Patagioenas subvinacea",
+  "nombre_ingles": "Ruddy Pigeon",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Inírida, Guainía",
+  "lat": 3.9497,
+  "lon": null,
+  "altura": 90.0,
+  "fecha": "2017-02-14",
+  "hora": "09:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "1:06",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Guy Kirwan",
+  "comentarios": "",
+  "otras_especies": [
+    "Campylorhynchus turdinus"
+  ],
+  "url_audio": "https://xeno-canto.org/357419/download",
+  "url_pagina": "https://xeno-canto.org/357419",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

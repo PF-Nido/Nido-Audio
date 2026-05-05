@@ -1,0 +1,33 @@
+{
+  "xc_id": "771662",
+  "genero": "Pulsatrix",
+  "especie": "perspicillata",
+  "subespecie": "",
+  "nombre_cientifico": "Pulsatrix perspicillata",
+  "nombre_ingles": "Spectacled Owl",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RN Planalto",
+  "lat": 4.9932,
+  "lon": null,
+  "altura": 1300.0,
+  "fecha": "2022-12-27",
+  "hora": "11:00",
+  "calidad_xc": "B",
+  "tipo_canto": "alarm call, call",
+  "duracion": "0:13",
+  "sexo": "uncertain",
+  "etapa_vida": "juvenile",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andrés Mauricio López",
+  "comentarios": "",
+  "otras_especies": [
+    "Coereba flaveola"
+  ],
+  "url_audio": "https://xeno-canto.org/771662/download",
+  "url_pagina": "https://xeno-canto.org/771662",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

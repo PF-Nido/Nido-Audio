@@ -1,0 +1,33 @@
+{
+  "xc_id": "456651",
+  "genero": "Coragyps",
+  "especie": "atratus",
+  "subespecie": "",
+  "nombre_cientifico": "Coragyps atratus",
+  "nombre_ingles": "Black Vulture",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "PRN Barbas-Bremen // Circuito Turistico Sur Oriente, Pereira, Risaralda",
+  "lat": 4.7175,
+  "lon": null,
+  "altura": 2000.0,
+  "fecha": "2019-02-12",
+  "hora": "12:00",
+  "calidad_xc": "B",
+  "tipo_canto": "non-vocal",
+  "duracion": "0:46",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "David Monroy Rengifo",
+  "comentarios": "",
+  "otras_especies": [
+    "Zonotrichia capensis"
+  ],
+  "url_audio": "https://xeno-canto.org/456651/download",
+  "url_pagina": "https://xeno-canto.org/456651",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

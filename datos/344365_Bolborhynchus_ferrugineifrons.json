@@ -1,0 +1,33 @@
+{
+  "xc_id": "344365",
+  "genero": "Bolborhynchus",
+  "especie": "ferrugineifrons",
+  "subespecie": "",
+  "nombre_cientifico": "Bolborhynchus ferrugineifrons",
+  "nombre_ingles": "Rufous-fronted Parakeet",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Nevado del Ruiz",
+  "lat": 4.9334,
+  "lon": null,
+  "altura": 4100.0,
+  "fecha": "2016-08-18",
+  "hora": "08:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:46",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Hotel Tinamu",
+  "comentarios": "Grabado por Juan Pablo Culasso\r\nwww.jpculasso.net\r\n\r\nOpen area near paramo vegetation.",
+  "otras_especies": [
+    "Zonotrichia capensis"
+  ],
+  "url_audio": "https://xeno-canto.org/344365/download",
+  "url_pagina": "https://xeno-canto.org/344365",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

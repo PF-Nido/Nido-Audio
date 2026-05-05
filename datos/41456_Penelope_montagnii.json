@@ -1,0 +1,33 @@
+{
+  "xc_id": "41456",
+  "genero": "Penelope",
+  "especie": "montagnii",
+  "subespecie": "",
+  "nombre_cientifico": "Penelope montagnii",
+  "nombre_ingles": "Andean Guan",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Aurora Alta_Bogota",
+  "lat": null,
+  "lon": null,
+  "altura": 2500.0,
+  "fecha": "2008-12-20",
+  "hora": "08:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:52",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oswaldo Cortes",
+  "comentarios": "",
+  "otras_especies": [
+    "Diglossa caerulescens"
+  ],
+  "url_audio": "https://xeno-canto.org/41456/download",
+  "url_pagina": "https://xeno-canto.org/41456",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

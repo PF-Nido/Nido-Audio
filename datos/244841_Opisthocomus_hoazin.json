@@ -1,0 +1,33 @@
+{
+  "xc_id": "244841",
+  "genero": "Opisthocomus",
+  "especie": "hoazin",
+  "subespecie": "",
+  "nombre_cientifico": "Opisthocomus hoazin",
+  "nombre_ingles": "Hoatzin",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Finca La Bretaña, Vereda Guaracuara, San Luis de Palenque, Casanare",
+  "lat": 5.145,
+  "lon": null,
+  "altura": 190.0,
+  "fecha": "2012-07-06",
+  "hora": "17:40",
+  "calidad_xc": "A",
+  "tipo_canto": "call, song",
+  "duracion": "1:08",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marín Gómez &amp; Juan Pablo López",
+  "comentarios": "Grupo de alrededor de 10 individuos en caño.Reference:OHMJPLB_A_250",
+  "otras_especies": [
+    "Syrigma sibilatrix"
+  ],
+  "url_audio": "https://xeno-canto.org/244841/download",
+  "url_pagina": "https://xeno-canto.org/244841",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "241347",
+  "genero": "Ramphastos",
+  "especie": "brevis",
+  "subespecie": "",
+  "nombre_cientifico": "Ramphastos brevis",
+  "nombre_ingles": "Choco Toucan",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Natural río Ñambí, Vereda el Barro, Altaquer, Barbacoas, Nariño.",
+  "lat": 1.3001,
+  "lon": null,
+  "altura": 1150.0,
+  "fecha": "2014-01-27",
+  "hora": "08:36",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:47",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marín Gómez",
+  "comentarios": "Distance: 30 m to mic. ID accurancy: 100%. Habitat: Canopy of low montane rain forest border. Code: NAMBI _1475.  TASCAM DR 100 MKII with Sennheiser ME 66.",
+  "otras_especies": [
+    "Henicorhina leucosticta"
+  ],
+  "url_audio": "https://xeno-canto.org/241347/download",
+  "url_pagina": "https://xeno-canto.org/241347",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

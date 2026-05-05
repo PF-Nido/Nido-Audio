@@ -1,0 +1,33 @@
+{
+  "xc_id": "323500",
+  "genero": "Colibri",
+  "especie": "delphinae",
+  "subespecie": "delphinae",
+  "nombre_cientifico": "Colibri delphinae",
+  "nombre_ingles": "Brown Violetear",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "El Dorado Lodge, Santa Marta, Magdalena",
+  "lat": 11.1006,
+  "lon": null,
+  "altura": 1900.0,
+  "fecha": "2016-04-03",
+  "hora": "15:00",
+  "calidad_xc": "A",
+  "tipo_canto": "call",
+  "duracion": "1:21",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Guy Kirwan",
+  "comentarios": "",
+  "otras_especies": [
+    "Thalurania colombica"
+  ],
+  "url_audio": "https://xeno-canto.org/323500/download",
+  "url_pagina": "https://xeno-canto.org/323500",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

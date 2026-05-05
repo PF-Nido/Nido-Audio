@@ -1,0 +1,33 @@
+{
+  "xc_id": "358168",
+  "genero": "Campephilus",
+  "especie": "rubricollis",
+  "subespecie": "rubricollis",
+  "nombre_cientifico": "Campephilus rubricollis",
+  "nombre_ingles": "Red-necked Woodpecker",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Cano Vitina, Inirida, Guainia",
+  "lat": 3.8196,
+  "lon": null,
+  "altura": 110.0,
+  "fecha": "2017-02-16",
+  "hora": "07:30",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:27",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Guy Kirwan",
+  "comentarios": "",
+  "otras_especies": [
+    "Attila citriniventris"
+  ],
+  "url_audio": "https://xeno-canto.org/358168/download",
+  "url_pagina": "https://xeno-canto.org/358168",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

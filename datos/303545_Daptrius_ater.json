@@ -1,0 +1,33 @@
+{
+  "xc_id": "303545",
+  "genero": "Daptrius",
+  "especie": "ater",
+  "subespecie": "",
+  "nombre_cientifico": "Daptrius ater",
+  "nombre_ingles": "Black Caracara",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Vereda La Esperanza, Puerto Leguízamo, Putumayo",
+  "lat": -0.1919,
+  "lon": null,
+  "altura": 190.0,
+  "fecha": "2016-02-03",
+  "hora": "08:30",
+  "calidad_xc": "A",
+  "tipo_canto": "call",
+  "duracion": "1:23",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Ottavio Janni",
+  "comentarios": "Several birds calling from Mauritia palm swamp and adjacent pasture with isolated tall trees",
+  "otras_especies": [
+    "Crypturellus undulatus"
+  ],
+  "url_audio": "https://xeno-canto.org/303545/download",
+  "url_pagina": "https://xeno-canto.org/303545",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

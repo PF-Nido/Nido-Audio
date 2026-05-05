@@ -1,0 +1,33 @@
+{
+  "xc_id": "245506",
+  "genero": "Ramphastos",
+  "especie": "tucanus",
+  "subespecie": "",
+  "nombre_cientifico": "Ramphastos tucanus",
+  "nombre_ingles": "White-throated Toucan",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Comunidad Mapoy, Tame, Arauca",
+  "lat": 6.28,
+  "lon": null,
+  "altura": 198.0,
+  "fecha": "2015-04-03",
+  "hora": "17:25",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "2:11",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marín Gómez",
+  "comentarios": "One bird perched in a low tree. ID accurancy: 100%. Habitat: Pasture with dispersed trees. Distance to mic: 10 m. Tascam DR-100MKII, Sennheiser ME66. Reference: 150403_2310",
+  "otras_especies": [
+    "Pitangus sulphuratus"
+  ],
+  "url_audio": "https://xeno-canto.org/245506/download",
+  "url_pagina": "https://xeno-canto.org/245506",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

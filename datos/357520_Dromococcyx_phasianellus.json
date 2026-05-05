@@ -1,0 +1,33 @@
+{
+  "xc_id": "357520",
+  "genero": "Dromococcyx",
+  "especie": "phasianellus",
+  "subespecie": "",
+  "nombre_cientifico": "Dromococcyx phasianellus",
+  "nombre_ingles": "Pheasant Cuckoo",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Mana Dulce, Tolima",
+  "lat": 4.351,
+  "lon": null,
+  "altura": 380.0,
+  "fecha": "2017-02-20",
+  "hora": "12:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:03",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Alejandro Pinto-Gómez",
+  "comentarios": "",
+  "otras_especies": [
+    "Chiroxiphia lanceolata"
+  ],
+  "url_audio": "https://xeno-canto.org/357520/download",
+  "url_pagina": "https://xeno-canto.org/357520",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

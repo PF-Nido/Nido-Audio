@@ -1,0 +1,33 @@
+{
+  "xc_id": "241264",
+  "genero": "Doryfera",
+  "especie": "ludovicae",
+  "subespecie": "ludovicae",
+  "nombre_cientifico": "Doryfera ludovicae",
+  "nombre_ingles": "Green-fronted Lancebill",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Natural río Ñambí, Vereda el Barro, Altaquer, Barbacoas, Nariño.",
+  "lat": 1.3001,
+  "lon": null,
+  "altura": 1300.0,
+  "fecha": "2014-01-24",
+  "hora": "09:30",
+  "calidad_xc": "B",
+  "tipo_canto": "flight call",
+  "duracion": "0:20",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marín Gómez",
+  "comentarios": "One bird feeding in Ericaceae flowers. Distance: 20 m to mic. ID accurancy: 100%. Habitat: Low montane rain forest. Code: NAMBI _1385.  TASCAM DR 100 MKII with Sennheiser ME 66.",
+  "otras_especies": [
+    "Arremon castaneiceps"
+  ],
+  "url_audio": "https://xeno-canto.org/241264/download",
+  "url_pagina": "https://xeno-canto.org/241264",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

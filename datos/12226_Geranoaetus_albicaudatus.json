@@ -1,0 +1,33 @@
+{
+  "xc_id": "12226",
+  "genero": "Geranoaetus",
+  "especie": "albicaudatus",
+  "subespecie": "",
+  "nombre_cientifico": "Geranoaetus albicaudatus",
+  "nombre_ingles": "White-tailed Hawk",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "La Playa de Belen, ANUC Los Estoraques, Sector Piritama, Norte de Santander",
+  "lat": 8.2167,
+  "lon": null,
+  "altura": 1450.0,
+  "fecha": "2005-06-24",
+  "hora": "8:26",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:49",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Laverde",
+  "comentarios": "Individuo fase clara adulto, solitario. Moviendose a otra percha a aunos 50 m.",
+  "otras_especies": [
+    "Elaenia chiriquensis"
+  ],
+  "url_audio": "https://xeno-canto.org/12226/download",
+  "url_pagina": "https://xeno-canto.org/12226",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

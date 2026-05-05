@@ -1,0 +1,33 @@
+{
+  "xc_id": "320232",
+  "genero": "Mesembrinibis",
+  "especie": "cayennensis",
+  "subespecie": "",
+  "nombre_cientifico": "Mesembrinibis cayennensis",
+  "nombre_ingles": "Green Ibis",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Santa María, Boyacá",
+  "lat": 4.848,
+  "lon": null,
+  "altura": 800.0,
+  "fecha": "2016-05-15",
+  "hora": "06:30",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:29",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "David Ricardo Rodríguez Villamil",
+  "comentarios": "",
+  "otras_especies": [
+    "Thryophilus rufalbus"
+  ],
+  "url_audio": "https://xeno-canto.org/320232/download",
+  "url_pagina": "https://xeno-canto.org/320232",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

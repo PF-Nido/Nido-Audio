@@ -1,0 +1,33 @@
+{
+  "xc_id": "127251",
+  "genero": "Myrmotherula",
+  "especie": "cherriei",
+  "subespecie": "",
+  "nombre_cientifico": "Myrmotherula cherriei",
+  "nombre_ingles": "Cherrie's Antwren",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Mitu, Vaupes",
+  "lat": 1.2598,
+  "lon": null,
+  "altura": 170.0,
+  "fecha": "2012-01-07",
+  "hora": "07:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:27",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Ottavio Janni",
+  "comentarios": "",
+  "otras_especies": [
+    "Attila citriniventris"
+  ],
+  "url_audio": "https://xeno-canto.org/127251/download",
+  "url_pagina": "https://xeno-canto.org/127251",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

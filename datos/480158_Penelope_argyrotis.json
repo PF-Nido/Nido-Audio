@@ -1,0 +1,33 @@
+{
+  "xc_id": "480158",
+  "genero": "Penelope",
+  "especie": "argyrotis",
+  "subespecie": "",
+  "nombre_cientifico": "Penelope argyrotis",
+  "nombre_ingles": "Band-tailed Guan",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Magdalena: San Lorenzo ridge, Sierra Nevada de Santa Marta",
+  "lat": 11.1009,
+  "lon": null,
+  "altura": 2700.0,
+  "fecha": "2019-06-03",
+  "hora": "07:25",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:38",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Rolf A. de By",
+  "comentarios": "Soft contact calls of a single bird while feeding, some 20m away from me at eye level.",
+  "otras_especies": [
+    "Zentrygon linearis"
+  ],
+  "url_audio": "https://xeno-canto.org/480158/download",
+  "url_pagina": "https://xeno-canto.org/480158",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

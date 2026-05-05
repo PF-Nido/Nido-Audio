@@ -1,0 +1,33 @@
+{
+  "xc_id": "814198",
+  "genero": "Colaptes",
+  "especie": "rivolii",
+  "subespecie": "",
+  "nombre_cientifico": "Colaptes rivolii",
+  "nombre_ingles": "Crimson-mantled Woodpecker",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Finca Cortaderal, Santa Rosa de Cabal, Risaralda",
+  "lat": 4.8597,
+  "lon": null,
+  "altura": 3100.0,
+  "fecha": "2023-07-02",
+  "hora": "09:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:43",
+  "sexo": "uncertain",
+  "etapa_vida": "uncertain",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "David Monroy Rengifo",
+  "comentarios": "",
+  "otras_especies": [
+    "Scytalopus latrans"
+  ],
+  "url_audio": "https://xeno-canto.org/814198/download",
+  "url_pagina": "https://xeno-canto.org/814198",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

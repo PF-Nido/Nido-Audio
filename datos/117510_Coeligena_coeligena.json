@@ -1,0 +1,33 @@
+{
+  "xc_id": "117510",
+  "genero": "Coeligena",
+  "especie": "coeligena",
+  "subespecie": "",
+  "nombre_cientifico": "Coeligena coeligena",
+  "nombre_ingles": "Bronzy Inca",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Hacienda Termópilas, El Laurel, Neira, Caldas",
+  "lat": 5.230834,
+  "lon": null,
+  "altura": 2250.0,
+  "fecha": "2002-02-25",
+  "hora": "07:14:59",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:44",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Sergio Córdoba Córdoba (Colección de Sonidos Ambientales - Instituto Humboldt)",
+  "comentarios": "IAvH-CSA 8018\n\nTo obtain a wav file of the original recording, please contact csa@humboldt.org.co",
+  "otras_especies": [
+    "Henicorhina leucophrys"
+  ],
+  "url_audio": "https://xeno-canto.org/117510/download",
+  "url_pagina": "https://xeno-canto.org/117510",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

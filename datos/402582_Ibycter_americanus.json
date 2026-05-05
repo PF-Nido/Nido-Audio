@@ -1,0 +1,33 @@
+{
+  "xc_id": "402582",
+  "genero": "Ibycter",
+  "especie": "americanus",
+  "subespecie": "",
+  "nombre_cientifico": "Ibycter americanus",
+  "nombre_ingles": "Red-throated Caracara",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Carepa, Antioquia-Finca la Alborada",
+  "lat": 7.838,
+  "lon": null,
+  "altura": 850.0,
+  "fecha": "2018-02-07",
+  "hora": "15:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:36",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Diego Calderon-F.",
+  "comentarios": "",
+  "otras_especies": [
+    "Legatus leucophaius"
+  ],
+  "url_audio": "https://xeno-canto.org/402582/download",
+  "url_pagina": "https://xeno-canto.org/402582",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

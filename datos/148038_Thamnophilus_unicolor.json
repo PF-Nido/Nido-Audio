@@ -1,0 +1,33 @@
+{
+  "xc_id": "148038",
+  "genero": "Thamnophilus",
+  "especie": "unicolor",
+  "subespecie": "",
+  "nombre_cientifico": "Thamnophilus unicolor",
+  "nombre_ingles": "Uniform Antshrike",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Huila, San Agustín, Reserva Los Yalcones, Cerca a la casa de la Reserva",
+  "lat": 1.81,
+  "lon": null,
+  "altura": 2500.0,
+  "fecha": "2005-08-18",
+  "hora": "7:15:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "2:40",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Diego Calderón (Colección de Sonidos Ambientales - Instituto Humboldt)",
+  "comentarios": "IAvH-CSA 16686\n\nTo obtain a wav file of the original recording, please contact csa@humboldt.org.co",
+  "otras_especies": [
+    "Grallaria ruficapilla"
+  ],
+  "url_audio": "https://xeno-canto.org/148038/download",
+  "url_pagina": "https://xeno-canto.org/148038",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

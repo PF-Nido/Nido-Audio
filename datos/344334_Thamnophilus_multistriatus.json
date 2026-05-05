@@ -1,0 +1,33 @@
+{
+  "xc_id": "344334",
+  "genero": "Thamnophilus",
+  "especie": "multistriatus",
+  "subespecie": "",
+  "nombre_cientifico": "Thamnophilus multistriatus",
+  "nombre_ingles": "Bar-crested Antshrike",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Hotel Tinamú Birding Nature Reserve",
+  "lat": 5.0791,
+  "lon": null,
+  "altura": 1000.0,
+  "fecha": "2016-08-20",
+  "hora": "07:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:39",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Hotel Tinamu",
+  "comentarios": "Grabado por Juan Pablo Culasso \r\nwww.jpculasso.net\r\n\r\nSubcanopy secondary forest.",
+  "otras_especies": [
+    "Cercomacra nigricans"
+  ],
+  "url_audio": "https://xeno-canto.org/344334/download",
+  "url_pagina": "https://xeno-canto.org/344334",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

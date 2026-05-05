@@ -1,0 +1,33 @@
+{
+  "xc_id": "130352",
+  "genero": "Metallura",
+  "especie": "tyrianthina",
+  "subespecie": "",
+  "nombre_cientifico": "Metallura tyrianthina",
+  "nombre_ingles": "Tyrian Metaltail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Finca el Vergel, Vereda Toche, limite entre Cajamarca y Salento  entre Quindio y Tolima",
+  "lat": 4.6432,
+  "lon": null,
+  "altura": 3600.0,
+  "fecha": "2008-05-04",
+  "hora": "06:10",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:01",
+  "sexo": "male",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marin-Gomez",
+  "comentarios": "Ref OHM025A  2929. Un macho forrajeando en arbusto de Melastomataceae en potrero. 20m del Mic. Vocalización Natural. Camino hacia la Primavera. Grabaciones realizadas en compañía  de Diego Duque Montoya.",
+  "otras_especies": [
+    "Myioborus ornatus"
+  ],
+  "url_audio": "https://xeno-canto.org/130352/download",
+  "url_pagina": "https://xeno-canto.org/130352",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

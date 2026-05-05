@@ -1,0 +1,33 @@
+{
+  "xc_id": "528208",
+  "genero": "Leptotila",
+  "especie": "conoveri",
+  "subespecie": "",
+  "nombre_cientifico": "Leptotila conoveri",
+  "nombre_ingles": "Tolima Dove",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Ukuku Rural Lodge,  Juntas, Ibague, Tolima, Colombia @ (4.5585,-75.3275)",
+  "lat": 4.5585,
+  "lon": null,
+  "altura": 1900.0,
+  "fecha": "2020-02-16",
+  "hora": "08:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:33",
+  "sexo": "female, male",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Jerome Fischer",
+  "comentarios": "song of a pair, one ind. same as  XC528207",
+  "otras_especies": [
+    "Colibri cyanotus"
+  ],
+  "url_audio": "https://xeno-canto.org/528208/download",
+  "url_pagina": "https://xeno-canto.org/528208",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

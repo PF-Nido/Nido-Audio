@@ -1,0 +1,33 @@
+{
+  "xc_id": "402585",
+  "genero": "Phaenostictus",
+  "especie": "mcleannani",
+  "subespecie": "",
+  "nombre_cientifico": "Phaenostictus mcleannani",
+  "nombre_ingles": "Ocellated Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Carepa, Antioquia-Finca la Alborada",
+  "lat": 7.838,
+  "lon": null,
+  "altura": 850.0,
+  "fecha": "2018-02-08",
+  "hora": "09:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:18",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Diego Calderon-F.",
+  "comentarios": "",
+  "otras_especies": [
+    "Phaenostictus mcleannani"
+  ],
+  "url_audio": "https://xeno-canto.org/402585/download",
+  "url_pagina": "https://xeno-canto.org/402585",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "388929",
+  "genero": "Synallaxis",
+  "especie": "azarae",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis azarae",
+  "nombre_ingles": "Azara's Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "San Andrés de Cuerquía, Antioquia",
+  "lat": 6.8883,
+  "lon": null,
+  "altura": 2600.0,
+  "fecha": "2016-04-19",
+  "hora": "16:00",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:18",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andres Angulo ",
+  "comentarios": "One pair was seen and heard on forest edge of montane forest undergrown.  Recording distance was 15 meters. The cut was amplified (4 db).",
+  "otras_especies": [
+    "Henicorhina leucophrys"
+  ],
+  "url_audio": "https://xeno-canto.org/388929/download",
+  "url_pagina": "https://xeno-canto.org/388929",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

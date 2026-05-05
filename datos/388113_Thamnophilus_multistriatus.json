@@ -1,0 +1,33 @@
+{
+  "xc_id": "388113",
+  "genero": "Thamnophilus",
+  "especie": "multistriatus",
+  "subespecie": "",
+  "nombre_cientifico": "Thamnophilus multistriatus",
+  "nombre_ingles": "Bar-crested Antshrike",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Queremal, Valle del Cauca",
+  "lat": 3.5284,
+  "lon": null,
+  "altura": 1400.0,
+  "fecha": "2017-09-18",
+  "hora": "08:56",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "1:55",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Rolf A. de By",
+  "comentarios": "Bird in top of tree, with little movement.  A. 20 m distance.  I do not where ssp *selvae* occurs; this bird is either that ssp or *brachyurus*, if I use location.",
+  "otras_especies": [
+    "Patagioenas plumbea"
+  ],
+  "url_audio": "https://xeno-canto.org/388113/download",
+  "url_pagina": "https://xeno-canto.org/388113",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

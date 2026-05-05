@@ -1,0 +1,33 @@
+{
+  "xc_id": "43554",
+  "genero": "Colibri",
+  "especie": "cyanotus",
+  "subespecie": "",
+  "nombre_cientifico": "Colibri cyanotus",
+  "nombre_ingles": "Lesser Violetear",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RNA El Dorado, Sierra de Santa Marta, Magdalena",
+  "lat": 11.1009,
+  "lon": null,
+  "altura": 1800.0,
+  "fecha": "2009-01-00",
+  "hora": "xx:xx",
+  "calidad_xc": "B",
+  "tipo_canto": "call, flight / feeding calls",
+  "duracion": "0:44",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Myornis",
+  "comentarios": "",
+  "otras_especies": [
+    "Zonotrichia capensis"
+  ],
+  "url_audio": "https://xeno-canto.org/43554/download",
+  "url_pagina": "https://xeno-canto.org/43554",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

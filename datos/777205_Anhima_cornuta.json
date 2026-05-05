@@ -1,0 +1,33 @@
+{
+  "xc_id": "777205",
+  "genero": "Anhima",
+  "especie": "cornuta",
+  "subespecie": "",
+  "nombre_cientifico": "Anhima cornuta",
+  "nombre_ingles": "Horned Screamer",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Patevaca, Finca Pastora, Arauca",
+  "lat": 6.8046,
+  "lon": null,
+  "altura": 130.0,
+  "fecha": "2022-11-06",
+  "hora": "07:10",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:37",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Frank Lambert",
+  "comentarios": "",
+  "otras_especies": [
+    "Opisthocomus hoazin"
+  ],
+  "url_audio": "https://xeno-canto.org/777205/download",
+  "url_pagina": "https://xeno-canto.org/777205",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

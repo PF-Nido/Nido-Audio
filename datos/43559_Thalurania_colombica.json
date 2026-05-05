@@ -1,0 +1,33 @@
+{
+  "xc_id": "43559",
+  "genero": "Thalurania",
+  "especie": "colombica",
+  "subespecie": "",
+  "nombre_cientifico": "Thalurania colombica",
+  "nombre_ingles": "Crowned Woodnymph",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RNA El Dorado, Sierra de Santa Marta, Magdalena",
+  "lat": 11.1009,
+  "lon": null,
+  "altura": 1800.0,
+  "fecha": "2009-01-00",
+  "hora": "xx:xx",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:03",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Myornis",
+  "comentarios": "Individual perched making this call repeatedly",
+  "otras_especies": [
+    "Zonotrichia capensis"
+  ],
+  "url_audio": "https://xeno-canto.org/43559/download",
+  "url_pagina": "https://xeno-canto.org/43559",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

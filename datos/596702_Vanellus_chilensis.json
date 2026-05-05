@@ -1,0 +1,33 @@
+{
+  "xc_id": "596702",
+  "genero": "Vanellus",
+  "especie": "chilensis",
+  "subespecie": "chilensis",
+  "nombre_cientifico": "Vanellus chilensis",
+  "nombre_ingles": "Southern Lapwing",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Parque metropolitano Simón Bolívar, Bogotá, Cundinamarca",
+  "lat": 4.6566,
+  "lon": null,
+  "altura": 2600.0,
+  "fecha": "2020-10-17",
+  "hora": "09:30",
+  "calidad_xc": "A",
+  "tipo_canto": "alarm call, flight call",
+  "duracion": "0:16",
+  "sexo": "uncertain",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Erick Nicolás Patiño Acosta",
+  "comentarios": "**Behavior:** The bird landed and immediately flew off away and vocalized due the presence of the recordist.\r\n\r\n**Weather:** 80% cloudy. Cold\r\n\r\n**Recording distance:** 2 meters.\r\n\r\n**Habitat:**  Grass. Lake shore\r\n\r\n**Equipment:**\r\n\r\n**Recorder:** TASCAM DR-40\r\n\r\n**Microphone:** Audio-Technica AT875R\r\n\r\n**Accessories:** Rycote 15cm Classic-Softie windshield, K-Tek KE89CC Boompole\r\n\r\nCopy (.wav) on Macaulay library: ML 273023471",
+  "otras_especies": [
+    "Turdus fuscater"
+  ],
+  "url_audio": "https://xeno-canto.org/596702/download",
+  "url_pagina": "https://xeno-canto.org/596702",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

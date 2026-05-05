@@ -1,0 +1,33 @@
+{
+  "xc_id": "286824",
+  "genero": "Megascops",
+  "especie": "choliba",
+  "subespecie": "",
+  "nombre_cientifico": "Megascops choliba",
+  "nombre_ingles": "Tropical Screech Owl",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Cortijo de San José, Sabaneta, Antioquia",
+  "lat": 6.1411,
+  "lon": null,
+  "altura": 1700.0,
+  "fecha": "2015-10-22",
+  "hora": "18:05",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:13",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Danny Zapata-Henao",
+  "comentarios": "A creek surrounded by Zingiberales (like Heliconias) and some medium-height trees, including legumes (Fabales), trumpet trees (*Cecropia peltata)* and some others. \r\nTropical Screech-Owl (*Megascops choliba)* can be listened in the background too.",
+  "otras_especies": [
+    "Megascops choliba"
+  ],
+  "url_audio": "https://xeno-canto.org/286824/download",
+  "url_pagina": "https://xeno-canto.org/286824",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

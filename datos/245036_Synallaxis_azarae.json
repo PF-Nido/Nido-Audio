@@ -1,0 +1,33 @@
+{
+  "xc_id": "245036",
+  "genero": "Synallaxis",
+  "especie": "azarae",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis azarae",
+  "nombre_ingles": "Azara's Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Antioquia, Municipio de Yarumal, Vereda Corcovado, carretera entre el Alto de Ventanas y el Cedro, Finca Villa Nueva.",
+  "lat": 7.0,
+  "lon": null,
+  "altura": 2100.0,
+  "fecha": "2013-05-23",
+  "hora": "17:12",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "2:17",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marín Gómez",
+  "comentarios": "En borde de bosque.Reference:OHMYA _0491",
+  "otras_especies": [
+    "Henicorhina leucophrys"
+  ],
+  "url_audio": "https://xeno-canto.org/245036/download",
+  "url_pagina": "https://xeno-canto.org/245036",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "709444",
+  "genero": "Vanellus",
+  "especie": "chilensis",
+  "subespecie": "",
+  "nombre_cientifico": "Vanellus chilensis",
+  "nombre_ingles": "Southern Lapwing",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Rey Zamuro, San Martin, Meta",
+  "lat": 3.5325,
+  "lon": null,
+  "altura": 248.0,
+  "fecha": "2022-03-13",
+  "hora": "15:57",
+  "calidad_xc": "A",
+  "tipo_canto": "alarm call, duet",
+  "duracion": "0:21",
+  "sexo": "female, male",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Alejandro Morales Betancourt",
+  "comentarios": "",
+  "otras_especies": [
+    "Crypturellus undulatus"
+  ],
+  "url_audio": "https://xeno-canto.org/709444/download",
+  "url_pagina": "https://xeno-canto.org/709444",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

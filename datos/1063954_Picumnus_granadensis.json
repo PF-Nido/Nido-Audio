@@ -1,0 +1,33 @@
+{
+  "xc_id": "1063954",
+  "genero": "Picumnus",
+  "especie": "granadensis",
+  "subespecie": "",
+  "nombre_cientifico": "Picumnus granadensis",
+  "nombre_ingles": "Greyish Piculet",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Manizales, Caldas",
+  "lat": 5.0324,
+  "lon": null,
+  "altura": 1300.0,
+  "fecha": "2025-11-19",
+  "hora": "07:00",
+  "calidad_xc": "B",
+  "tipo_canto": "duet",
+  "duracion": "0:40",
+  "sexo": "female, male",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andrés Mauricio López",
+  "comentarios": "",
+  "otras_especies": [
+    "Cercomacroides parkeri"
+  ],
+  "url_audio": "https://xeno-canto.org/1063954/download",
+  "url_pagina": "https://xeno-canto.org/1063954",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

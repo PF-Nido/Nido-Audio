@@ -1,0 +1,33 @@
+{
+  "xc_id": "143840",
+  "genero": "Nothocercus",
+  "especie": "julius",
+  "subespecie": "",
+  "nombre_cientifico": "Nothocercus julius",
+  "nombre_ingles": "Tawny-breasted Tinamou",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "BioAndina Reserve entrance Road, Guasca, Cundinamarca",
+  "lat": 4.8069,
+  "lon": null,
+  "altura": 2800.0,
+  "fecha": "2013-06-14",
+  "hora": "08:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:33",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Diego Calderon-F.",
+  "comentarios": "",
+  "otras_especies": [
+    "Myiothlypis coronata"
+  ],
+  "url_audio": "https://xeno-canto.org/143840/download",
+  "url_pagina": "https://xeno-canto.org/143840",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

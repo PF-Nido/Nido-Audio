@@ -1,0 +1,33 @@
+{
+  "xc_id": "89313",
+  "genero": "Glaucidium",
+  "especie": "nubicola",
+  "subespecie": "",
+  "nombre_cientifico": "Glaucidium nubicola",
+  "nombre_ingles": "Cloud-forest Pygmy Owl",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Pnn Tatama, Municipio de Pueblo Rico",
+  "lat": 5.227,
+  "lon": null,
+  "altura": 1800.0,
+  "fecha": "2010-01-20",
+  "hora": "08:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:10",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oswaldo Cortes",
+  "comentarios": "",
+  "otras_especies": [
+    "Scytalopus alvarezlopezi"
+  ],
+  "url_audio": "https://xeno-canto.org/89313/download",
+  "url_pagina": "https://xeno-canto.org/89313",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

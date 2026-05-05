@@ -1,0 +1,33 @@
+{
+  "xc_id": "245247",
+  "genero": "Eurypyga",
+  "especie": "helias",
+  "subespecie": "",
+  "nombre_cientifico": "Eurypyga helias",
+  "nombre_ingles": "Sunbittern",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Bosque El Algarrobo, Vereda San Pedro, Tamara, Casanare",
+  "lat": 5.76,
+  "lon": null,
+  "altura": 560.0,
+  "fecha": "2015-03-22",
+  "hora": "09:40",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:06",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marín Gómez",
+  "comentarios": "ID accurancy: 50%. Habitat: Bosque secundario al lado de caño. Distance to mic: 30 m. Tascam DR-100MKII, internal mic. Reference: 150321_2117B",
+  "otras_especies": [
+    "Ortalis guttata"
+  ],
+  "url_audio": "https://xeno-canto.org/245247/download",
+  "url_pagina": "https://xeno-canto.org/245247",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

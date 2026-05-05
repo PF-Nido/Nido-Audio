@@ -1,0 +1,33 @@
+{
+  "xc_id": "94087",
+  "genero": "Premnornis",
+  "especie": "guttuliger",
+  "subespecie": "",
+  "nombre_cientifico": "Premnornis guttuliger",
+  "nombre_ingles": "Rusty-winged Barbtail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "FARALLON DE MEDINA",
+  "lat": 4.5834,
+  "lon": null,
+  "altura": 2100.0,
+  "fecha": "2007-04-05",
+  "hora": "08:21",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:14",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oswaldo Cortes",
+  "comentarios": "",
+  "otras_especies": [
+    "Grallaria kaestneri"
+  ],
+  "url_audio": "https://xeno-canto.org/94087/download",
+  "url_pagina": "https://xeno-canto.org/94087",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "483598",
+  "genero": "Rallus",
+  "especie": "semiplumbeus",
+  "subespecie": "",
+  "nombre_cientifico": "Rallus semiplumbeus",
+  "nombre_ingles": "Bogota Rail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Parque La Florida, Bogota",
+  "lat": 4.7297,
+  "lon": null,
+  "altura": 3630.0,
+  "fecha": "2019-05-04",
+  "hora": "07:15",
+  "calidad_xc": "A",
+  "tipo_canto": "song, moviliario, pasos, voces de personas",
+  "duracion": "2:06",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Dodo Colombia",
+  "comentarios": "Zona de humedal. Adulto y su juvenil",
+  "otras_especies": [
+    "Chrysomus icterocephalus"
+  ],
+  "url_audio": "https://xeno-canto.org/483598/download",
+  "url_pagina": "https://xeno-canto.org/483598",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

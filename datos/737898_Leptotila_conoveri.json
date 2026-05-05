@@ -1,0 +1,33 @@
+{
+  "xc_id": "737898",
+  "genero": "Leptotila",
+  "especie": "conoveri",
+  "subespecie": "",
+  "nombre_cientifico": "Leptotila conoveri",
+  "nombre_ingles": "Tolima Dove",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Finca Agroturistica Dulima, LLanitos, Ibague, Tolima",
+  "lat": 4.4921,
+  "lon": null,
+  "altura": 1700.0,
+  "fecha": "2021-12-19",
+  "hora": "11:41",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:51",
+  "sexo": "uncertain",
+  "etapa_vida": "uncertain",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Yair Guillermo Molina Martínez.",
+  "comentarios": "",
+  "otras_especies": [
+    "Rhodinocichla rosea"
+  ],
+  "url_audio": "https://xeno-canto.org/737898/download",
+  "url_pagina": "https://xeno-canto.org/737898",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

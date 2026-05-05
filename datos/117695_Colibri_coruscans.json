@@ -1,0 +1,33 @@
+{
+  "xc_id": "117695",
+  "genero": "Colibri",
+  "especie": "coruscans",
+  "subespecie": "",
+  "nombre_cientifico": "Colibri coruscans",
+  "nombre_ingles": "Sparkling Violetear",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva privada Yotoco, Yotoco, Valle del Cauca",
+  "lat": 3.8775,
+  "lon": null,
+  "altura": null,
+  "fecha": "2002-02-13",
+  "hora": "15:24:59",
+  "calidad_xc": "A",
+  "tipo_canto": "call",
+  "duracion": "3:59",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "José Agustín López (Colección de Sonidos Ambientales - Instituto Humboldt)",
+  "comentarios": "IAvH-CSA 11988\n\nTo obtain a wav file of the original recording, please contact csa@humboldt.org.co",
+  "otras_especies": [
+    "Crotophaga ani"
+  ],
+  "url_audio": "https://xeno-canto.org/117695/download",
+  "url_pagina": "https://xeno-canto.org/117695",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

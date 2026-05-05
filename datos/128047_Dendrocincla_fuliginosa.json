@@ -1,0 +1,33 @@
+{
+  "xc_id": "128047",
+  "genero": "Dendrocincla",
+  "especie": "fuliginosa",
+  "subespecie": "",
+  "nombre_cientifico": "Dendrocincla fuliginosa",
+  "nombre_ingles": "Plain-brown Woodcreeper",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Puerto Lopez, Meta",
+  "lat": 4.1809,
+  "lon": null,
+  "altura": 170.0,
+  "fecha": "2013-03-02",
+  "hora": "04:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:28",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oswaldo Cortes",
+  "comentarios": "",
+  "otras_especies": [
+    "Columbina talpacoti"
+  ],
+  "url_audio": "https://xeno-canto.org/128047/download",
+  "url_pagina": "https://xeno-canto.org/128047",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

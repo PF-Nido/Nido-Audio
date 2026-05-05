@@ -1,0 +1,33 @@
+{
+  "xc_id": "117975",
+  "genero": "Crypturellus",
+  "especie": "cinereus",
+  "subespecie": "",
+  "nombre_cientifico": "Crypturellus cinereus",
+  "nombre_ingles": "Cinereous Tinamou",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Biológica El Zafire, Leticia, Amazonas",
+  "lat": -4.005333,
+  "lon": null,
+  "altura": 150.0,
+  "fecha": "2007-12-11",
+  "hora": "?",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:48",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)",
+  "comentarios": "IAvH-CSA 31198\n\nTo obtain a wav file of the original recording, please contact csa@humboldt.org.co",
+  "otras_especies": [
+    "Lipaugus vociferans"
+  ],
+  "url_audio": "https://xeno-canto.org/117975/download",
+  "url_pagina": "https://xeno-canto.org/117975",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

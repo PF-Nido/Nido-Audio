@@ -1,0 +1,33 @@
+{
+  "xc_id": "235661",
+  "genero": "Cranioleuca",
+  "especie": "hellmayri",
+  "subespecie": "",
+  "nombre_cientifico": "Cranioleuca hellmayri",
+  "nombre_ingles": "Streak-capped Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Magdalena: San Lorenzo ridge, Sierra Nevada de Santa Marta",
+  "lat": 11.1009,
+  "lon": null,
+  "altura": 2175.0,
+  "fecha": "2007-02-11",
+  "hora": "07:25",
+  "calidad_xc": "A",
+  "tipo_canto": "call, calls",
+  "duracion": "0:37",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Niels Krabbe",
+  "comentarios": "Humid forest. Krabbe (2008)  cut 4. Tape reference: A 424-432.",
+  "otras_especies": [
+    "Turdus flavipes"
+  ],
+  "url_audio": "https://xeno-canto.org/235661/download",
+  "url_pagina": "https://xeno-canto.org/235661",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

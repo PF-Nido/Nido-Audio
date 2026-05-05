@@ -1,0 +1,33 @@
+{
+  "xc_id": "505576",
+  "genero": "Penelope",
+  "especie": "montagnii",
+  "subespecie": "",
+  "nombre_cientifico": "Penelope montagnii",
+  "nombre_ingles": "Andean Guan",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Tabio, Cundinamarca",
+  "lat": 4.9226,
+  "lon": null,
+  "altura": 2821.18,
+  "fecha": "2019-10-15",
+  "hora": "09:00",
+  "calidad_xc": "A",
+  "tipo_canto": "alarm call, call",
+  "duracion": "1:21",
+  "sexo": "female",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Dennis Castillo-Figueroa",
+  "comentarios": "A female in a nest incubating her eggs was observed in the Colombian highland Andean forest. The female was alarmed and made noisy vocalizations while was moving between nearby branches of Cavendishia bracteata and Miconia squamulosa shrubs in the undergrowth forest. The site presented slopes with a high degree of inclination (> 30).",
+  "otras_especies": [
+    "Dubusia taeniata"
+  ],
+  "url_audio": "https://xeno-canto.org/505576/download",
+  "url_pagina": "https://xeno-canto.org/505576",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "344312",
+  "genero": "Megascops",
+  "especie": "choliba",
+  "subespecie": "",
+  "nombre_cientifico": "Megascops choliba",
+  "nombre_ingles": "Tropical Screech Owl",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Hotel Tinamú Birding Nature Reserve",
+  "lat": 5.0791,
+  "lon": null,
+  "altura": 1000.0,
+  "fecha": "2016-08-21",
+  "hora": "19:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:31",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Hotel Tinamu",
+  "comentarios": "Grabado por Juan Pablo Culasso\r\nwww.jpculasso.net\r\n\r\nSubcanopy secondary forest.",
+  "otras_especies": [
+    "Nyctidromus albicollis"
+  ],
+  "url_audio": "https://xeno-canto.org/344312/download",
+  "url_pagina": "https://xeno-canto.org/344312",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

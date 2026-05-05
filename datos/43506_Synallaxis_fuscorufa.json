@@ -1,0 +1,33 @@
+{
+  "xc_id": "43506",
+  "genero": "Synallaxis",
+  "especie": "fuscorufa",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis fuscorufa",
+  "nombre_ingles": "Rusty-headed Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RNA El Dorado, Sierra de Santa Marta, Magdalena",
+  "lat": 11.1009,
+  "lon": null,
+  "altura": 1800.0,
+  "fecha": "2009-01-00",
+  "hora": "xx:xx",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:38",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Myornis",
+  "comentarios": "",
+  "otras_especies": [
+    "Colibri cyanotus"
+  ],
+  "url_audio": "https://xeno-canto.org/43506/download",
+  "url_pagina": "https://xeno-canto.org/43506",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

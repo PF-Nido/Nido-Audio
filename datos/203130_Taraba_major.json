@@ -1,0 +1,33 @@
+{
+  "xc_id": "203130",
+  "genero": "Taraba",
+  "especie": "major",
+  "subespecie": "",
+  "nombre_cientifico": "Taraba major",
+  "nombre_ingles": "Great Antshrike",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Hotel Tinamú Birding Nature Reserve",
+  "lat": 5.0791,
+  "lon": null,
+  "altura": 1000.0,
+  "fecha": "2014-10-21",
+  "hora": "13:30",
+  "calidad_xc": "B",
+  "tipo_canto": "call, song",
+  "duracion": "0:41",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Jeisson Poveda",
+  "comentarios": "",
+  "otras_especies": [
+    "Pionus menstruus"
+  ],
+  "url_audio": "https://xeno-canto.org/203130/download",
+  "url_pagina": "https://xeno-canto.org/203130",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

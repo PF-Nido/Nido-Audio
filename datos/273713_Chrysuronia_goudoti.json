@@ -1,0 +1,33 @@
+{
+  "xc_id": "273713",
+  "genero": "Chrysuronia",
+  "especie": "goudoti",
+  "subespecie": "",
+  "nombre_cientifico": "Chrysuronia goudoti",
+  "nombre_ingles": "Shining-green Hummingbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Mana Dulce, Cundinamarca",
+  "lat": 4.351,
+  "lon": null,
+  "altura": null,
+  "fecha": "2010-01-05",
+  "hora": "06:40",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:56",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Peter Boesman",
+  "comentarios": "90% ID certainty (or Red-billed Emerald??)",
+  "otras_especies": [
+    "Thamnophilus doliatus"
+  ],
+  "url_audio": "https://xeno-canto.org/273713/download",
+  "url_pagina": "https://xeno-canto.org/273713",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

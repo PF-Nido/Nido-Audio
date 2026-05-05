@@ -1,0 +1,33 @@
+{
+  "xc_id": "291410",
+  "genero": "Systellura",
+  "especie": "longirostris",
+  "subespecie": "",
+  "nombre_cientifico": "Systellura longirostris",
+  "nombre_ingles": "Band-winged Nightjar",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Cogua, Cundinamarca",
+  "lat": 5.1393,
+  "lon": null,
+  "altura": 3070.0,
+  "fecha": "2015-02-28",
+  "hora": "17:45",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "1:05",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Pablo Casallas",
+  "comentarios": "Male singing from the ground in Grassland. Bird at 5 meters",
+  "otras_especies": [
+    "Pheucticus aureoventris"
+  ],
+  "url_audio": "https://xeno-canto.org/291410/download",
+  "url_pagina": "https://xeno-canto.org/291410",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

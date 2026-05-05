@@ -1,0 +1,33 @@
+{
+  "xc_id": "433582",
+  "genero": "Leptotila",
+  "especie": "verreauxi",
+  "subespecie": "",
+  "nombre_cientifico": "Leptotila verreauxi",
+  "nombre_ingles": "White-tipped Dove",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Santa Fé de Antioquia, Antioquia",
+  "lat": 6.5574,
+  "lon": null,
+  "altura": 700.0,
+  "fecha": "2017-06-23",
+  "hora": "17:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:20",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andres Angulo ",
+  "comentarios": "Same individual as XC433580. After 5 minutes.",
+  "otras_especies": [
+    "Tolmomyias sulphurescens"
+  ],
+  "url_audio": "https://xeno-canto.org/433582/download",
+  "url_pagina": "https://xeno-canto.org/433582",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

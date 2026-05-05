@@ -1,0 +1,33 @@
+{
+  "xc_id": "146500",
+  "genero": "Chlorestes",
+  "especie": "julie",
+  "subespecie": "",
+  "nombre_cientifico": "Chlorestes julie",
+  "nombre_ingles": "Violet-bellied Hummingbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Yondó, Antioquia",
+  "lat": 6.7183,
+  "lon": null,
+  "altura": 120.0,
+  "fecha": "2012-12-17",
+  "hora": "?",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:11",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Sergio Chaparro-Herrera",
+  "comentarios": "",
+  "otras_especies": [
+    "Pheugopedius fasciatoventris"
+  ],
+  "url_audio": "https://xeno-canto.org/146500/download",
+  "url_pagina": "https://xeno-canto.org/146500",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "415561",
+  "genero": "Ramphastos",
+  "especie": "vitellinus",
+  "subespecie": "",
+  "nombre_cientifico": "Ramphastos vitellinus",
+  "nombre_ingles": "Channel-billed Toucan",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Bosques de Bavaria, Villavicencio, Meta",
+  "lat": 4.1813,
+  "lon": null,
+  "altura": 650.0,
+  "fecha": "2018-05-09",
+  "hora": "11:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:47",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Diego Cueva",
+  "comentarios": "Two birds. They were singing in the canopy I saw them inly when flu away.",
+  "otras_especies": [
+    "Myrmoborus myotherinus"
+  ],
+  "url_audio": "https://xeno-canto.org/415561/download",
+  "url_pagina": "https://xeno-canto.org/415561",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

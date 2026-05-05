@@ -1,0 +1,33 @@
+{
+  "xc_id": "585315",
+  "genero": "Synallaxis",
+  "especie": "subpudica",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis subpudica",
+  "nombre_ingles": "Silvery-throated Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Bogotá, Cerros orientales, Pico Águila, Senderos NE a SE de Monserrate",
+  "lat": 4.6124,
+  "lon": null,
+  "altura": null,
+  "fecha": "2020-06-21",
+  "hora": "07:07",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:14",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Marcela Morales sánchez",
+  "comentarios": "",
+  "otras_especies": [
+    "Grallaria ruficapilla"
+  ],
+  "url_audio": "https://xeno-canto.org/585315/download",
+  "url_pagina": "https://xeno-canto.org/585315",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

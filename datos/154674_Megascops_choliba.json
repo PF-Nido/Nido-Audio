@@ -1,0 +1,33 @@
+{
+  "xc_id": "154674",
+  "genero": "Megascops",
+  "especie": "choliba",
+  "subespecie": "",
+  "nombre_cientifico": "Megascops choliba",
+  "nombre_ingles": "Tropical Screech Owl",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "PNN Cueva de los Guácharos, Acevedo, Huila",
+  "lat": 1.6169,
+  "lon": null,
+  "altura": 2000.0,
+  "fecha": "2013-11-02",
+  "hora": "20:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "2:07",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oswaldo Cortes",
+  "comentarios": "",
+  "otras_especies": [
+    "Synallaxis brachyura"
+  ],
+  "url_audio": "https://xeno-canto.org/154674/download",
+  "url_pagina": "https://xeno-canto.org/154674",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "1048641",
+  "genero": "Premnoplex",
+  "especie": "brunnescens",
+  "subespecie": "",
+  "nombre_cientifico": "Premnoplex brunnescens",
+  "nombre_ingles": "Spotted Barbtail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "PNN Cueva de Los Guacharos",
+  "lat": 1.6005,
+  "lon": null,
+  "altura": 2100.0,
+  "fecha": "2024-05-11",
+  "hora": "07:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:13",
+  "sexo": "uncertain",
+  "etapa_vida": "uncertain",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Jorge L. Peña",
+  "comentarios": "",
+  "otras_especies": [
+    "Pseudotriccus pelzelni"
+  ],
+  "url_audio": "https://xeno-canto.org/1048641/download",
+  "url_pagina": "https://xeno-canto.org/1048641",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

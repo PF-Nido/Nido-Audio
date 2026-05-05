@@ -1,0 +1,33 @@
+{
+  "xc_id": "244785",
+  "genero": "Momotus",
+  "especie": "aequatorialis",
+  "subespecie": "",
+  "nombre_cientifico": "Momotus aequatorialis",
+  "nombre_ingles": "Andean Motmot",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Bremen-Cuchillas, Vereda Cruces, Filandia, Quindío",
+  "lat": 4.66481,
+  "lon": null,
+  "altura": 1890.0,
+  "fecha": "2009-06-16",
+  "hora": "06:00",
+  "calidad_xc": "A",
+  "tipo_canto": "call",
+  "duracion": "1:28",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marín Gómez &amp; Pedro José Cardona",
+  "comentarios": "PJCC_004_B_1227",
+  "otras_especies": [
+    "Zonotrichia capensis"
+  ],
+  "url_audio": "https://xeno-canto.org/244785/download",
+  "url_pagina": "https://xeno-canto.org/244785",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

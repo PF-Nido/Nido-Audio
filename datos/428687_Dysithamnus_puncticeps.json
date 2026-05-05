@@ -1,0 +1,33 @@
+{
+  "xc_id": "428687",
+  "genero": "Dysithamnus",
+  "especie": "puncticeps",
+  "subespecie": "",
+  "nombre_cientifico": "Dysithamnus puncticeps",
+  "nombre_ingles": "Spot-crowned Antvireo",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "agua clara, Buenaventura, Valle del Cauca",
+  "lat": 3.665,
+  "lon": null,
+  "altura": 150.0,
+  "fecha": "2017-08-31",
+  "hora": "08:30",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:46",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Fabrice Schmitt",
+  "comentarios": "",
+  "otras_especies": [
+    "Cantorchilus leucopogon"
+  ],
+  "url_audio": "https://xeno-canto.org/428687/download",
+  "url_pagina": "https://xeno-canto.org/428687",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

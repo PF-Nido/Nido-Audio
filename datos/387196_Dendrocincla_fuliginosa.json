@@ -1,0 +1,33 @@
+{
+  "xc_id": "387196",
+  "genero": "Dendrocincla",
+  "especie": "fuliginosa",
+  "subespecie": "",
+  "nombre_cientifico": "Dendrocincla fuliginosa",
+  "nombre_ingles": "Plain-brown Woodcreeper",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Vegachí, Antioquia",
+  "lat": 6.833,
+  "lon": null,
+  "altura": 900.0,
+  "fecha": "2016-03-08",
+  "hora": "17:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:05",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andres Angulo ",
+  "comentarios": "One individual was heard on canopy in forest interior of foothill forest. Recording distance was at least 15 meters.",
+  "otras_especies": [
+    "Taraba major"
+  ],
+  "url_audio": "https://xeno-canto.org/387196/download",
+  "url_pagina": "https://xeno-canto.org/387196",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

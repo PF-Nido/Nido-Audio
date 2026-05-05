@@ -1,0 +1,33 @@
+{
+  "xc_id": "771596",
+  "genero": "Thamnophilus",
+  "especie": "atrinucha",
+  "subespecie": "",
+  "nombre_cientifico": "Thamnophilus atrinucha",
+  "nombre_ingles": "Black-crowned Antshrike",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Natural Cauquitá",
+  "lat": 4.843,
+  "lon": null,
+  "altura": 1100.0,
+  "fecha": "2022-05-14",
+  "hora": "10:30",
+  "calidad_xc": "B",
+  "tipo_canto": "duet",
+  "duracion": "0:14",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "David Monroy Rengifo",
+  "comentarios": "",
+  "otras_especies": [
+    "Turdus grayi"
+  ],
+  "url_audio": "https://xeno-canto.org/771596/download",
+  "url_pagina": "https://xeno-canto.org/771596",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

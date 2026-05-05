@@ -1,0 +1,33 @@
+{
+  "xc_id": "245129",
+  "genero": "Systellura",
+  "especie": "longirostris",
+  "subespecie": "",
+  "nombre_cientifico": "Systellura longirostris",
+  "nombre_ingles": "Band-winged Nightjar",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Bosque La Meseta, Vereda San José de Suaita, Suaita, Santander",
+  "lat": 6.18,
+  "lon": null,
+  "altura": 1800.0,
+  "fecha": "2014-07-02",
+  "hora": "18:40",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "3:10",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marín Gómez",
+  "comentarios": "Reference:  1824",
+  "otras_especies": [
+    "Nyctidromus albicollis"
+  ],
+  "url_audio": "https://xeno-canto.org/245129/download",
+  "url_pagina": "https://xeno-canto.org/245129",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

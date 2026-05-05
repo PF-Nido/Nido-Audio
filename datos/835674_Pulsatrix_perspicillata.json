@@ -1,0 +1,33 @@
+{
+  "xc_id": "835674",
+  "genero": "Pulsatrix",
+  "especie": "perspicillata",
+  "subespecie": "",
+  "nombre_cientifico": "Pulsatrix perspicillata",
+  "nombre_ingles": "Spectacled Owl",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Leticia, Leticia, Amazonas",
+  "lat": -4.2173,
+  "lon": null,
+  "altura": 80.0,
+  "fecha": "2023-09-20",
+  "hora": "01:30",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "3:20",
+  "sexo": "uncertain",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Urias Edgardo Gonzalez Carreño",
+  "comentarios": "La grabación se realizó en la zona urbana, el ave se encontraba perchada, solitaria, en el dosel de un arbusto de Aguacate, a unos seis metros de altura en el patio trasero de mi residencia.",
+  "otras_especies": [
+    "Glaucidium brasilianum"
+  ],
+  "url_audio": "https://xeno-canto.org/835674/download",
+  "url_pagina": "https://xeno-canto.org/835674",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

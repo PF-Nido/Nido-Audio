@@ -1,0 +1,33 @@
+{
+  "xc_id": "533378",
+  "genero": "Cercomacroides",
+  "especie": "serva",
+  "subespecie": "",
+  "nombre_cientifico": "Cercomacroides serva",
+  "nombre_ingles": "Black Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Tarapacá, Amazonas Department",
+  "lat": -2.6134,
+  "lon": null,
+  "altura": 100.0,
+  "fecha": "2019-11-13",
+  "hora": "08:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:36",
+  "sexo": "male",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Díaz Alván",
+  "comentarios": "",
+  "otras_especies": [
+    "Cymbilaimus lineatus"
+  ],
+  "url_audio": "https://xeno-canto.org/533378/download",
+  "url_pagina": "https://xeno-canto.org/533378",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

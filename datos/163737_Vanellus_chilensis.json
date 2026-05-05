@@ -1,0 +1,33 @@
+{
+  "xc_id": "163737",
+  "genero": "Vanellus",
+  "especie": "chilensis",
+  "subespecie": "",
+  "nombre_cientifico": "Vanellus chilensis",
+  "nombre_ingles": "Southern Lapwing",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Guatapé, Antioquia",
+  "lat": 6.2138,
+  "lon": null,
+  "altura": 1900.0,
+  "fecha": "2014-01-06",
+  "hora": "07:01",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:08",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Danny Zapata-Henao",
+  "comentarios": "A group of 4 individuals.",
+  "otras_especies": [
+    "Coereba flaveola"
+  ],
+  "url_audio": "https://xeno-canto.org/163737/download",
+  "url_pagina": "https://xeno-canto.org/163737",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

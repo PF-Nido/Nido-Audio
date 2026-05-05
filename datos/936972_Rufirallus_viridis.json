@@ -1,0 +1,33 @@
+{
+  "xc_id": "936972",
+  "genero": "Rufirallus",
+  "especie": "viridis",
+  "subespecie": "",
+  "nombre_cientifico": "Rufirallus viridis",
+  "nombre_ingles": "Russet-crowned Crake",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Laguna el Silencio, Mariquita, Tolima",
+  "lat": 5.2875,
+  "lon": null,
+  "altura": 340.0,
+  "fecha": "2024-09-27",
+  "hora": "09:45",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:41",
+  "sexo": "uncertain",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Yair Guillermo Molina Martínez.",
+  "comentarios": "",
+  "otras_especies": [
+    "Synallaxis albescens"
+  ],
+  "url_audio": "https://xeno-canto.org/936972/download",
+  "url_pagina": "https://xeno-canto.org/936972",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

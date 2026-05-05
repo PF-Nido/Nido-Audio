@@ -1,0 +1,33 @@
+{
+  "xc_id": "357632",
+  "genero": "Brotogeris",
+  "especie": "cyanoptera",
+  "subespecie": "cyanoptera",
+  "nombre_cientifico": "Brotogeris cyanoptera",
+  "nombre_ingles": "Cobalt-winged Parakeet",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Inírida, Guainía",
+  "lat": 3.8186,
+  "lon": null,
+  "altura": 110.0,
+  "fecha": "2017-02-15",
+  "hora": "09:00",
+  "calidad_xc": "B",
+  "tipo_canto": "call, flight call",
+  "duracion": "1:13",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Guy Kirwan",
+  "comentarios": "Small group, intially perched, then flying off.",
+  "otras_especies": [
+    "Dryocopus lineatus"
+  ],
+  "url_audio": "https://xeno-canto.org/357632/download",
+  "url_pagina": "https://xeno-canto.org/357632",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

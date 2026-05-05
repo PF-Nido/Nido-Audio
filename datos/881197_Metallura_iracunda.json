@@ -1,0 +1,33 @@
+{
+  "xc_id": "881197",
+  "genero": "Metallura",
+  "especie": "iracunda",
+  "subespecie": "",
+  "nombre_cientifico": "Metallura iracunda",
+  "nombre_ingles": "Perija Metaltail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Cesar. Manaure, Serranía de Perijá, Páramo de Sabana Rubia",
+  "lat": 10.3992,
+  "lon": null,
+  "altura": 2200.0,
+  "fecha": "2024-02-18",
+  "hora": "07:00",
+  "calidad_xc": "A",
+  "tipo_canto": "call, song",
+  "duracion": "0:18",
+  "sexo": "uncertain",
+  "etapa_vida": "uncertain",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Hernán Arias",
+  "comentarios": "",
+  "otras_especies": [
+    "Asthenes wyatti"
+  ],
+  "url_audio": "https://xeno-canto.org/881197/download",
+  "url_pagina": "https://xeno-canto.org/881197",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

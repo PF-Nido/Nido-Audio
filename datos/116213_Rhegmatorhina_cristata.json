@@ -1,0 +1,33 @@
+{
+  "xc_id": "116213",
+  "genero": "Rhegmatorhina",
+  "especie": "cristata",
+  "subespecie": "",
+  "nombre_cientifico": "Rhegmatorhina cristata",
+  "nombre_ingles": "Chestnut-crested Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Mitu, Vaupes",
+  "lat": 1.2598,
+  "lon": null,
+  "altura": 170.0,
+  "fecha": "2012-01-05",
+  "hora": "13:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:53",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Ottavio Janni",
+  "comentarios": "Natural vocalizations; Maquaquino trail about 1 hour downriver from Mitù",
+  "otras_especies": [
+    "Hypocnemis flavescens"
+  ],
+  "url_audio": "https://xeno-canto.org/116213/download",
+  "url_pagina": "https://xeno-canto.org/116213",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

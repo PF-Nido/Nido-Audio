@@ -1,0 +1,33 @@
+{
+  "xc_id": "44896",
+  "genero": "Andigena",
+  "especie": "nigrirostris",
+  "subespecie": "",
+  "nombre_cientifico": "Andigena nigrirostris",
+  "nombre_ingles": "Black-billed Mountain Toucan",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Huila, Municicpio Teruel, Vereda Corrales, Las Nubes",
+  "lat": 2.794,
+  "lon": null,
+  "altura": 2400.0,
+  "fecha": "2010-02-14",
+  "hora": "12: 00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:23",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Pablo López O",
+  "comentarios": "",
+  "otras_especies": [
+    "Aulacorhynchus albivitta"
+  ],
+  "url_audio": "https://xeno-canto.org/44896/download",
+  "url_pagina": "https://xeno-canto.org/44896",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

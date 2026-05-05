@@ -1,0 +1,33 @@
+{
+  "xc_id": "163743",
+  "genero": "Synallaxis",
+  "especie": "azarae",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis azarae",
+  "nombre_ingles": "Azara's Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Guatapé, Antioquia",
+  "lat": 6.2138,
+  "lon": null,
+  "altura": 1900.0,
+  "fecha": "2014-01-06",
+  "hora": "07:44",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:25",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Danny Zapata-Henao",
+  "comentarios": "",
+  "otras_especies": [
+    "Tiaris olivaceus"
+  ],
+  "url_audio": "https://xeno-canto.org/163743/download",
+  "url_pagina": "https://xeno-canto.org/163743",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

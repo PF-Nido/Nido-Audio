@@ -1,0 +1,33 @@
+{
+  "xc_id": "27420",
+  "genero": "Adelomyia",
+  "especie": "melanogenys",
+  "subespecie": "",
+  "nombre_cientifico": "Adelomyia melanogenys",
+  "nombre_ingles": "Speckled Hummingbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Antioquia: Páramo de Frontino",
+  "lat": 6.4334,
+  "lon": null,
+  "altura": 2600.0,
+  "fecha": "2004-08-16",
+  "hora": "07:25",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:17",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Niels Krabbe",
+  "comentarios": "Not seen. Tape ref. A 129-130",
+  "otras_especies": [
+    "Myioborus ornatus"
+  ],
+  "url_audio": "https://xeno-canto.org/27420/download",
+  "url_pagina": "https://xeno-canto.org/27420",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

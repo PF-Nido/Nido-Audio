@@ -1,0 +1,33 @@
+{
+  "xc_id": "117209",
+  "genero": "Eutoxeres",
+  "especie": "aquila",
+  "subespecie": "",
+  "nombre_cientifico": "Eutoxeres aquila",
+  "nombre_ingles": "White-tipped Sicklebill",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Río Gazaunta cuenca alta, Miralindo, Medina, Cundinamarca",
+  "lat": 4.584167,
+  "lon": null,
+  "altura": null,
+  "fecha": "1997-11-01",
+  "hora": "?",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "2:13",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)",
+  "comentarios": "IAvH-CSA 44\n\nTo obtain a wav file of the original recording, please contact csa@humboldt.org.co",
+  "otras_especies": [
+    "Henicorhina leucophrys"
+  ],
+  "url_audio": "https://xeno-canto.org/117209/download",
+  "url_pagina": "https://xeno-canto.org/117209",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

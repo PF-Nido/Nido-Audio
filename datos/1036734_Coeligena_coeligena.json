@@ -1,0 +1,33 @@
+{
+  "xc_id": "1036734",
+  "genero": "Coeligena",
+  "especie": "coeligena",
+  "subespecie": "",
+  "nombre_cientifico": "Coeligena coeligena",
+  "nombre_ingles": "Bronzy Inca",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Arriba de la finca Buenavista, Vereda cedrales, Guacamayo, Santander, Colombia",
+  "lat": 6.2656,
+  "lon": null,
+  "altura": 2075.0,
+  "fecha": "2024-04-18",
+  "hora": "05:48",
+  "calidad_xc": "B",
+  "tipo_canto": "",
+  "duracion": "0:24",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Carlos Andrés Pinto Quinche",
+  "comentarios": "Esta grabación es producto del proyecto : \"Una expedición científica para enfrentar déficits en el conocimiento de la biodiversidad, promoviendo la generación de productos transmedia de divulgación y la evaluación del potencial turístico en una zona de Santander, Colombia\". Se agradece al Ministerio De Ciencia, Tecnología E Innovación De Colombia por el apoyo financiero en el contrato de financiamiento de recuperación contingente No.2022-0721 para el proyecto #8289",
+  "otras_especies": [
+    "Ortalis columbiana"
+  ],
+  "url_audio": "https://xeno-canto.org/1036734/download",
+  "url_pagina": "https://xeno-canto.org/1036734",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

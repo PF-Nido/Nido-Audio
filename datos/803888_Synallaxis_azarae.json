@@ -1,0 +1,33 @@
+{
+  "xc_id": "803888",
+  "genero": "Synallaxis",
+  "especie": "azarae",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis azarae",
+  "nombre_ingles": "Azara's Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "La Albania (Villamaría, Caldas)",
+  "lat": 4.9737,
+  "lon": null,
+  "altura": 2500.0,
+  "fecha": "2023-03-07",
+  "hora": "11:19",
+  "calidad_xc": "B",
+  "tipo_canto": "",
+  "duracion": "0:28",
+  "sexo": "uncertain",
+  "etapa_vida": "uncertain",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Alejandro Morales Betancourt",
+  "comentarios": "Normalizado -3dB. Henicorhina leucophrys al inicio de la grabación.",
+  "otras_especies": [
+    "Henicorhina leucophrys"
+  ],
+  "url_audio": "https://xeno-canto.org/803888/download",
+  "url_pagina": "https://xeno-canto.org/803888",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

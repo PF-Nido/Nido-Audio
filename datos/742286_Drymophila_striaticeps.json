@@ -1,0 +1,33 @@
+{
+  "xc_id": "742286",
+  "genero": "Drymophila",
+  "especie": "striaticeps",
+  "subespecie": "",
+  "nombre_cientifico": "Drymophila striaticeps",
+  "nombre_ingles": "Streak-headed Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Rio Blanco, Manizales",
+  "lat": 5.076,
+  "lon": null,
+  "altura": 2600.0,
+  "fecha": "2022-07-06",
+  "hora": "10:27",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:50",
+  "sexo": "male",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Joost van Bruggen",
+  "comentarios": "",
+  "otras_especies": [
+    "Synallaxis azarae"
+  ],
+  "url_audio": "https://xeno-canto.org/742286/download",
+  "url_pagina": "https://xeno-canto.org/742286",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

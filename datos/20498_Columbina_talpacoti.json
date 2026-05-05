@@ -1,0 +1,33 @@
+{
+  "xc_id": "20498",
+  "genero": "Columbina",
+  "especie": "talpacoti",
+  "subespecie": "",
+  "nombre_cientifico": "Columbina talpacoti",
+  "nombre_ingles": "Ruddy Ground Dove",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Cesar, Aguachica, Corpocesar HQ, 08°19N; 73°38W",
+  "lat": 8.3167,
+  "lon": null,
+  "altura": 200.0,
+  "fecha": "2002-01-00",
+  "hora": "xx:xx",
+  "calidad_xc": "B",
+  "tipo_canto": "song, song and coo",
+  "duracion": "0:50",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Myornis",
+  "comentarios": "Other common species in background",
+  "otras_especies": [
+    "Tyrannus melancholicus"
+  ],
+  "url_audio": "https://xeno-canto.org/20498/download",
+  "url_pagina": "https://xeno-canto.org/20498",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

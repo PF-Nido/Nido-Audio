@@ -1,0 +1,33 @@
+{
+  "xc_id": "162900",
+  "genero": "Hypnelus",
+  "especie": "ruficollis",
+  "subespecie": "",
+  "nombre_cientifico": "Hypnelus ruficollis",
+  "nombre_ingles": "Russet-throated Puffbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "El Bagre, Antioquia",
+  "lat": 7.9516,
+  "lon": null,
+  "altura": 30.0,
+  "fecha": "2013-12-15",
+  "hora": "07:42",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:11",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Johnnier A. Arango-Bermúdez",
+  "comentarios": "Not seen bird. Swamp vegetation close to foothill forest. water level.",
+  "otras_especies": [
+    "Ramphocelus dimidiatus"
+  ],
+  "url_audio": "https://xeno-canto.org/162900/download",
+  "url_pagina": "https://xeno-canto.org/162900",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

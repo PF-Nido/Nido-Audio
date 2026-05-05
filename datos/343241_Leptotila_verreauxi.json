@@ -1,0 +1,33 @@
+{
+  "xc_id": "343241",
+  "genero": "Leptotila",
+  "especie": "verreauxi",
+  "subespecie": "",
+  "nombre_cientifico": "Leptotila verreauxi",
+  "nombre_ingles": "White-tipped Dove",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Distracción, La Guajira",
+  "lat": 10.9567,
+  "lon": null,
+  "altura": 500.0,
+  "fecha": "2016-07-01",
+  "hora": "16:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:51",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andres Angulo",
+  "comentarios": "Individual was not seen clearly. It was sighted near a trail at forest edge of tropical dry forest. Recording distance was aprox 10 meters.",
+  "otras_especies": [
+    "Cyclarhis gujanensis"
+  ],
+  "url_audio": "https://xeno-canto.org/343241/download",
+  "url_pagina": "https://xeno-canto.org/343241",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

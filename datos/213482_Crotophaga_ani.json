@@ -1,0 +1,33 @@
+{
+  "xc_id": "213482",
+  "genero": "Crotophaga",
+  "especie": "ani",
+  "subespecie": "",
+  "nombre_cientifico": "Crotophaga ani",
+  "nombre_ingles": "Smooth-billed Ani",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Peñalosa (Lloró), Chocó",
+  "lat": 5.5,
+  "lon": null,
+  "altura": 60.0,
+  "fecha": "2014-12-18",
+  "hora": "14:34",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:04",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Danny Zapata-Henao",
+  "comentarios": "",
+  "otras_especies": [
+    "Cacicus cela"
+  ],
+  "url_audio": "https://xeno-canto.org/213482/download",
+  "url_pagina": "https://xeno-canto.org/213482",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

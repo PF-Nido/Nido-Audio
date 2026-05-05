@@ -1,0 +1,33 @@
+{
+  "xc_id": "240025",
+  "genero": "Colibri",
+  "especie": "cyanotus",
+  "subespecie": "",
+  "nombre_cientifico": "Colibri cyanotus",
+  "nombre_ingles": "Lesser Violetear",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Bremen-Quebrada Guaguas, Vereda Cruces, Filandia, Quindío",
+  "lat": 4.67378,
+  "lon": null,
+  "altura": 1910.0,
+  "fecha": "2008-01-11",
+  "hora": "07:52",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:29",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marín Gómez",
+  "comentarios": "ID accurancy: 100%.  Habitat: Shrubs and border of Low Montane humid forest. Code: OHM019A_2729 Colibri thalassinus.  Equipment: Marantz PMD 222 with Sennheiser ME 66, TDK 60 SA-II.",
+  "otras_especies": [
+    "Cyanocorax yncas"
+  ],
+  "url_audio": "https://xeno-canto.org/240025/download",
+  "url_pagina": "https://xeno-canto.org/240025",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

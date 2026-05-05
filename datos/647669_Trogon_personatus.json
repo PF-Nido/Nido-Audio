@@ -1,0 +1,33 @@
+{
+  "xc_id": "647669",
+  "genero": "Trogon",
+  "especie": "personatus",
+  "subespecie": "",
+  "nombre_cientifico": "Trogon personatus",
+  "nombre_ingles": "Masked Trogon",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Villamaría, Caldas",
+  "lat": 4.9818,
+  "lon": null,
+  "altura": 2500.0,
+  "fecha": "2021-02-25",
+  "hora": "07:30",
+  "calidad_xc": "B",
+  "tipo_canto": "",
+  "duracion": "1:14",
+  "sexo": "male",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andrés Mauricio López",
+  "comentarios": "",
+  "otras_especies": [
+    "Piranga rubra"
+  ],
+  "url_audio": "https://xeno-canto.org/647669/download",
+  "url_pagina": "https://xeno-canto.org/647669",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

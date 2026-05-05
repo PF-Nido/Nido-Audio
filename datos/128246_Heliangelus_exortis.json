@@ -1,0 +1,33 @@
+{
+  "xc_id": "128246",
+  "genero": "Heliangelus",
+  "especie": "exortis",
+  "subespecie": "",
+  "nombre_cientifico": "Heliangelus exortis",
+  "nombre_ingles": "Tourmaline Sunangel",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Cajamarca, Tolima",
+  "lat": 4.4837,
+  "lon": null,
+  "altura": 2800.0,
+  "fecha": "2013-03-23",
+  "hora": "14:00",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:13",
+  "sexo": "male",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar H. Marín-Gómez",
+  "comentarios": "Ref: OHM396. Un macho perchado en rama expuesta a 4m del suelo. Borde de bosque. Bosque montano",
+  "otras_especies": [
+    "Turdus fuscater"
+  ],
+  "url_audio": "https://xeno-canto.org/128246/download",
+  "url_pagina": "https://xeno-canto.org/128246",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

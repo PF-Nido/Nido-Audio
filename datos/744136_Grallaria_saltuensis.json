@@ -1,0 +1,33 @@
+{
+  "xc_id": "744136",
+  "genero": "Grallaria",
+  "especie": "saltuensis",
+  "subespecie": "",
+  "nombre_cientifico": "Grallaria saltuensis",
+  "nombre_ingles": "Perija Antpitta",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Sabana Rubia, Perijá, mpio. Manaure, depto. Cesar",
+  "lat": 10.3626,
+  "lon": null,
+  "altura": 2900.0,
+  "fecha": "2022-03-18",
+  "hora": "06:30",
+  "calidad_xc": "A",
+  "tipo_canto": "call",
+  "duracion": "0:33",
+  "sexo": "uncertain",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Jorge de Leon Cardozo &amp; Susan Hochgraf",
+  "comentarios": "",
+  "otras_especies": [
+    "Grallaria ruficapilla"
+  ],
+  "url_audio": "https://xeno-canto.org/744136/download",
+  "url_pagina": "https://xeno-canto.org/744136",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

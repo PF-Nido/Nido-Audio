@@ -1,0 +1,33 @@
+{
+  "xc_id": "922788",
+  "genero": "Crotophaga",
+  "especie": "sulcirostris",
+  "subespecie": "",
+  "nombre_cientifico": "Crotophaga sulcirostris",
+  "nombre_ingles": "Groove-billed Ani",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Mariquita, Tolima",
+  "lat": 5.2194,
+  "lon": null,
+  "altura": 440.0,
+  "fecha": "2024-06-20",
+  "hora": "09:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:26",
+  "sexo": "uncertain",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juliana Meneses Ruiz",
+  "comentarios": "El canto se editó en Ocenaudio, usando 3 dB.\r\nEl hábitat es zona abierta y agrícola, se observaron unos 7 individuos cantando en cercas vivas.\r\nEl clima era caluroso, más de 30°C.",
+  "otras_especies": [
+    "Sicalis flaveola"
+  ],
+  "url_audio": "https://xeno-canto.org/922788/download",
+  "url_pagina": "https://xeno-canto.org/922788",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

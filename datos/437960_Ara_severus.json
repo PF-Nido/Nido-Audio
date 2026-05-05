@@ -1,0 +1,33 @@
+{
+  "xc_id": "437960",
+  "genero": "Ara",
+  "especie": "severus",
+  "subespecie": "",
+  "nombre_cientifico": "Ara severus",
+  "nombre_ingles": "Chestnut-fronted Macaw",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Zanjón del Burro, Cali, Valle del Cauca",
+  "lat": 3.3641,
+  "lon": null,
+  "altura": 950.0,
+  "fecha": "2018-09-04",
+  "hora": "07:30",
+  "calidad_xc": "A",
+  "tipo_canto": "call",
+  "duracion": "0:45",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Sebastian Ulloa",
+  "comentarios": "",
+  "otras_especies": [
+    "Ortalis columbiana"
+  ],
+  "url_audio": "https://xeno-canto.org/437960/download",
+  "url_pagina": "https://xeno-canto.org/437960",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

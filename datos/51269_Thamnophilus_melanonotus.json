@@ -1,0 +1,33 @@
+{
+  "xc_id": "51269",
+  "genero": "Thamnophilus",
+  "especie": "melanonotus",
+  "subespecie": "",
+  "nombre_cientifico": "Thamnophilus melanonotus",
+  "nombre_ingles": "Black-backed Antshrike",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Los Besotes Reserve, Sta. Marta foothills near Valledupar",
+  "lat": null,
+  "lon": null,
+  "altura": 200.0,
+  "fecha": "2010-01-16",
+  "hora": "9:05",
+  "calidad_xc": "B",
+  "tipo_canto": "call?",
+  "duracion": "0:23",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "David Geale",
+  "comentarios": "Male after playback",
+  "otras_especies": [
+    "Myiopagis gaimardii"
+  ],
+  "url_audio": "https://xeno-canto.org/51269/download",
+  "url_pagina": "https://xeno-canto.org/51269",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

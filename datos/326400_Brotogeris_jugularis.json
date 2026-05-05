@@ -1,0 +1,33 @@
+{
+  "xc_id": "326400",
+  "genero": "Brotogeris",
+  "especie": "jugularis",
+  "subespecie": "jugularis",
+  "nombre_cientifico": "Brotogeris jugularis",
+  "nombre_ingles": "Orange-chinned Parakeet",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Fonseca, Fonseca, La Guajira",
+  "lat": 10.8904,
+  "lon": null,
+  "altura": 190.0,
+  "fecha": "2016-06-28",
+  "hora": "05:30",
+  "calidad_xc": "A",
+  "tipo_canto": "call",
+  "duracion": "0:21",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andres Angulo",
+  "comentarios": "A flock of about 30 individuals on a fruiting tree near the hotel. Recording distance was 5 meters. Some flight displays and antogonistic interactions were evident.",
+  "otras_especies": [
+    "Columbina talpacoti"
+  ],
+  "url_audio": "https://xeno-canto.org/326400/download",
+  "url_pagina": "https://xeno-canto.org/326400",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

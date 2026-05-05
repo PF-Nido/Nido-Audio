@@ -1,0 +1,33 @@
+{
+  "xc_id": "693713",
+  "genero": "Myrmotherula",
+  "especie": "cherriei",
+  "subespecie": "",
+  "nombre_cientifico": "Myrmotherula cherriei",
+  "nombre_ingles": "Cherrie's Antwren",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Flor de Inirida, Guainía",
+  "lat": 3.813305,
+  "lon": null,
+  "altura": null,
+  "fecha": "2021-11-22",
+  "hora": "05:45",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "1:16",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Peter Boesman",
+  "comentarios": "",
+  "otras_especies": [
+    "Thamnophilus amazonicus"
+  ],
+  "url_audio": "https://xeno-canto.org/693713/download",
+  "url_pagina": "https://xeno-canto.org/693713",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

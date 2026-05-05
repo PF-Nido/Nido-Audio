@@ -1,0 +1,33 @@
+{
+  "xc_id": "186618",
+  "genero": "Leptotila",
+  "especie": "conoveri",
+  "subespecie": "",
+  "nombre_cientifico": "Leptotila conoveri",
+  "nombre_ingles": "Tolima Dove",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Finca Puerto López, Vereda Buenos Aires, Nilo, Cundinamarca",
+  "lat": 4.3684,
+  "lon": null,
+  "altura": 1350.0,
+  "fecha": "2014-03-13",
+  "hora": "16:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:08",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Nestor Espejo",
+  "comentarios": "Recorded on floor and undergrowth of Secondary Forest surrounded by coffea plantations and pasture.",
+  "otras_especies": [
+    "Pheugopedius sclateri"
+  ],
+  "url_audio": "https://xeno-canto.org/186618/download",
+  "url_pagina": "https://xeno-canto.org/186618",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

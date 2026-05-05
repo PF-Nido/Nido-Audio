@@ -1,0 +1,33 @@
+{
+  "xc_id": "423122",
+  "genero": "Brotogeris",
+  "especie": "jugularis",
+  "subespecie": "",
+  "nombre_cientifico": "Brotogeris jugularis",
+  "nombre_ingles": "Orange-chinned Parakeet",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Natural la Lucia, Vereda la Montaña, el Totumo, Ibagué, Tolima",
+  "lat": 4.371,
+  "lon": null,
+  "altura": 1300.0,
+  "fecha": "2017-07-13",
+  "hora": "07:33",
+  "calidad_xc": "A",
+  "tipo_canto": "call",
+  "duracion": "0:58",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Yair Guillermo Molina Martínez.",
+  "comentarios": "Grabación hecha en el marco del Proyecto \"Estudio técnico y participativo de la biodiversidad aviar del municipio de Ibagué – Tolima, como estrategia para la consolidación del ecoturismo de aves, la conservación de sus hábitats y el desarrollo de procesos de educación ambiental\" Universidad de Ibagué - Rednatur - Colciencias.",
+  "otras_especies": [
+    "Ortalis columbiana"
+  ],
+  "url_audio": "https://xeno-canto.org/423122/download",
+  "url_pagina": "https://xeno-canto.org/423122",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

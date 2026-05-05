@@ -1,0 +1,33 @@
+{
+  "xc_id": "802507",
+  "genero": "Sclerurus",
+  "especie": "obscurior",
+  "subespecie": "",
+  "nombre_cientifico": "Sclerurus obscurior",
+  "nombre_ingles": "Dusky Leaftosser",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RN La Isla Escondida",
+  "lat": 0.6513,
+  "lon": null,
+  "altura": 850.0,
+  "fecha": "2023-05-18",
+  "hora": "06:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:56",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Jurgen Beckers",
+  "comentarios": "",
+  "otras_especies": [
+    "Chlorothraupis carmioli"
+  ],
+  "url_audio": "https://xeno-canto.org/802507/download",
+  "url_pagina": "https://xeno-canto.org/802507",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

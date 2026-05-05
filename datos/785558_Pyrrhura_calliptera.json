@@ -1,0 +1,33 @@
+{
+  "xc_id": "785558",
+  "genero": "Pyrrhura",
+  "especie": "calliptera",
+  "subespecie": "",
+  "nombre_cientifico": "Pyrrhura calliptera",
+  "nombre_ingles": "Flame-winged Parakeet",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "La Calera, Cundinamarca",
+  "lat": 4.7155,
+  "lon": null,
+  "altura": 3000.0,
+  "fecha": "2023-03-12",
+  "hora": "08:00",
+  "calidad_xc": "A",
+  "tipo_canto": "call, flight call",
+  "duracion": "2:08",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Simon Mills",
+  "comentarios": "",
+  "otras_especies": [
+    "Grallaria ruficapilla"
+  ],
+  "url_audio": "https://xeno-canto.org/785558/download",
+  "url_pagina": "https://xeno-canto.org/785558",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

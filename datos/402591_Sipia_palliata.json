@@ -1,0 +1,33 @@
+{
+  "xc_id": "402591",
+  "genero": "Sipia",
+  "especie": "palliata",
+  "subespecie": "",
+  "nombre_cientifico": "Sipia palliata",
+  "nombre_ingles": "Magdalena Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Carepa, Antioquia-Finca la Alborada",
+  "lat": 7.838,
+  "lon": null,
+  "altura": 850.0,
+  "fecha": "2018-02-08",
+  "hora": "09:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "2:23",
+  "sexo": "female",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Diego Calderon-F.",
+  "comentarios": "Female singing in the background. Also another couple in the distant background.",
+  "otras_especies": [
+    "Sipia palliata"
+  ],
+  "url_audio": "https://xeno-canto.org/402591/download",
+  "url_pagina": "https://xeno-canto.org/402591",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "771601",
+  "genero": "Aramides",
+  "especie": "cajaneus",
+  "subespecie": "",
+  "nombre_cientifico": "Aramides cajaneus",
+  "nombre_ingles": "Grey-cowled Wood Rail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "PRN Barbas -Bremen // Sendero Yarumal",
+  "lat": 4.7144,
+  "lon": null,
+  "altura": 1700.0,
+  "fecha": "2022-08-06",
+  "hora": "08:00",
+  "calidad_xc": "A",
+  "tipo_canto": "",
+  "duracion": "0:32",
+  "sexo": "uncertain",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "David Monroy Rengifo",
+  "comentarios": "",
+  "otras_especies": [
+    "Dendrocygna autumnalis"
+  ],
+  "url_audio": "https://xeno-canto.org/771601/download",
+  "url_pagina": "https://xeno-canto.org/771601",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

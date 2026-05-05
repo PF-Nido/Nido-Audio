@@ -1,0 +1,33 @@
+{
+  "xc_id": "301007",
+  "genero": "Rupornis",
+  "especie": "magnirostris",
+  "subespecie": "",
+  "nombre_cientifico": "Rupornis magnirostris",
+  "nombre_ingles": "Roadside Hawk",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Saboya, Boyacá",
+  "lat": 5.6532,
+  "lon": null,
+  "altura": 2500.0,
+  "fecha": "2016-01-20",
+  "hora": "10:00",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:39",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "David Ricardo Rodríguez Villamil",
+  "comentarios": "",
+  "otras_especies": [
+    "Zonotrichia capensis"
+  ],
+  "url_audio": "https://xeno-canto.org/301007/download",
+  "url_pagina": "https://xeno-canto.org/301007",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

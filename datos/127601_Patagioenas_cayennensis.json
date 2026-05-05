@@ -1,0 +1,33 @@
+{
+  "xc_id": "127601",
+  "genero": "Patagioenas",
+  "especie": "cayennensis",
+  "subespecie": "",
+  "nombre_cientifico": "Patagioenas cayennensis",
+  "nombre_ingles": "Pale-vented Pigeon",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Puerto Lopez, Meta",
+  "lat": 4.1809,
+  "lon": null,
+  "altura": 170.0,
+  "fecha": "2013-03-05",
+  "hora": "04:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:18",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oswaldo Cortes",
+  "comentarios": "",
+  "otras_especies": [
+    "Cyanocorax violaceus"
+  ],
+  "url_audio": "https://xeno-canto.org/127601/download",
+  "url_pagina": "https://xeno-canto.org/127601",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

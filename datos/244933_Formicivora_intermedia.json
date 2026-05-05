@@ -1,0 +1,33 @@
+{
+  "xc_id": "244933",
+  "genero": "Formicivora",
+  "especie": "intermedia",
+  "subespecie": "",
+  "nombre_cientifico": "Formicivora intermedia",
+  "nombre_ingles": "Northern White-fringed Antwren",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Finca La Bretaña, Vereda Guaracuara, San Luis de Palenque, Casanare",
+  "lat": 5.145,
+  "lon": null,
+  "altura": 190.0,
+  "fecha": "2012-07-13",
+  "hora": "09:00",
+  "calidad_xc": "A",
+  "tipo_canto": "call",
+  "duracion": "0:28",
+  "sexo": "male",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marín Gómez &amp; Juan Pablo López",
+  "comentarios": "Mata de monte..Reference:OHMJPLB_B_400",
+  "otras_especies": [
+    "Thamnophilus doliatus"
+  ],
+  "url_audio": "https://xeno-canto.org/244933/download",
+  "url_pagina": "https://xeno-canto.org/244933",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

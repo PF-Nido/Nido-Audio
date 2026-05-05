@@ -1,0 +1,33 @@
+{
+  "xc_id": "298073",
+  "genero": "Veniliornis",
+  "especie": "kirkii",
+  "subespecie": "",
+  "nombre_cientifico": "Veniliornis kirkii",
+  "nombre_ingles": "Red-rumped Woodpecker",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Finca Ramírez, vereda Ayacucho, San Cayetano, Norte de Santander",
+  "lat": 7.8273,
+  "lon": null,
+  "altura": 550.0,
+  "fecha": "2009-12-19",
+  "hora": "08:30",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:22",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Laverde",
+  "comentarios": "BSA 758",
+  "otras_especies": [
+    "Tolmomyias flaviventris"
+  ],
+  "url_audio": "https://xeno-canto.org/298073/download",
+  "url_pagina": "https://xeno-canto.org/298073",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

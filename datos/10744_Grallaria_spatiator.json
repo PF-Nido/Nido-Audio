@@ -1,0 +1,33 @@
+{
+  "xc_id": "10744",
+  "genero": "Grallaria",
+  "especie": "spatiator",
+  "subespecie": "",
+  "nombre_cientifico": "Grallaria spatiator",
+  "nombre_ingles": "Sierra Nevada Antpitta",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RNA El Dorado, Sierra de Santa Marta, Magdalena",
+  "lat": 11.1009,
+  "lon": null,
+  "altura": 2550.0,
+  "fecha": "2007-02-09",
+  "hora": "06:36",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:09",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Nick Athanas",
+  "comentarios": "A likely future split. link:http://www.proaves.org/rubrique.php?id_rubrique=182",
+  "otras_especies": [
+    "Metallura tyrianthina"
+  ],
+  "url_audio": "https://xeno-canto.org/10744/download",
+  "url_pagina": "https://xeno-canto.org/10744",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

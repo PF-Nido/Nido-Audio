@@ -1,0 +1,33 @@
+{
+  "xc_id": "128993",
+  "genero": "Penelope",
+  "especie": "perspicax",
+  "subespecie": "",
+  "nombre_cientifico": "Penelope perspicax",
+  "nombre_ingles": "Cauca Guan",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Parque Regional Barbas-Bremen, Filandia, Quindio",
+  "lat": 4.6717,
+  "lon": null,
+  "altura": 1800.0,
+  "fecha": "2007-11-03",
+  "hora": "06:00",
+  "calidad_xc": "A",
+  "tipo_canto": "alarm call, call, flight call",
+  "duracion": "3:57",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar H. Marín-Gómez",
+  "comentarios": "Ref: Tape OHM000B 00:00. Resumption from XC128941 Two birds calling in mature forest understory, near to Bremen campament. Low Montane Forest. Distance to Mic: 25m. Not filtering. Natural vocalization.",
+  "otras_especies": [
+    "Henicorhina leucophrys"
+  ],
+  "url_audio": "https://xeno-canto.org/128993/download",
+  "url_pagina": "https://xeno-canto.org/128993",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

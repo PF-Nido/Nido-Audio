@@ -1,0 +1,33 @@
+{
+  "xc_id": "389883",
+  "genero": "Trogon",
+  "especie": "collaris",
+  "subespecie": "",
+  "nombre_cientifico": "Trogon collaris",
+  "nombre_ingles": "Collared Trogon",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Manguala Limona (El Romeral)",
+  "lat": 6.1755,
+  "lon": null,
+  "altura": 2200.0,
+  "fecha": "2017-10-03",
+  "hora": "07:00",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:17",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Joe Roca",
+  "comentarios": "Hembra forrajeando, levantaba la cola al vocalizar, capturo algunos insectos",
+  "otras_especies": [
+    "Myiothlypis coronata"
+  ],
+  "url_audio": "https://xeno-canto.org/389883/download",
+  "url_pagina": "https://xeno-canto.org/389883",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

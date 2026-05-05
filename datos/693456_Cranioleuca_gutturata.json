@@ -1,0 +1,33 @@
+{
+  "xc_id": "693456",
+  "genero": "Cranioleuca",
+  "especie": "gutturata",
+  "subespecie": "",
+  "nombre_cientifico": "Cranioleuca gutturata",
+  "nombre_ingles": "Speckled Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Matraca trail, Inirida, Guainia",
+  "lat": 3.8627,
+  "lon": null,
+  "altura": null,
+  "fecha": "2021-11-21",
+  "hora": "10:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:51",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Peter Boesman",
+  "comentarios": "",
+  "otras_especies": [
+    "Ramphocaenus melanurus"
+  ],
+  "url_audio": "https://xeno-canto.org/693456/download",
+  "url_pagina": "https://xeno-canto.org/693456",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

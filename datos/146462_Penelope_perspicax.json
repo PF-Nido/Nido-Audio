@@ -1,0 +1,33 @@
+{
+  "xc_id": "146462",
+  "genero": "Penelope",
+  "especie": "perspicax",
+  "subespecie": "",
+  "nombre_cientifico": "Penelope perspicax",
+  "nombre_ingles": "Cauca Guan",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Santuario Otun-Quimbaya.Pereira. Risaralda",
+  "lat": 4.727,
+  "lon": null,
+  "altura": 1900.0,
+  "fecha": "2011-08-18",
+  "hora": "07:00",
+  "calidad_xc": "B",
+  "tipo_canto": "alarm call, song",
+  "duracion": "0:25",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Julian Andres Zuleta Marín ",
+  "comentarios": "",
+  "otras_especies": [
+    "Sericossypha albocristata"
+  ],
+  "url_audio": "https://xeno-canto.org/146462/download",
+  "url_pagina": "https://xeno-canto.org/146462",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

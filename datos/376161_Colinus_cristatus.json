@@ -1,0 +1,33 @@
+{
+  "xc_id": "376161",
+  "genero": "Colinus",
+  "especie": "cristatus",
+  "subespecie": "",
+  "nombre_cientifico": "Colinus cristatus",
+  "nombre_ingles": "Crested Bobwhite",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Chocontá, Cundinamarca",
+  "lat": 5.0873,
+  "lon": null,
+  "altura": 2700.0,
+  "fecha": "2017-06-19",
+  "hora": "08:30",
+  "calidad_xc": "A",
+  "tipo_canto": "call",
+  "duracion": "0:07",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "JUAN ANTONIO ALONSO DE JUAN",
+  "comentarios": "",
+  "otras_especies": [
+    "Sturnella magna"
+  ],
+  "url_audio": "https://xeno-canto.org/376161/download",
+  "url_pagina": "https://xeno-canto.org/376161",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

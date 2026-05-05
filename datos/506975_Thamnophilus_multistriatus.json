@@ -1,0 +1,33 @@
+{
+  "xc_id": "506975",
+  "genero": "Thamnophilus",
+  "especie": "multistriatus",
+  "subespecie": "",
+  "nombre_cientifico": "Thamnophilus multistriatus",
+  "nombre_ingles": "Bar-crested Antshrike",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Natural Cauquitá",
+  "lat": 4.843,
+  "lon": null,
+  "altura": 1100.0,
+  "fecha": "2019-03-11",
+  "hora": "16:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:26",
+  "sexo": "male",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "David Monroy Rengifo",
+  "comentarios": "",
+  "otras_especies": [
+    "Saltator striatipectus"
+  ],
+  "url_audio": "https://xeno-canto.org/506975/download",
+  "url_pagina": "https://xeno-canto.org/506975",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

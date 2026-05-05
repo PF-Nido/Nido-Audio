@@ -1,0 +1,33 @@
+{
+  "xc_id": "1092027",
+  "genero": "Thamnophilus",
+  "especie": "multistriatus",
+  "subespecie": "",
+  "nombre_cientifico": "Thamnophilus multistriatus",
+  "nombre_ingles": "Bar-crested Antshrike",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Vereda San Juan, Samaná, Caldas",
+  "lat": 5.5953,
+  "lon": null,
+  "altura": 950.0,
+  "fecha": "2026-03-28",
+  "hora": "07:54",
+  "calidad_xc": "B",
+  "tipo_canto": "",
+  "duracion": "0:39",
+  "sexo": "",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Alejandro Morales Betancourt",
+  "comentarios": "",
+  "otras_especies": [
+    "Troglodytes aedon"
+  ],
+  "url_audio": "https://xeno-canto.org/1092027/download",
+  "url_pagina": "https://xeno-canto.org/1092027",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

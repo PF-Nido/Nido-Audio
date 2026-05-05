@@ -1,0 +1,33 @@
+{
+  "xc_id": "147968",
+  "genero": "Adelomyia",
+  "especie": "melanogenys",
+  "subespecie": "",
+  "nombre_cientifico": "Adelomyia melanogenys",
+  "nombre_ingles": "Speckled Hummingbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Huila, San Agustín, Reserva Los Yalcones, El Palmar. Interfluvio Quebrada El Palmar - Rio Balseros",
+  "lat": 1.795556,
+  "lon": null,
+  "altura": 2484.0,
+  "fecha": "2005-08-14",
+  "hora": "6:40:00",
+  "calidad_xc": "A",
+  "tipo_canto": "call",
+  "duracion": "0:37",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Diego Calderón (Colección de Sonidos Ambientales - Instituto Humboldt)",
+  "comentarios": "IAvH-CSA 16577\n\nTo obtain a wav file of the original recording, please contact csa@humboldt.org.co",
+  "otras_especies": [
+    "Grallaria ruficapilla"
+  ],
+  "url_audio": "https://xeno-canto.org/147968/download",
+  "url_pagina": "https://xeno-canto.org/147968",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

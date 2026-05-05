@@ -1,0 +1,33 @@
+{
+  "xc_id": "440640",
+  "genero": "Rallus",
+  "especie": "semiplumbeus",
+  "subespecie": "",
+  "nombre_cientifico": "Rallus semiplumbeus",
+  "nombre_ingles": "Bogota Rail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Lago de Tota, Boyaca",
+  "lat": 5.5172,
+  "lon": null,
+  "altura": 3000.0,
+  "fecha": "2018-10-28",
+  "hora": "07:30",
+  "calidad_xc": "B",
+  "tipo_canto": "call, golpeteo del agua contra el bote a motor.",
+  "duracion": "0:06",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Johana Zuluaga-Bonilla- Ixobrychus",
+  "comentarios": "Number ML121221621 in Macaulay library.",
+  "otras_especies": [
+    "Podilymbus podiceps"
+  ],
+  "url_audio": "https://xeno-canto.org/440640/download",
+  "url_pagina": "https://xeno-canto.org/440640",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "437671",
+  "genero": "Ara",
+  "especie": "macao",
+  "subespecie": "",
+  "nombre_cientifico": "Ara macao",
+  "nombre_ingles": "Scarlet Macaw",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Santuario de fauna y flora los Colorados, San Juán Nepomuceno, Bolívar",
+  "lat": 9.9261,
+  "lon": null,
+  "altura": 220.0,
+  "fecha": "2017-04-05",
+  "hora": "16:00",
+  "calidad_xc": "B",
+  "tipo_canto": "flight call",
+  "duracion": "0:21",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andres Angulo ",
+  "comentarios": "A large flock about 8 individuals flying over canopy of dry forest in forest interior. They were seen feeding of Hura crepitans fruits and doing short flies between fruiting trees in small sub grups of 3 individuals. Recording distance was 50 meters. They were recorded in a conserved tract of dry forest in SFF los Colorados, a colombian protected area that harbors one of most extensive remnants of dry forest in \"montes de maria\" zone in northern carib region. Previously labeled as  XC382454 in the collection. ",
+  "otras_especies": [
+    "Euphonia trinitatis"
+  ],
+  "url_audio": "https://xeno-canto.org/437671/download",
+  "url_pagina": "https://xeno-canto.org/437671",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

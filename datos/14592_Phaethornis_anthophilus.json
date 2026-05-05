@@ -1,0 +1,33 @@
+{
+  "xc_id": "14592",
+  "genero": "Phaethornis",
+  "especie": "anthophilus",
+  "subespecie": "",
+  "nombre_cientifico": "Phaethornis anthophilus",
+  "nombre_ingles": "Pale-bellied Hermit",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Arbalaez (Cundinamarca), en la finca El Placer",
+  "lat": 4.01,
+  "lon": null,
+  "altura": 1950.0,
+  "fecha": "2005-11-18",
+  "hora": "08:20",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:30",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oswaldo Cortes",
+  "comentarios": "Vocalizando en flores de Heliconia sp",
+  "otras_especies": [
+    "Pitangus sulphuratus"
+  ],
+  "url_audio": "https://xeno-canto.org/14592/download",
+  "url_pagina": "https://xeno-canto.org/14592",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

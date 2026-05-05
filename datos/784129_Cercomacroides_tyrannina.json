@@ -1,0 +1,33 @@
+{
+  "xc_id": "784129",
+  "genero": "Cercomacroides",
+  "especie": "tyrannina",
+  "subespecie": "",
+  "nombre_cientifico": "Cercomacroides tyrannina",
+  "nombre_ingles": "Dusky Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "San Francisco, Antioquia",
+  "lat": 5.8955,
+  "lon": null,
+  "altura": 400.0,
+  "fecha": "2022-03-26",
+  "hora": "07:30",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:26",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Simon Mills",
+  "comentarios": "",
+  "otras_especies": [
+    "Rupornis magnirostris"
+  ],
+  "url_audio": "https://xeno-canto.org/784129/download",
+  "url_pagina": "https://xeno-canto.org/784129",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

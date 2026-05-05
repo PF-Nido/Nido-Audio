@@ -1,0 +1,33 @@
+{
+  "xc_id": "116313",
+  "genero": "Celeus",
+  "especie": "loricatus",
+  "subespecie": "mentalis?",
+  "nombre_cientifico": "Celeus loricatus",
+  "nombre_ingles": "Cinnamon Woodpecker",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Bocas del Atrato, Turbo, Antioquia",
+  "lat": 8.0886,
+  "lon": null,
+  "altura": 5.0,
+  "fecha": "2012-07-04",
+  "hora": "16:00",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:28",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Diego Calderon-F.",
+  "comentarios": "Recorded by Laura Agudelo",
+  "otras_especies": [
+    "Celeus loricatus"
+  ],
+  "url_audio": "https://xeno-canto.org/116313/download",
+  "url_pagina": "https://xeno-canto.org/116313",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

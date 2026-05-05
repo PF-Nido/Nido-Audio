@@ -1,0 +1,33 @@
+{
+  "xc_id": "449588",
+  "genero": "Glaucidium",
+  "especie": "jardinii",
+  "subespecie": "",
+  "nombre_cientifico": "Glaucidium jardinii",
+  "nombre_ingles": "Andean Pygmy Owl",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Puerta de Rayo, Subachoque, Cundinamarca",
+  "lat": 4.9832,
+  "lon": null,
+  "altura": 3100.0,
+  "fecha": "2019-01-06",
+  "hora": "14:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:38",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Sergio Reyes",
+  "comentarios": "Visto y escuchado en Bosque Alto-andino, asediado por colibries",
+  "otras_especies": [
+    "Turdus fuscater"
+  ],
+  "url_audio": "https://xeno-canto.org/449588/download",
+  "url_pagina": "https://xeno-canto.org/449588",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

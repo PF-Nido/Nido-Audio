@@ -1,0 +1,33 @@
+{
+  "xc_id": "1084999",
+  "genero": "Ramphastos",
+  "especie": "vitellinus",
+  "subespecie": "",
+  "nombre_cientifico": "Ramphastos vitellinus",
+  "nombre_ingles": "Channel-billed Toucan",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Vereda San Juan, Berlín, Samaná, Caldas",
+  "lat": 5.6001,
+  "lon": null,
+  "altura": 950.0,
+  "fecha": "2026-02-23",
+  "hora": "09:33",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:01",
+  "sexo": "uncertain",
+  "etapa_vida": "uncertain",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Alejandro Morales Betancourt",
+  "comentarios": "en fragmento de bosque camino al Río Manso. https://ebird.org/checklist/S303390500",
+  "otras_especies": [
+    "Trogon melanurus"
+  ],
+  "url_audio": "https://xeno-canto.org/1084999/download",
+  "url_pagina": "https://xeno-canto.org/1084999",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

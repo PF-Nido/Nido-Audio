@@ -1,0 +1,33 @@
+{
+  "xc_id": "911093",
+  "genero": "Xenops",
+  "especie": "rutilans",
+  "subespecie": "",
+  "nombre_cientifico": "Xenops rutilans",
+  "nombre_ingles": "Streaked Xenops",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Jardín-Riosucio road, Antioquia",
+  "lat": 5.5677,
+  "lon": null,
+  "altura": 2400.0,
+  "fecha": "2024-03-29",
+  "hora": "06:22",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:33",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Scott Olmstead",
+  "comentarios": "",
+  "otras_especies": [
+    "Myiothlypis coronata"
+  ],
+  "url_audio": "https://xeno-canto.org/911093/download",
+  "url_pagina": "https://xeno-canto.org/911093",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

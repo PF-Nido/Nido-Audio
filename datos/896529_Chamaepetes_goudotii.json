@@ -1,0 +1,33 @@
+{
+  "xc_id": "896529",
+  "genero": "Chamaepetes",
+  "especie": "goudotii",
+  "subespecie": "",
+  "nombre_cientifico": "Chamaepetes goudotii",
+  "nombre_ingles": "Sickle-winged Guan",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Avistamiento de aves Doña Dora - km 55, Dagua, Valle del Cauca",
+  "lat": 3.5348,
+  "lon": null,
+  "altura": 1300.0,
+  "fecha": "2024-04-05",
+  "hora": "18:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:34",
+  "sexo": "uncertain",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Garrett Yocklin",
+  "comentarios": "Two birds singing together. Audio amplified and background noise removed.",
+  "otras_especies": [
+    "Myadestes ralloides"
+  ],
+  "url_audio": "https://xeno-canto.org/896529/download",
+  "url_pagina": "https://xeno-canto.org/896529",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

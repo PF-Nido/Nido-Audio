@@ -1,0 +1,33 @@
+{
+  "xc_id": "423750",
+  "genero": "Colaptes",
+  "especie": "rivolii",
+  "subespecie": "",
+  "nombre_cientifico": "Colaptes rivolii",
+  "nombre_ingles": "Crimson-mantled Woodpecker",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Forestal el Palmar - Casa, Corregimiento de Juntas, Ibagué, Tolima",
+  "lat": 4.5669,
+  "lon": null,
+  "altura": 2100.0,
+  "fecha": "2017-06-14",
+  "hora": "11:54",
+  "calidad_xc": "A",
+  "tipo_canto": "call",
+  "duracion": "0:18",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Yair Guillermo Molina Martínez.",
+  "comentarios": "Grabación hecha en el marco del Proyecto \"Estudio técnico y participativo de la biodiversidad aviar del municipio de Ibagué – Tolima, como estrategia para la consolidación del ecoturismo de aves, la conservación de sus hábitats y el desarrollo de procesos de educación ambiental\" Universidad de Ibagué - Rednatur - Colciencias.",
+  "otras_especies": [
+    "Myioborus miniatus"
+  ],
+  "url_audio": "https://xeno-canto.org/423750/download",
+  "url_pagina": "https://xeno-canto.org/423750",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

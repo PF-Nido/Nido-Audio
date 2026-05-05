@@ -1,0 +1,33 @@
+{
+  "xc_id": "379657",
+  "genero": "Dryocopus",
+  "especie": "lineatus",
+  "subespecie": "",
+  "nombre_cientifico": "Dryocopus lineatus",
+  "nombre_ingles": "Lineated Woodpecker",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Guaduas, Cundinamarca",
+  "lat": 5.1267,
+  "lon": null,
+  "altura": 1400.0,
+  "fecha": "2017-02-12",
+  "hora": "06:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:23",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andres Angulo ",
+  "comentarios": "One individual vocalizing in a exposed trunk at canopy on forest interior. Recording distance was 8 meters.",
+  "otras_especies": [
+    "Saltator striatipectus"
+  ],
+  "url_audio": "https://xeno-canto.org/379657/download",
+  "url_pagina": "https://xeno-canto.org/379657",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

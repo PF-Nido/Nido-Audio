@@ -1,0 +1,33 @@
+{
+  "xc_id": "127042",
+  "genero": "Taraba",
+  "especie": "major",
+  "subespecie": "",
+  "nombre_cientifico": "Taraba major",
+  "nombre_ingles": "Great Antshrike",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Jericó, Antioquia",
+  "lat": 5.7813,
+  "lon": null,
+  "altura": 1500.0,
+  "fecha": "2012-01-14",
+  "hora": "09:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:56",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Sergio Chaparro-Herrera",
+  "comentarios": "",
+  "otras_especies": [
+    "Ramphocelus dimidiatus"
+  ],
+  "url_audio": "https://xeno-canto.org/127042/download",
+  "url_pagina": "https://xeno-canto.org/127042",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

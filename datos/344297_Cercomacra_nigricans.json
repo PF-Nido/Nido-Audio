@@ -1,0 +1,33 @@
+{
+  "xc_id": "344297",
+  "genero": "Cercomacra",
+  "especie": "nigricans",
+  "subespecie": "",
+  "nombre_cientifico": "Cercomacra nigricans",
+  "nombre_ingles": "Jet Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Hotel Tinamú Birding Nature Reserve",
+  "lat": 5.0791,
+  "lon": null,
+  "altura": 1000.0,
+  "fecha": "2016-08-19",
+  "hora": "06:30",
+  "calidad_xc": "A",
+  "tipo_canto": "call, song",
+  "duracion": "0:25",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Hotel Tinamu",
+  "comentarios": "Grabado por Juan Pablo Culasso\r\nwww.jpculasso.net\r\n\r\nUnderstory secondary forest.",
+  "otras_especies": [
+    "Henicorhina leucosticta"
+  ],
+  "url_audio": "https://xeno-canto.org/344297/download",
+  "url_pagina": "https://xeno-canto.org/344297",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

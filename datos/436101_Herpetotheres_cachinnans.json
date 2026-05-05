@@ -1,0 +1,33 @@
+{
+  "xc_id": "436101",
+  "genero": "Herpetotheres",
+  "especie": "cachinnans",
+  "subespecie": "",
+  "nombre_cientifico": "Herpetotheres cachinnans",
+  "nombre_ingles": "Laughing Falcon",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Santa Fé de Antioquia, Antioquia",
+  "lat": 6.4764,
+  "lon": null,
+  "altura": 650.0,
+  "fecha": "2017-06-27",
+  "hora": "07:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:30",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andres Angulo ",
+  "comentarios": "One male?, heard  singing from canopy of forest interior of evergreen forest. Recording distance was 50 meters or more. Cut was amplified.",
+  "otras_especies": [
+    "Columbina talpacoti"
+  ],
+  "url_audio": "https://xeno-canto.org/436101/download",
+  "url_pagina": "https://xeno-canto.org/436101",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

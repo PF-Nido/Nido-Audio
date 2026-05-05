@@ -1,0 +1,33 @@
+{
+  "xc_id": "402584",
+  "genero": "Myrmotherula",
+  "especie": "axillaris",
+  "subespecie": "",
+  "nombre_cientifico": "Myrmotherula axillaris",
+  "nombre_ingles": "White-flanked Antwren",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Carepa, Antioquia-Finca la Alborada",
+  "lat": 7.838,
+  "lon": null,
+  "altura": 850.0,
+  "fecha": "2018-02-06",
+  "hora": "11:30",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:13",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Diego Calderon-F.",
+  "comentarios": "",
+  "otras_especies": [
+    "Ramphastos ambiguus"
+  ],
+  "url_audio": "https://xeno-canto.org/402584/download",
+  "url_pagina": "https://xeno-canto.org/402584",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

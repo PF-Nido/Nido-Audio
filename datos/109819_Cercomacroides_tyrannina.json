@@ -1,0 +1,33 @@
+{
+  "xc_id": "109819",
+  "genero": "Cercomacroides",
+  "especie": "tyrannina",
+  "subespecie": "",
+  "nombre_cientifico": "Cercomacroides tyrannina",
+  "nombre_ingles": "Dusky Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "El canon del Rio Claro, Antioquia",
+  "lat": 5.8334,
+  "lon": null,
+  "altura": 300.0,
+  "fecha": "2012-09-07",
+  "hora": "06:08",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:04",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oswaldo Cortes",
+  "comentarios": "",
+  "otras_especies": [
+    "Atalotriccus pilaris"
+  ],
+  "url_audio": "https://xeno-canto.org/109819/download",
+  "url_pagina": "https://xeno-canto.org/109819",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

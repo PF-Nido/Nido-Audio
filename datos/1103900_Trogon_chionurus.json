@@ -1,0 +1,33 @@
+{
+  "xc_id": "1103900",
+  "genero": "Trogon",
+  "especie": "chionurus",
+  "subespecie": "",
+  "nombre_cientifico": "Trogon chionurus",
+  "nombre_ingles": "White-tailed Trogon",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Sendero Ecológico Embalse Amaní, Norcasia, Caldas",
+  "lat": 5.5654,
+  "lon": null,
+  "altura": 480.0,
+  "fecha": "2026-04-27",
+  "hora": "12:52",
+  "calidad_xc": "B",
+  "tipo_canto": "",
+  "duracion": "0:50",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Alejandro Morales Betancourt",
+  "comentarios": "",
+  "otras_especies": [
+    "Contopus virens"
+  ],
+  "url_audio": "https://xeno-canto.org/1103900/download",
+  "url_pagina": "https://xeno-canto.org/1103900",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

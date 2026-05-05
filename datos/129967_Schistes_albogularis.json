@@ -1,0 +1,33 @@
+{
+  "xc_id": "129967",
+  "genero": "Schistes",
+  "especie": "albogularis",
+  "subespecie": "",
+  "nombre_cientifico": "Schistes albogularis",
+  "nombre_ingles": "White-throated Daggerbill",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Barbas",
+  "lat": 4.6717,
+  "lon": null,
+  "altura": 1800.0,
+  "fecha": "2009-06-19",
+  "hora": "07:50",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:59",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marin-Gomez",
+  "comentarios": "Ref: PNR Barbas 005A 0710. Bosque montano bajo. Vocalización Natural. Grabaciones realizadas junto con Pedro Jose Cardona Camacho.",
+  "otras_especies": [
+    "Pachyramphus polychopterus"
+  ],
+  "url_audio": "https://xeno-canto.org/129967/download",
+  "url_pagina": "https://xeno-canto.org/129967",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

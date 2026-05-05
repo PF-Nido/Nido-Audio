@@ -1,0 +1,33 @@
+{
+  "xc_id": "12789",
+  "genero": "Colibri",
+  "especie": "cyanotus",
+  "subespecie": "",
+  "nombre_cientifico": "Colibri cyanotus",
+  "nombre_ingles": "Lesser Violetear",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "La Playa de Belen, ANUC Los Estoraques, Sector Piritama, Norte de Santander",
+  "lat": 8.2167,
+  "lon": null,
+  "altura": 1650.0,
+  "fecha": "2005-06-26",
+  "hora": "7:17",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:40",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan de las Casas",
+  "comentarios": "",
+  "otras_especies": [
+    "Vireo leucophrys"
+  ],
+  "url_audio": "https://xeno-canto.org/12789/download",
+  "url_pagina": "https://xeno-canto.org/12789",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

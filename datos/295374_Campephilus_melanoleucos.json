@@ -1,0 +1,33 @@
+{
+  "xc_id": "295374",
+  "genero": "Campephilus",
+  "especie": "melanoleucos",
+  "subespecie": "",
+  "nombre_cientifico": "Campephilus melanoleucos",
+  "nombre_ingles": "Crimson-crested Woodpecker",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "La Candelaria, vereda El Guira (Tauramena, Casanare)",
+  "lat": 4.6741,
+  "lon": null,
+  "altura": 190.0,
+  "fecha": "2015-12-08",
+  "hora": "07:36",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:06",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Alejandro Morales Betancourt",
+  "comentarios": "",
+  "otras_especies": [
+    "Cantorchilus leucotis"
+  ],
+  "url_audio": "https://xeno-canto.org/295374/download",
+  "url_pagina": "https://xeno-canto.org/295374",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

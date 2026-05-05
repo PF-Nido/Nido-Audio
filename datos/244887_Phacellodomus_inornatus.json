@@ -1,0 +1,33 @@
+{
+  "xc_id": "244887",
+  "genero": "Phacellodomus",
+  "especie": "inornatus",
+  "subespecie": "",
+  "nombre_cientifico": "Phacellodomus inornatus",
+  "nombre_ingles": "Plain Thornbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Finca La Bretaña, Vereda Guaracuara, San Luis de Palenque, Casanare",
+  "lat": 5.145,
+  "lon": null,
+  "altura": 190.0,
+  "fecha": "2012-07-08",
+  "hora": "09:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "3:59",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marín Gómez &amp; Juan Pablo López",
+  "comentarios": "Sabana.Reference:OHMJPLC_B_530",
+  "otras_especies": [
+    "Mimus gilvus"
+  ],
+  "url_audio": "https://xeno-canto.org/244887/download",
+  "url_pagina": "https://xeno-canto.org/244887",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

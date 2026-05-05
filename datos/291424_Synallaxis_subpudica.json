@@ -1,0 +1,33 @@
+{
+  "xc_id": "291424",
+  "genero": "Synallaxis",
+  "especie": "subpudica",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis subpudica",
+  "nombre_ingles": "Silvery-throated Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Sopó, Cundinamarca",
+  "lat": 4.9306,
+  "lon": null,
+  "altura": 2600.0,
+  "fecha": "2014-08-29",
+  "hora": "08:30",
+  "calidad_xc": "A",
+  "tipo_canto": "alarm call, song",
+  "duracion": "1:46",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Pablo Casallas",
+  "comentarios": "A familiar group foraging and calls into native scrubs. Birds at three meters from mic.",
+  "otras_especies": [
+    "Sturnella magna"
+  ],
+  "url_audio": "https://xeno-canto.org/291424/download",
+  "url_pagina": "https://xeno-canto.org/291424",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "273706",
+  "genero": "Basileuterus",
+  "especie": "delattrii",
+  "subespecie": "",
+  "nombre_cientifico": "Basileuterus delattrii",
+  "nombre_ingles": "Chestnut-capped Warbler",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Mana Dulce, Cundinamarca",
+  "lat": 4.351,
+  "lon": null,
+  "altura": null,
+  "fecha": "2010-01-05",
+  "hora": "08:20",
+  "calidad_xc": "A",
+  "tipo_canto": "call, song, song and call",
+  "duracion": "1:49",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Peter Boesman",
+  "comentarios": "",
+  "otras_especies": [
+    "Myrmeciza longipes"
+  ],
+  "url_audio": "https://xeno-canto.org/273706/download",
+  "url_pagina": "https://xeno-canto.org/273706",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

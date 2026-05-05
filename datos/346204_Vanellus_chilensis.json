@@ -1,0 +1,33 @@
+{
+  "xc_id": "346204",
+  "genero": "Vanellus",
+  "especie": "chilensis",
+  "subespecie": "",
+  "nombre_cientifico": "Vanellus chilensis",
+  "nombre_ingles": "Southern Lapwing",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Barcelona de Indios, Bolívar",
+  "lat": 10.5257,
+  "lon": null,
+  "altura": 2.0,
+  "fecha": "2016-12-06",
+  "hora": "06:30",
+  "calidad_xc": "B",
+  "tipo_canto": "alarm call",
+  "duracion": "0:15",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Nick Komar",
+  "comentarios": "Alarm calls from multiple birds in a puddle at the edge of a horse pasture/wet meadow.",
+  "otras_especies": [
+    "Tringa melanoleuca"
+  ],
+  "url_audio": "https://xeno-canto.org/346204/download",
+  "url_pagina": "https://xeno-canto.org/346204",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

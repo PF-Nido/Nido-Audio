@@ -1,0 +1,33 @@
+{
+  "xc_id": "1048638",
+  "genero": "Synallaxis",
+  "especie": "azarae",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis azarae",
+  "nombre_ingles": "Azara's Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Corregimiento El Manantial, Manizales, Caldas",
+  "lat": 5.0869,
+  "lon": null,
+  "altura": 2160.0,
+  "fecha": "2025-10-17",
+  "hora": "11:12",
+  "calidad_xc": "B",
+  "tipo_canto": "uncertain",
+  "duracion": "0:14",
+  "sexo": "uncertain",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Alejandro Morales Betancourt",
+  "comentarios": "Borde de Bosque. Vegetación Secundaria Alta. Min: 0:06 - 0:10",
+  "otras_especies": [
+    "Pheugopedius mystacalis"
+  ],
+  "url_audio": "https://xeno-canto.org/1048638/download",
+  "url_pagina": "https://xeno-canto.org/1048638",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

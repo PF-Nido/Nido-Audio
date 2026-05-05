@@ -1,0 +1,33 @@
+{
+  "xc_id": "128556",
+  "genero": "Haplophaedia",
+  "especie": "aureliae",
+  "subespecie": "",
+  "nombre_cientifico": "Haplophaedia aureliae",
+  "nombre_ingles": "Greenish Puffleg",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Parque Regional Barbas-Bremen, Filandia, Quindio",
+  "lat": 4.6717,
+  "lon": null,
+  "altura": 1800.0,
+  "fecha": "2013-01-22",
+  "hora": "15:30",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:30",
+  "sexo": "male",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar H. Marín-Gómez",
+  "comentarios": "Ref OHM267. Natural vocalization. Distance to Mic: 10 m. Oneindividual foraging insects in entangled understory. Low Montane Cloud Forest. Sunny weather. Not filtering",
+  "otras_especies": [
+    "Psittacara wagleri"
+  ],
+  "url_audio": "https://xeno-canto.org/128556/download",
+  "url_pagina": "https://xeno-canto.org/128556",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

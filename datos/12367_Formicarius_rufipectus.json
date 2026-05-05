@@ -1,0 +1,33 @@
+{
+  "xc_id": "12367",
+  "genero": "Formicarius",
+  "especie": "rufipectus",
+  "subespecie": "",
+  "nombre_cientifico": "Formicarius rufipectus",
+  "nombre_ingles": "Rufous-breasted Antthrush",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Ricaurte, RN La Planada, Narino",
+  "lat": 1.0834,
+  "lon": null,
+  "altura": 2000.0,
+  "fecha": "2004-08-11",
+  "hora": "?",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:38",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Laverde",
+  "comentarios": "Mismo individuo de XC12366",
+  "otras_especies": [
+    "Drymophila striaticeps"
+  ],
+  "url_audio": "https://xeno-canto.org/12367/download",
+  "url_pagina": "https://xeno-canto.org/12367",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

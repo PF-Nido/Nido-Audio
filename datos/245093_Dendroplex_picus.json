@@ -1,0 +1,33 @@
+{
+  "xc_id": "245093",
+  "genero": "Dendroplex",
+  "especie": "picus",
+  "subespecie": "",
+  "nombre_cientifico": "Dendroplex picus",
+  "nombre_ingles": "Straight-billed Woodcreeper",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Natural Playa Guio, San José del Guaviare, Guaviare",
+  "lat": 2.5828,
+  "lon": null,
+  "altura": 180.0,
+  "fecha": "2013-07-02",
+  "hora": "13:08",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:33",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marín Gómez",
+  "comentarios": "ID accurancy: 100%. Habitat: Second growth lowland forest. Code: 1098.  TASCAM DR 100 MKII with internal mic",
+  "otras_especies": [
+    "Taraba major"
+  ],
+  "url_audio": "https://xeno-canto.org/245093/download",
+  "url_pagina": "https://xeno-canto.org/245093",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

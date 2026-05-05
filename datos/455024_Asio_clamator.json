@@ -1,0 +1,33 @@
+{
+  "xc_id": "455024",
+  "genero": "Asio",
+  "especie": "clamator",
+  "subespecie": "clamator",
+  "nombre_cientifico": "Asio clamator",
+  "nombre_ingles": "Striped Owl",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Humedal Córdoba sector III, Suba, Bogotá",
+  "lat": 4.7037,
+  "lon": null,
+  "altura": 2500.0,
+  "fecha": "2019-01-10",
+  "hora": "12:00",
+  "calidad_xc": "B",
+  "tipo_canto": "alarm call, call",
+  "duracion": "0:16",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Fernando Castro",
+  "comentarios": "",
+  "otras_especies": [
+    "Piranga rubra"
+  ],
+  "url_audio": "https://xeno-canto.org/455024/download",
+  "url_pagina": "https://xeno-canto.org/455024",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

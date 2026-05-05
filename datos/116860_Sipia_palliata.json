@@ -1,0 +1,33 @@
+{
+  "xc_id": "116860",
+  "genero": "Sipia",
+  "especie": "palliata",
+  "subespecie": "",
+  "nombre_cientifico": "Sipia palliata",
+  "nombre_ingles": "Magdalena Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Rio Claro, Doradal, Antioquia",
+  "lat": 5.9002,
+  "lon": null,
+  "altura": 300.0,
+  "fecha": "2011-05-28",
+  "hora": "07:00",
+  "calidad_xc": "A",
+  "tipo_canto": "alarm call, call, song",
+  "duracion": "1:51",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Diego Calderon-F.",
+  "comentarios": "Couple calling and singing very excited after playback",
+  "otras_especies": [
+    "Sipia palliata"
+  ],
+  "url_audio": "https://xeno-canto.org/116860/download",
+  "url_pagina": "https://xeno-canto.org/116860",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

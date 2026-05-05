@@ -1,0 +1,33 @@
+{
+  "xc_id": "273414",
+  "genero": "Coeligena",
+  "especie": "prunellei",
+  "subespecie": "",
+  "nombre_cientifico": "Coeligena prunellei",
+  "nombre_ingles": "Black Inca",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RNA Reinita Cielo Azul, San Vicente de Chucurí, Santander, Colombia, 1900m, N",
+  "lat": 6.8662,
+  "lon": null,
+  "altura": 1900.0,
+  "fecha": "2011-01-31",
+  "hora": "07:00",
+  "calidad_xc": "A",
+  "tipo_canto": "call",
+  "duracion": "0:18",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Peter Boesman",
+  "comentarios": "At feeder.",
+  "otras_especies": [
+    "Mionectes olivaceus"
+  ],
+  "url_audio": "https://xeno-canto.org/273414/download",
+  "url_pagina": "https://xeno-canto.org/273414",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

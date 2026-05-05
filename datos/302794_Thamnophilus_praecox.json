@@ -1,0 +1,33 @@
+{
+  "xc_id": "302794",
+  "genero": "Thamnophilus",
+  "especie": "praecox",
+  "subespecie": "",
+  "nombre_cientifico": "Thamnophilus praecox",
+  "nombre_ingles": "Cocha Antshrike",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Rio Caucayà, Puerto Leguízamo, Putumayo",
+  "lat": -0.1767,
+  "lon": null,
+  "altura": 190.0,
+  "fecha": "2016-01-30",
+  "hora": "08:00",
+  "calidad_xc": "B",
+  "tipo_canto": "alarm call",
+  "duracion": "0:25",
+  "sexo": "female, male",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Ottavio Janni",
+  "comentarios": "First record of Cocha Antshrike for Colombia, discovered by myself and Jurgen Beckers. Alarm (?) calls of a male and female responding aggressively to playback in dense understory (about 1.5 -2 m off the ground) of streamside forest (the forest is presumably flooded at this spot for most of the year; water levels were very low). These calls were uttered immediately after the birds - which had been silent - flew in aggressively in response to playback of Cocha Antshrike song. After about two minutes of making these calls, the birds began to sing quite persistently (XC302791), which they continued to do for at least 15 minutes. Photographic documentation on eBird checklists.",
+  "otras_especies": [
+    "Hylophylax punctulatus"
+  ],
+  "url_audio": "https://xeno-canto.org/302794/download",
+  "url_pagina": "https://xeno-canto.org/302794",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

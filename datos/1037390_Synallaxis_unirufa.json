@@ -1,0 +1,33 @@
+{
+  "xc_id": "1037390",
+  "genero": "Synallaxis",
+  "especie": "unirufa",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis unirufa",
+  "nombre_ingles": "Rufous Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Mashiramo Glamping, Cesar, Colombia",
+  "lat": 10.368,
+  "lon": null,
+  "altura": 2400.0,
+  "fecha": "2025-01-21",
+  "hora": "15:54",
+  "calidad_xc": "B",
+  "tipo_canto": "call, song",
+  "duracion": "0:20",
+  "sexo": "uncertain",
+  "etapa_vida": "uncertain",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Sue Riffe",
+  "comentarios": "Rufous Spinetail is in the middle of this recording with calls from a Common Bush-Tanager.",
+  "otras_especies": [
+    "Chlorospingus flavopectus"
+  ],
+  "url_audio": "https://xeno-canto.org/1037390/download",
+  "url_pagina": "https://xeno-canto.org/1037390",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

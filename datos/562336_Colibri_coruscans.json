@@ -1,0 +1,33 @@
+{
+  "xc_id": "562336",
+  "genero": "Colibri",
+  "especie": "coruscans",
+  "subespecie": "",
+  "nombre_cientifico": "Colibri coruscans",
+  "nombre_ingles": "Sparkling Violetear",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Bogotá, Centro, Parque de la Independencia",
+  "lat": 4.6116,
+  "lon": null,
+  "altura": 2622.0,
+  "fecha": "2020-05-10",
+  "hora": "07:40",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:06",
+  "sexo": "",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Marcela Morales sánchez",
+  "comentarios": "Decreased noise.",
+  "otras_especies": [
+    "Zonotrichia capensis"
+  ],
+  "url_audio": "https://xeno-canto.org/562336/download",
+  "url_pagina": "https://xeno-canto.org/562336",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

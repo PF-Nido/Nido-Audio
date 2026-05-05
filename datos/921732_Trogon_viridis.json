@@ -1,0 +1,33 @@
+{
+  "xc_id": "921732",
+  "genero": "Trogon",
+  "especie": "viridis",
+  "subespecie": "",
+  "nombre_cientifico": "Trogon viridis",
+  "nombre_ingles": "Green-backed Trogon",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Mitú, Vaupes",
+  "lat": 1.0943,
+  "lon": null,
+  "altura": 170.0,
+  "fecha": "2024-01-21",
+  "hora": "10:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "1:11",
+  "sexo": "uncertain",
+  "etapa_vida": "uncertain",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Jaime Suárez ",
+  "comentarios": "",
+  "otras_especies": [
+    "Hypocnemis hypoxantha"
+  ],
+  "url_audio": "https://xeno-canto.org/921732/download",
+  "url_pagina": "https://xeno-canto.org/921732",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

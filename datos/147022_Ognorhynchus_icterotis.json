@@ -1,0 +1,33 @@
+{
+  "xc_id": "147022",
+  "genero": "Ognorhynchus",
+  "especie": "icterotis",
+  "subespecie": "",
+  "nombre_cientifico": "Ognorhynchus icterotis",
+  "nombre_ingles": "Yellow-eared Parrot",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Departamento de Caldas-Vereda La Antioqueña",
+  "lat": 5.515,
+  "lon": null,
+  "altura": 2700.0,
+  "fecha": "2012-09-22",
+  "hora": "17:30",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:46",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Edwar H Guarín",
+  "comentarios": "",
+  "otras_especies": [
+    "Scytalopus spillmanni"
+  ],
+  "url_audio": "https://xeno-canto.org/147022/download",
+  "url_pagina": "https://xeno-canto.org/147022",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

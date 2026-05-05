@@ -1,0 +1,33 @@
+{
+  "xc_id": "86176",
+  "genero": "Ardea",
+  "especie": "alba",
+  "subespecie": "",
+  "nombre_cientifico": "Ardea alba",
+  "nombre_ingles": "Great Egret",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Coloso, Sucre, Montes de Maria",
+  "lat": 9.505,
+  "lon": null,
+  "altura": 300.0,
+  "fecha": "2011-08-08",
+  "hora": "08:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:22",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oswaldo Cortes",
+  "comentarios": "",
+  "otras_especies": [
+    "Jacana jacana"
+  ],
+  "url_audio": "https://xeno-canto.org/86176/download",
+  "url_pagina": "https://xeno-canto.org/86176",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

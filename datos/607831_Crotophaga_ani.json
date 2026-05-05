@@ -1,0 +1,33 @@
+{
+  "xc_id": "607831",
+  "genero": "Crotophaga",
+  "especie": "ani",
+  "subespecie": "",
+  "nombre_cientifico": "Crotophaga ani",
+  "nombre_ingles": "Smooth-billed Ani",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Natural La Isla Escondida, Orito, Putumayo",
+  "lat": 0.6513,
+  "lon": null,
+  "altura": 850.0,
+  "fecha": "2020-12-07",
+  "hora": "15:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:17",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Jerome Fischer",
+  "comentarios": "",
+  "otras_especies": [
+    "Psarocolius angustifrons"
+  ],
+  "url_audio": "https://xeno-canto.org/607831/download",
+  "url_pagina": "https://xeno-canto.org/607831",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

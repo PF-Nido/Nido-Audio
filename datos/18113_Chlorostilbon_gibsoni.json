@@ -1,0 +1,33 @@
+{
+  "xc_id": "18113",
+  "genero": "Chlorostilbon",
+  "especie": "gibsoni",
+  "subespecie": "",
+  "nombre_cientifico": "Chlorostilbon gibsoni",
+  "nombre_ingles": "Red-billed Emerald",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Los Flamencos, Guajira",
+  "lat": 11.671738,
+  "lon": null,
+  "altura": 0.0,
+  "fecha": "2008-02-03",
+  "hora": "06:30",
+  "calidad_xc": "A",
+  "tipo_canto": "call, calls during foraging",
+  "duracion": "0:25",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Herman van Oosten",
+  "comentarios": "For the collection!",
+  "otras_especies": [
+    "Troglodytes aedon"
+  ],
+  "url_audio": "https://xeno-canto.org/18113/download",
+  "url_pagina": "https://xeno-canto.org/18113",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

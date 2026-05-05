@@ -1,0 +1,33 @@
+{
+  "xc_id": "99287",
+  "genero": "Cercomacroides",
+  "especie": "parkeri",
+  "subespecie": "",
+  "nombre_cientifico": "Cercomacroides parkeri",
+  "nombre_ingles": "Parker's Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Santa Cecilia, Serrania de San Lucas",
+  "lat": 7.9759,
+  "lon": null,
+  "altura": 1550.0,
+  "fecha": "2010-01-07",
+  "hora": "07:30",
+  "calidad_xc": "B",
+  "tipo_canto": "duet, song",
+  "duracion": "0:49",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Myornis",
+  "comentarios": "Species confirmed at site, not seen on this occasion. Background parrot seen.",
+  "otras_especies": [
+    "Pyrilia pyrilia"
+  ],
+  "url_audio": "https://xeno-canto.org/99287/download",
+  "url_pagina": "https://xeno-canto.org/99287",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

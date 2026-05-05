@@ -1,0 +1,33 @@
+{
+  "xc_id": "86106",
+  "genero": "Ortalis",
+  "especie": "garrula",
+  "subespecie": "",
+  "nombre_cientifico": "Ortalis garrula",
+  "nombre_ingles": "Chestnut-winged Chachalaca",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Coloso, Sucre, Montes de Maria",
+  "lat": 9.505,
+  "lon": null,
+  "altura": 300.0,
+  "fecha": "2011-08-08",
+  "hora": "08:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:34",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oswaldo Cortes",
+  "comentarios": "",
+  "otras_especies": [
+    "Columbina talpacoti"
+  ],
+  "url_audio": "https://xeno-canto.org/86106/download",
+  "url_pagina": "https://xeno-canto.org/86106",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

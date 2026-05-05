@@ -1,0 +1,33 @@
+{
+  "xc_id": "906370",
+  "genero": "Thamnophilus",
+  "especie": "unicolor",
+  "subespecie": "",
+  "nombre_cientifico": "Thamnophilus unicolor",
+  "nombre_ingles": "Uniform Antshrike",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RN Las Tángaras, Chocó",
+  "lat": 5.8135,
+  "lon": null,
+  "altura": 1700.0,
+  "fecha": "2024-03-26",
+  "hora": "12:40",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:25",
+  "sexo": "male",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Scott Olmstead",
+  "comentarios": "",
+  "otras_especies": [
+    "Cyclarhis nigrirostris"
+  ],
+  "url_audio": "https://xeno-canto.org/906370/download",
+  "url_pagina": "https://xeno-canto.org/906370",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

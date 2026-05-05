@@ -1,0 +1,33 @@
+{
+  "xc_id": "518218",
+  "genero": "Andigena",
+  "especie": "nigrirostris",
+  "subespecie": "",
+  "nombre_cientifico": "Andigena nigrirostris",
+  "nombre_ingles": "Black-billed Mountain Toucan",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Quebrada San José",
+  "lat": 4.55,
+  "lon": null,
+  "altura": 2600.0,
+  "fecha": "1994-07-17",
+  "hora": "16:53:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "6:22",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Bernabé López-Lanus (Colección de Sonidos Ambientales - Instituto Humboldt)",
+  "comentarios": "IAvH-CSA-01076\r\nTo obtain a wav file of the original recording, please contact coleccionesbiologicas@humboldt.org.co\r\nGrabado por Bernabé López-Lanus el 17 de julio de 1998 en Quebrada San José en Tolima a los 2600 msnm",
+  "otras_especies": [
+    "Premnoplex brunnescens"
+  ],
+  "url_audio": "https://xeno-canto.org/518218/download",
+  "url_pagina": "https://xeno-canto.org/518218",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

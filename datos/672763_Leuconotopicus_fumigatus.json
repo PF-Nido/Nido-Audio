@@ -1,0 +1,33 @@
+{
+  "xc_id": "672763",
+  "genero": "Leuconotopicus",
+  "especie": "fumigatus",
+  "subespecie": "fumigatus",
+  "nombre_cientifico": "Leuconotopicus fumigatus",
+  "nombre_ingles": "Smoky-brown Woodpecker",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Parque Ecológico Pionono Sopó, Cundinamarca",
+  "lat": 4.8963,
+  "lon": null,
+  "altura": 3200.0,
+  "fecha": "2021-09-03",
+  "hora": "17:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:06",
+  "sexo": "male",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Fernando Castro",
+  "comentarios": "",
+  "otras_especies": [
+    "Grallaria ruficapilla"
+  ],
+  "url_audio": "https://xeno-canto.org/672763/download",
+  "url_pagina": "https://xeno-canto.org/672763",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

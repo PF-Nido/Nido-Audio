@@ -1,0 +1,33 @@
+{
+  "xc_id": "117576",
+  "genero": "Aulacorhynchus",
+  "especie": "albivitta",
+  "subespecie": "",
+  "nombre_cientifico": "Aulacorhynchus albivitta",
+  "nombre_ingles": "White-throated Toucanet",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "SFF de Iguaque y Sisga, Chiquiza, Boyacá",
+  "lat": 5.633333,
+  "lon": null,
+  "altura": null,
+  "fecha": "1997-11-05",
+  "hora": "?",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:52",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)",
+  "comentarios": "IAvH-CSA 10397\r\n\r\nTo obtain a wav file of the original recording, please contact csa@humboldt.org.co",
+  "otras_especies": [
+    "Myadestes ralloides"
+  ],
+  "url_audio": "https://xeno-canto.org/117576/download",
+  "url_pagina": "https://xeno-canto.org/117576",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

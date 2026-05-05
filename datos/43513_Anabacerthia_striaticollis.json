@@ -1,0 +1,33 @@
+{
+  "xc_id": "43513",
+  "genero": "Anabacerthia",
+  "especie": "striaticollis",
+  "subespecie": "",
+  "nombre_cientifico": "Anabacerthia striaticollis",
+  "nombre_ingles": "Montane Foliage-gleaner",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RNA El Dorado, Sierra de Santa Marta, Magdalena",
+  "lat": 11.1009,
+  "lon": null,
+  "altura": 1800.0,
+  "fecha": "2009-01-00",
+  "hora": "xx:xx",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:08",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Myornis",
+  "comentarios": "",
+  "otras_especies": [
+    "Colibri cyanotus"
+  ],
+  "url_audio": "https://xeno-canto.org/43513/download",
+  "url_pagina": "https://xeno-canto.org/43513",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

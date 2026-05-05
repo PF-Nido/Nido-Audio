@@ -1,0 +1,33 @@
+{
+  "xc_id": "322046",
+  "genero": "Drymophila",
+  "especie": "hellmayri",
+  "subespecie": "",
+  "nombre_cientifico": "Drymophila hellmayri",
+  "nombre_ingles": "Santa Marta Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "El Campano, above Minca, Santa Marta Mountains",
+  "lat": 11.1118,
+  "lon": null,
+  "altura": 1300.0,
+  "fecha": "2016-05-04",
+  "hora": "08:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "1:41",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Diego Calderon-F.",
+  "comentarios": "male song",
+  "otras_especies": [
+    "Ramphastos sulfuratus"
+  ],
+  "url_audio": "https://xeno-canto.org/322046/download",
+  "url_pagina": "https://xeno-canto.org/322046",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

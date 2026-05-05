@@ -1,0 +1,33 @@
+{
+  "xc_id": "273914",
+  "genero": "Thamnophilus",
+  "especie": "unicolor",
+  "subespecie": "",
+  "nombre_cientifico": "Thamnophilus unicolor",
+  "nombre_ingles": "Uniform Antshrike",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "PN Tatamá, Montezuma trail near Pueblo Rico , Risaralda",
+  "lat": 5.234,
+  "lon": null,
+  "altura": 1600.0,
+  "fecha": "2010-01-01",
+  "hora": "10:45",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:19",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Peter Boesman",
+  "comentarios": "",
+  "otras_especies": [
+    "Baryphthengus martii"
+  ],
+  "url_audio": "https://xeno-canto.org/273914/download",
+  "url_pagina": "https://xeno-canto.org/273914",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

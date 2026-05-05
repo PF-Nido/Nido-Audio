@@ -1,0 +1,33 @@
+{
+  "xc_id": "553632",
+  "genero": "Hylophylax",
+  "especie": "punctulatus",
+  "subespecie": "",
+  "nombre_cientifico": "Hylophylax punctulatus",
+  "nombre_ingles": "Dot-backed Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Matraca trail, Inirida, Guainia",
+  "lat": 3.8627,
+  "lon": null,
+  "altura": 100.0,
+  "fecha": "2018-12-31",
+  "hora": "07:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:30",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Fabrice Schmitt",
+  "comentarios": "",
+  "otras_especies": [
+    "Cercomacroides tyrannina"
+  ],
+  "url_audio": "https://xeno-canto.org/553632/download",
+  "url_pagina": "https://xeno-canto.org/553632",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

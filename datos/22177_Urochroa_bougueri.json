@@ -1,0 +1,33 @@
+{
+  "xc_id": "22177",
+  "genero": "Urochroa",
+  "especie": "bougueri",
+  "subespecie": "",
+  "nombre_cientifico": "Urochroa bougueri",
+  "nombre_ingles": "Rufous-gaped Hillstar",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Road to San Jose del Palmar, Serrania de las Paraguas, Choco",
+  "lat": 4.8412,
+  "lon": null,
+  "altura": 1800.0,
+  "fecha": "2008-07-31",
+  "hora": "12:20",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:46",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andrew Spencer",
+  "comentarios": "alarm calls from a bird perched near a Tiny Hawk",
+  "otras_especies": [
+    "Aglaiocercus coelestis"
+  ],
+  "url_audio": "https://xeno-canto.org/22177/download",
+  "url_pagina": "https://xeno-canto.org/22177",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

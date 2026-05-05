@@ -1,0 +1,33 @@
+{
+  "xc_id": "101390",
+  "genero": "Thamnophilus",
+  "especie": "multistriatus",
+  "subespecie": "brachyurus",
+  "nombre_cientifico": "Thamnophilus multistriatus",
+  "nombre_ingles": "Bar-crested Antshrike",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "SFF Otun-Quimbaya, Pereira, Risaralda, C Andes",
+  "lat": 4.727,
+  "lon": null,
+  "altura": 1875.0,
+  "fecha": "2012-04-26",
+  "hora": "13:50",
+  "calidad_xc": "A",
+  "tipo_canto": "call, song, call b and song",
+  "duracion": "0:43",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Jeremy Minns",
+  "comentarios": "Edge of secondary growth in grounds of lodge.",
+  "otras_especies": [
+    "Zonotrichia capensis"
+  ],
+  "url_audio": "https://xeno-canto.org/101390/download",
+  "url_pagina": "https://xeno-canto.org/101390",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

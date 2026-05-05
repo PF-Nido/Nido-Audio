@@ -1,0 +1,33 @@
+{
+  "xc_id": "130032",
+  "genero": "Syndactyla",
+  "especie": "subalaris",
+  "subespecie": "",
+  "nombre_cientifico": "Syndactyla subalaris",
+  "nombre_ingles": "Lineated Foliage-gleaner",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-La Popa",
+  "lat": 4.6717,
+  "lon": null,
+  "altura": 1800.0,
+  "fecha": "2007-11-04",
+  "hora": "05:50",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "1:48",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marin-Gomez",
+  "comentarios": "OHM001A 1344.  Bosque montano bajo. A 30m del mic. Vocalización natural.",
+  "otras_especies": [
+    "Basileuterus tristriatus"
+  ],
+  "url_audio": "https://xeno-canto.org/130032/download",
+  "url_pagina": "https://xeno-canto.org/130032",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

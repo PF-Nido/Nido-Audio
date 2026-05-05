@@ -1,0 +1,33 @@
+{
+  "xc_id": "360582",
+  "genero": "Amazilia",
+  "especie": "tzacatl",
+  "subespecie": "",
+  "nombre_cientifico": "Amazilia tzacatl",
+  "nombre_ingles": "Rufous-tailed Hummingbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Colosó, Sucre",
+  "lat": 9.4997,
+  "lon": null,
+  "altura": 130.0,
+  "fecha": "2017-02-18",
+  "hora": "12:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:06",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Nick Komar",
+  "comentarios": "Heard only  in gallery forest along Arroyo de Colosó.",
+  "otras_especies": [
+    "Trogon rufus"
+  ],
+  "url_audio": "https://xeno-canto.org/360582/download",
+  "url_pagina": "https://xeno-canto.org/360582",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

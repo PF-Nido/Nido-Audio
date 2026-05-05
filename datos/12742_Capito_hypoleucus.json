@@ -1,0 +1,33 @@
+{
+  "xc_id": "12742",
+  "genero": "Capito",
+  "especie": "hypoleucus",
+  "subespecie": "",
+  "nombre_cientifico": "Capito hypoleucus",
+  "nombre_ingles": "White-mantled Barbet",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Otanche, Boyacá, Otanche, La Ye, Serranía de las Quinchas",
+  "lat": 5.8167,
+  "lon": null,
+  "altura": 1450.0,
+  "fecha": "2006-01-07",
+  "hora": "8:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:39",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Laverde",
+  "comentarios": "cantos. ",
+  "otras_especies": [
+    "Machaeropterus striolatus"
+  ],
+  "url_audio": "https://xeno-canto.org/12742/download",
+  "url_pagina": "https://xeno-canto.org/12742",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

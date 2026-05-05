@@ -1,0 +1,33 @@
+{
+  "xc_id": "148363",
+  "genero": "Colibri",
+  "especie": "coruscans",
+  "subespecie": "",
+  "nombre_cientifico": "Colibri coruscans",
+  "nombre_ingles": "Sparkling Violetear",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Cundinamarca, Subachoque, Finca El Cerro",
+  "lat": 5.0,
+  "lon": null,
+  "altura": 2900.0,
+  "fecha": "2000-01-14",
+  "hora": "17:35",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "2:33",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Mateo Hernandez (Colección de Sonidos Ambientales - Instituto Humboldt)",
+  "comentarios": "IAvH-CSA 11071\n\nTo obtain a wav file of the original recording, please contact csa@humboldt.org.co",
+  "otras_especies": [
+    "Aglaeactis cupripennis"
+  ],
+  "url_audio": "https://xeno-canto.org/148363/download",
+  "url_pagina": "https://xeno-canto.org/148363",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

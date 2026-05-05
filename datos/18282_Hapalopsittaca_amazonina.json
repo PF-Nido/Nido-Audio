@@ -1,0 +1,33 @@
+{
+  "xc_id": "18282",
+  "genero": "Hapalopsittaca",
+  "especie": "amazonina",
+  "subespecie": "velezi",
+  "nombre_cientifico": "Hapalopsittaca amazonina",
+  "nombre_ingles": "Rusty-faced Parrot",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "R. N. Rio Blanco, Caldas",
+  "lat": 5.0834,
+  "lon": null,
+  "altura": 2800.0,
+  "fecha": "2008-02-10",
+  "hora": "17:50",
+  "calidad_xc": "B",
+  "tipo_canto": "call, calls of perched birds",
+  "duracion": "0:30",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Herman van Oosten",
+  "comentarios": "Great birds! Same three birds. Perched and sometimes foraging, being slightly alarmed by the presence of a squirrel, or so was my impression.",
+  "otras_especies": [
+    "Turdus serranus"
+  ],
+  "url_audio": "https://xeno-canto.org/18282/download",
+  "url_pagina": "https://xeno-canto.org/18282",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

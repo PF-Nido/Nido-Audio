@@ -1,0 +1,33 @@
+{
+  "xc_id": "128331",
+  "genero": "Synallaxis",
+  "especie": "azarae",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis azarae",
+  "nombre_ingles": "Azara's Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Ecoparque Los Yarumos (Manizales, Caldas)",
+  "lat": 5.0647,
+  "lon": null,
+  "altura": 2158.0,
+  "fecha": "2013-03-29",
+  "hora": "08:13",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:52",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Alejandro Morales Betancourt",
+  "comentarios": "",
+  "otras_especies": [
+    "Momotus aequatorialis"
+  ],
+  "url_audio": "https://xeno-canto.org/128331/download",
+  "url_pagina": "https://xeno-canto.org/128331",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

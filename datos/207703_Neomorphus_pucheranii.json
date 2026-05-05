@@ -1,0 +1,33 @@
+{
+  "xc_id": "207703",
+  "genero": "Neomorphus",
+  "especie": "pucheranii",
+  "subespecie": "pucheranii",
+  "nombre_cientifico": "Neomorphus pucheranii",
+  "nombre_ingles": "Red-billed Ground Cuckoo",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Mitú, Vaupés (Amazonia)",
+  "lat": 1.227,
+  "lon": null,
+  "altura": 190.0,
+  "fecha": "2014-08-02",
+  "hora": "09:00",
+  "calidad_xc": "A",
+  "tipo_canto": "bill snap",
+  "duracion": "0:06",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Diego Calderon-F.",
+  "comentarios": "* Bill snapping from a couple of individuals found foraging with a HUGE army ants swarm. The ants were of a smaller kind and most likely Labidus sp. The swarm was attended by: White-plumed Antbird · Pithys albifrons, White-cheeked Antbird · Gymnopithys leucaspis, Common Scale-backed Antbird · Willisornis poecilinotus, Black-throated Antbird · Myrmeciza atrothorax, Coraya Wren · Pheugopedius coraya, Plain-brown Woodcreeper · Dendrocincla fuliginosa, and White-crowned Manakin · Dixiphia pipra.\r\n\r\n* Habitat was white-sand forest actually with some flooded areas (not near várzea/igapó though) and not as stated in HBW: \"to date found exclusively in well-drained terra firme forest with 20–25 m-high canopy\".\r\n\r\n* This is the first confirmed record of this species for Colombia and represents a range extension of more than 150 km N of its traditional distribution in Amazonian lowlands of Colombia.\r\n\r\n* Observation made with my mate Jorge González and the superb local guide and friend Miguel Portura both from EtnoAvesVaupes, and clients Joe Church and Bill Mossey.",
+  "otras_especies": [
+    "Pithys albifrons"
+  ],
+  "url_audio": "https://xeno-canto.org/207703/download",
+  "url_pagina": "https://xeno-canto.org/207703",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

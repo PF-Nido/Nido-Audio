@@ -1,0 +1,33 @@
+{
+  "xc_id": "356683",
+  "genero": "Nystalus",
+  "especie": "obamai",
+  "subespecie": "",
+  "nombre_cientifico": "Nystalus obamai",
+  "nombre_ingles": "Western Striolated Puffbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Santa Rosa, Cauca",
+  "lat": 1.4191,
+  "lon": null,
+  "altura": 1300.0,
+  "fecha": "2016-04-24",
+  "hora": "07:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:41",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Pablo López-O.",
+  "comentarios": "I was walking inside a trail adjacent to Mandiyaco River, near to PNN Churumbelos, far away I heard the song and I walk slowly to find the bird, after that, I heard a couple singing inside of montane forest during one minute, (The recording was made with my digital camera).\r\nI and other partners are writing a paper of this record for Colombia, also,  we believe that according to http://www.museum.lsu.edu/~Remsen/SACCprop617.htm this taxon was elevated to species level: Nystalus obamai, and xenocanto should follow this split.",
+  "otras_especies": [
+    "Myiotriccus ornatus"
+  ],
+  "url_audio": "https://xeno-canto.org/356683/download",
+  "url_pagina": "https://xeno-canto.org/356683",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "99490",
+  "genero": "Cercomacroides",
+  "especie": "parkeri",
+  "subespecie": "",
+  "nombre_cientifico": "Cercomacroides parkeri",
+  "nombre_ingles": "Parker's Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Santa Cecilia, Serrania de San Lucas",
+  "lat": 7.9759,
+  "lon": null,
+  "altura": 1550.0,
+  "fecha": "2010-01-08",
+  "hora": "06:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:47",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Myornis",
+  "comentarios": "Duet, birds singing at dawn",
+  "otras_especies": [
+    "Dysithamnus mentalis"
+  ],
+  "url_audio": "https://xeno-canto.org/99490/download",
+  "url_pagina": "https://xeno-canto.org/99490",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

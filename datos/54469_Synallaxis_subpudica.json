@@ -1,0 +1,33 @@
+{
+  "xc_id": "54469",
+  "genero": "Synallaxis",
+  "especie": "subpudica",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis subpudica",
+  "nombre_ingles": "Silvery-throated Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Ex Hacienda El Pensil, Tenjo, Cundinamarca",
+  "lat": null,
+  "lon": null,
+  "altura": 2675.0,
+  "fecha": "2000-04-13",
+  "hora": "17:32",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:11",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Bernabe Lopez-Lanus",
+  "comentarios": "",
+  "otras_especies": [
+    "Arremon torquatus"
+  ],
+  "url_audio": "https://xeno-canto.org/54469/download",
+  "url_pagina": "https://xeno-canto.org/54469",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

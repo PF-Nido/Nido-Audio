@@ -1,0 +1,33 @@
+{
+  "xc_id": "301165",
+  "genero": "Metallura",
+  "especie": "tyrianthina",
+  "subespecie": "districta",
+  "nombre_cientifico": "Metallura tyrianthina",
+  "nombre_ingles": "Tyrian Metaltail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Cebolletas, Sierra Nevada de Santa Marta, Ciénaga, Magdalena",
+  "lat": 10.9028,
+  "lon": null,
+  "altura": 2621.0,
+  "fecha": "2015-12-14",
+  "hora": "12:30",
+  "calidad_xc": "A",
+  "tipo_canto": "call, song",
+  "duracion": "0:26",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Diego Calderon-F.",
+  "comentarios": "Female\r\n\r\n\r\nDecember 2015 expedition to the highlands of the Sierra Nevada de Santa Marta to look for Blue-bearded Helmetcrest (Oxypogon cyanolaemus)\r\n\r\n\r\n[My expedition photos clicking HERE](https://www.facebook.com/media/set/?set=a.10153408091393517&type=1&l=abe0db4538)\r\n\r\n[Sebastian's expedition photos clicking HERE](https://www.flickr.com/photos/133941054@N05/sets/72157663591358435)",
+  "otras_especies": [
+    "Mecocerculus leucophrys"
+  ],
+  "url_audio": "https://xeno-canto.org/301165/download",
+  "url_pagina": "https://xeno-canto.org/301165",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "590163",
+  "genero": "Myrmotherula",
+  "especie": "ignota",
+  "subespecie": "obscura",
+  "nombre_cientifico": "Myrmotherula ignota",
+  "nombre_ingles": "Moustached Antwren",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Santuario de Flora Plantas Medicinales Orito Ingi Ande",
+  "lat": 0.7145,
+  "lon": null,
+  "altura": 900.0,
+  "fecha": "2019-08-16",
+  "hora": "11:30",
+  "calidad_xc": "B",
+  "tipo_canto": "duet, song",
+  "duracion": "0:30",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Óscar Jaimes",
+  "comentarios": "forest edge",
+  "otras_especies": [
+    "Troglodytes aedon"
+  ],
+  "url_audio": "https://xeno-canto.org/590163/download",
+  "url_pagina": "https://xeno-canto.org/590163",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

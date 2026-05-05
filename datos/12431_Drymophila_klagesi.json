@@ -1,0 +1,33 @@
+{
+  "xc_id": "12431",
+  "genero": "Drymophila",
+  "especie": "klagesi",
+  "subespecie": "",
+  "nombre_cientifico": "Drymophila klagesi",
+  "nombre_ingles": "Klages's Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Ocaña, Agua de la Virgen, Cerro de la virgen, Norte de Santander",
+  "lat": 8.2167,
+  "lon": null,
+  "altura": 1600.0,
+  "fecha": "2005-07-30",
+  "hora": "5:53",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:56",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Laverde",
+  "comentarios": "",
+  "otras_especies": [
+    "Zimmerius chrysops"
+  ],
+  "url_audio": "https://xeno-canto.org/12431/download",
+  "url_pagina": "https://xeno-canto.org/12431",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "127603",
+  "genero": "Phaethornis",
+  "especie": "anthophilus",
+  "subespecie": "",
+  "nombre_cientifico": "Phaethornis anthophilus",
+  "nombre_ingles": "Pale-bellied Hermit",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Puerto Lopez, Meta",
+  "lat": 4.1809,
+  "lon": null,
+  "altura": 170.0,
+  "fecha": "2013-03-05",
+  "hora": "03:30",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:30",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oswaldo Cortes",
+  "comentarios": "",
+  "otras_especies": [
+    "Ramphastos tucanus"
+  ],
+  "url_audio": "https://xeno-canto.org/127603/download",
+  "url_pagina": "https://xeno-canto.org/127603",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

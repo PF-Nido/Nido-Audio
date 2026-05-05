@@ -1,0 +1,33 @@
+{
+  "xc_id": "15934",
+  "genero": "Anthocephala",
+  "especie": "floriceps",
+  "subespecie": "",
+  "nombre_cientifico": "Anthocephala floriceps",
+  "nombre_ingles": "Santa Marta Blossomcrown",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RNA El Dorado, Sierra de Santa Marta, Magdalena",
+  "lat": 11.1009,
+  "lon": null,
+  "altura": 1750.0,
+  "fecha": "2007-11-03",
+  "hora": "08:20",
+  "calidad_xc": "A",
+  "tipo_canto": "lekking",
+  "duracion": "0:19",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Nick Athanas",
+  "comentarios": "Male. Photo:\r\n\r\n![image](http://antpitta.com/images/photos/hummers/Blossomcrown-male-eldorado_1618.jpg)",
+  "otras_especies": [
+    "Myiarchus tuberculifer"
+  ],
+  "url_audio": "https://xeno-canto.org/15934/download",
+  "url_pagina": "https://xeno-canto.org/15934",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

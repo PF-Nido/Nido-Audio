@@ -1,0 +1,33 @@
+{
+  "xc_id": "357222",
+  "genero": "Pionus",
+  "especie": "menstruus",
+  "subespecie": "menstruus",
+  "nombre_cientifico": "Pionus menstruus",
+  "nombre_ingles": "Blue-headed Parrot",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Sabanitas, Inirida, Guainia",
+  "lat": 3.8809,
+  "lon": null,
+  "altura": 90.0,
+  "fecha": "2017-02-18",
+  "hora": "06:30",
+  "calidad_xc": "A",
+  "tipo_canto": "flight call",
+  "duracion": "0:15",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Guy Kirwan",
+  "comentarios": "Two birds in flight passing over near the settlement.",
+  "otras_especies": [
+    "Formicivora grisea"
+  ],
+  "url_audio": "https://xeno-canto.org/357222/download",
+  "url_pagina": "https://xeno-canto.org/357222",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

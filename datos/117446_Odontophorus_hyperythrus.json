@@ -1,0 +1,33 @@
+{
+  "xc_id": "117446",
+  "genero": "Odontophorus",
+  "especie": "hyperythrus",
+  "subespecie": "",
+  "nombre_cientifico": "Odontophorus hyperythrus",
+  "nombre_ingles": "Chestnut Wood Quail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "PNN Cueva de los Guácharos, Acevedo, Huila",
+  "lat": 1.61691,
+  "lon": null,
+  "altura": null,
+  "fecha": "2001-11-01",
+  "hora": "?",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:18",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)",
+  "comentarios": "IAvH-CSA 7217\n\nTo obtain a wav file of the original recording, please contact csa@humboldt.org.co",
+  "otras_especies": [
+    "Myioborus miniatus"
+  ],
+  "url_audio": "https://xeno-canto.org/117446/download",
+  "url_pagina": "https://xeno-canto.org/117446",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "13152",
+  "genero": "Xiphorhynchus",
+  "especie": "erythropygius",
+  "subespecie": "",
+  "nombre_cientifico": "Xiphorhynchus erythropygius",
+  "nombre_ingles": "Spotted Woodcreeper",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Altaquer, RN Rio Nambi, Narino",
+  "lat": 1.3001,
+  "lon": null,
+  "altura": null,
+  "fecha": "2004-08-16",
+  "hora": "6:05",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:07",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Laverde",
+  "comentarios": "",
+  "otras_especies": [
+    "Basileuterus tristriatus"
+  ],
+  "url_audio": "https://xeno-canto.org/13152/download",
+  "url_pagina": "https://xeno-canto.org/13152",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

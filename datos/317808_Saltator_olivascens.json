@@ -1,0 +1,33 @@
+{
+  "xc_id": "317808",
+  "genero": "Saltator",
+  "especie": "olivascens",
+  "subespecie": "",
+  "nombre_cientifico": "Saltator olivascens",
+  "nombre_ingles": "Olivaceous Saltator",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Cereté, Córdoba",
+  "lat": 8.8667,
+  "lon": null,
+  "altura": 10.0,
+  "fecha": "2016-05-08",
+  "hora": "16:30",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:12",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Nick Komar",
+  "comentarios": "Low-density residential area with managed landscape adjacent to cattle pasture with scattered trees and hedges. Recording edited for clarity.",
+  "otras_especies": [
+    "Leptotila verreauxi"
+  ],
+  "url_audio": "https://xeno-canto.org/317808/download",
+  "url_pagina": "https://xeno-canto.org/317808",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "48670",
+  "genero": "Patagioenas",
+  "especie": "fasciata",
+  "subespecie": "",
+  "nombre_cientifico": "Patagioenas fasciata",
+  "nombre_ingles": "Band-tailed Pigeon",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Hacienda Las Cruces (Area La Ceja), Toche, Municipio Ibague, Tolima",
+  "lat": null,
+  "lon": null,
+  "altura": null,
+  "fecha": "1998-06-18",
+  "hora": "pm",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:31",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Bernabe Lopez-Lanus",
+  "comentarios": "",
+  "otras_especies": [
+    "Troglodytes solstitialis"
+  ],
+  "url_audio": "https://xeno-canto.org/48670/download",
+  "url_pagina": "https://xeno-canto.org/48670",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "747004",
+  "genero": "Psittacara",
+  "especie": "leucophthalmus",
+  "subespecie": "callogenys",
+  "nombre_cientifico": "Psittacara leucophthalmus",
+  "nombre_ingles": "White-eyed Parakeet",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Leticia, Leticia, Amazonas",
+  "lat": -4.2172,
+  "lon": null,
+  "altura": 80.0,
+  "fecha": "2022-08-29",
+  "hora": "08:30",
+  "calidad_xc": "B",
+  "tipo_canto": "call, voces humanas, golpes en madera, música",
+  "duracion": "1:03",
+  "sexo": "uncertain",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Urias Edgardo Gonzalez Carreño",
+  "comentarios": "Dos individuos fue encontrado comiendo frutos de palma de Acaí verdes, en el área del jardín de la estación experimental de primates de Leticia - FIDIC; en la zona urbana de la ciudad de Leticia, Amazonas.",
+  "otras_especies": [
+    "Thraupis episcopus"
+  ],
+  "url_audio": "https://xeno-canto.org/747004/download",
+  "url_pagina": "https://xeno-canto.org/747004",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

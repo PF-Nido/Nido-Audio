@@ -1,0 +1,33 @@
+{
+  "xc_id": "942460",
+  "genero": "Patagioenas",
+  "especie": "subvinacea",
+  "subespecie": "",
+  "nombre_cientifico": "Patagioenas subvinacea",
+  "nombre_ingles": "Ruddy Pigeon",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RNA Arrierito Anqioqueño, Anorí, Antioquia",
+  "lat": 6.9875,
+  "lon": null,
+  "altura": 1600.0,
+  "fecha": "2023-08-21",
+  "hora": "06:30",
+  "calidad_xc": "B",
+  "tipo_canto": "",
+  "duracion": "0:39",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Carlos Delgado JUMABITA",
+  "comentarios": "",
+  "otras_especies": [
+    "Scytalopus atratus"
+  ],
+  "url_audio": "https://xeno-canto.org/942460/download",
+  "url_pagina": "https://xeno-canto.org/942460",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

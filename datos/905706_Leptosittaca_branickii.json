@@ -1,0 +1,33 @@
+{
+  "xc_id": "905706",
+  "genero": "Leptosittaca",
+  "especie": "branickii",
+  "subespecie": "",
+  "nombre_cientifico": "Leptosittaca branickii",
+  "nombre_ingles": "Golden-plumed Parakeet",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Moravia (Aranzazu, Caldas)",
+  "lat": 5.2408,
+  "lon": null,
+  "altura": 2800.0,
+  "fecha": "2024-03-01",
+  "hora": "09:10",
+  "calidad_xc": "B",
+  "tipo_canto": "",
+  "duracion": "0:07",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Alejandro Morales Betancourt",
+  "comentarios": "",
+  "otras_especies": [
+    "Zonotrichia capensis"
+  ],
+  "url_audio": "https://xeno-canto.org/905706/download",
+  "url_pagina": "https://xeno-canto.org/905706",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

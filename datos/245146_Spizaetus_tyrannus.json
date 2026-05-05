@@ -1,0 +1,33 @@
+{
+  "xc_id": "245146",
+  "genero": "Spizaetus",
+  "especie": "tyrannus",
+  "subespecie": "",
+  "nombre_cientifico": "Spizaetus tyrannus",
+  "nombre_ingles": "Black Hawk-Eagle",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Bosque La Meseta, Vereda San José de Suaita, Suaita, Santander",
+  "lat": 6.18,
+  "lon": null,
+  "altura": 1800.0,
+  "fecha": "2014-07-03",
+  "hora": "11:10",
+  "calidad_xc": "B",
+  "tipo_canto": "flight call",
+  "duracion": "2:11",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marín Gómez",
+  "comentarios": "Reference:  1851",
+  "otras_especies": [
+    "Melanospiza bicolor"
+  ],
+  "url_audio": "https://xeno-canto.org/245146/download",
+  "url_pagina": "https://xeno-canto.org/245146",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

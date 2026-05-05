@@ -1,0 +1,33 @@
+{
+  "xc_id": "538287",
+  "genero": "Antrostomus",
+  "especie": "rufus",
+  "subespecie": "minimus",
+  "nombre_cientifico": "Antrostomus rufus",
+  "nombre_ingles": "Rufous Nightjar",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Los Betoses",
+  "lat": 9.6507,
+  "lon": null,
+  "altura": 546.0,
+  "fecha": "2020-03-05",
+  "hora": "18:07",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:28",
+  "sexo": "male",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Gerson Peñuela Díaz",
+  "comentarios": "",
+  "otras_especies": [
+    "Herpetotheres cachinnans"
+  ],
+  "url_audio": "https://xeno-canto.org/538287/download",
+  "url_pagina": "https://xeno-canto.org/538287",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

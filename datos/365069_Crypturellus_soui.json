@@ -1,0 +1,33 @@
+{
+  "xc_id": "365069",
+  "genero": "Crypturellus",
+  "especie": "soui",
+  "subespecie": "",
+  "nombre_cientifico": "Crypturellus soui",
+  "nombre_ingles": "Little Tinamou",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Vegachí, Antioquia",
+  "lat": 6.8309,
+  "lon": null,
+  "altura": 850.0,
+  "fecha": "2017-04-15",
+  "hora": "05:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:26",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Sebastian Davila",
+  "comentarios": "",
+  "otras_especies": [
+    "Crypturellus soui"
+  ],
+  "url_audio": "https://xeno-canto.org/365069/download",
+  "url_pagina": "https://xeno-canto.org/365069",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

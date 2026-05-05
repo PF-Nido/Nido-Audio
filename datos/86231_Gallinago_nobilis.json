@@ -1,0 +1,33 @@
+{
+  "xc_id": "86231",
+  "genero": "Gallinago",
+  "especie": "nobilis",
+  "subespecie": "",
+  "nombre_cientifico": "Gallinago nobilis",
+  "nombre_ingles": "Noble Snipe",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Humedal del Salitre en Bogota",
+  "lat": null,
+  "lon": null,
+  "altura": 2500.0,
+  "fecha": "2011-08-17",
+  "hora": "08:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:05",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oswaldo Cortes",
+  "comentarios": "",
+  "otras_especies": [
+    "Nycticorax nycticorax"
+  ],
+  "url_audio": "https://xeno-canto.org/86231/download",
+  "url_pagina": "https://xeno-canto.org/86231",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

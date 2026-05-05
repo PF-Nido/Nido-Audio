@@ -1,0 +1,33 @@
+{
+  "xc_id": "421080",
+  "genero": "Leucopternis",
+  "especie": "melanops",
+  "subespecie": "",
+  "nombre_cientifico": "Leucopternis melanops",
+  "nombre_ingles": "Black-faced Hawk",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Finca San Carlos, Vereda Peneya,  Puerto Asís, Putumayo",
+  "lat": 0.5362,
+  "lon": null,
+  "altura": 280.0,
+  "fecha": "2018-06-13",
+  "hora": "14:30",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:44",
+  "sexo": "",
+  "etapa_vida": "juvenile",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Brayan Coral Jaramillo",
+  "comentarios": "Natural vocalizations of a juvenile of leucopternis melanops that fell from the nest.",
+  "otras_especies": [
+    "Psarocolius angustifrons"
+  ],
+  "url_audio": "https://xeno-canto.org/421080/download",
+  "url_pagina": "https://xeno-canto.org/421080",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

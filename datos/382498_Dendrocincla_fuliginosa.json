@@ -1,0 +1,33 @@
+{
+  "xc_id": "382498",
+  "genero": "Dendrocincla",
+  "especie": "fuliginosa",
+  "subespecie": "",
+  "nombre_cientifico": "Dendrocincla fuliginosa",
+  "nombre_ingles": "Plain-brown Woodcreeper",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Sabanalarga, Antioquia",
+  "lat": 6.8714,
+  "lon": null,
+  "altura": 1000.0,
+  "fecha": "2017-06-15",
+  "hora": "07:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:14",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andres Angulo ",
+  "comentarios": "A single individual heard on canopy in forest interior of premontane forest. Recording distance was 10 meters.",
+  "otras_especies": [
+    "Pachysylvia semibrunnea"
+  ],
+  "url_audio": "https://xeno-canto.org/382498/download",
+  "url_pagina": "https://xeno-canto.org/382498",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

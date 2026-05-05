@@ -1,0 +1,33 @@
+{
+  "xc_id": "92163",
+  "genero": "Percnostola",
+  "especie": "immaculata",
+  "subespecie": "concepcion",
+  "nombre_cientifico": "Percnostola immaculata",
+  "nombre_ingles": "Blue-lored Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Santa Cecilia, Serrania de San Lucas",
+  "lat": 7.9759,
+  "lon": null,
+  "altura": 1550.0,
+  "fecha": "2010-01-09",
+  "hora": "09:00",
+  "calidad_xc": "B",
+  "tipo_canto": "call, calls in hand",
+  "duracion": "0:22",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Myornis",
+  "comentarios": "Calls of adult male holotype whilst in the hand.",
+  "otras_especies": [
+    "Myiotriccus ornatus"
+  ],
+  "url_audio": "https://xeno-canto.org/92163/download",
+  "url_pagina": "https://xeno-canto.org/92163",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

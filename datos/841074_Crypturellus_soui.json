@@ -1,0 +1,33 @@
+{
+  "xc_id": "841074",
+  "genero": "Crypturellus",
+  "especie": "soui",
+  "subespecie": "",
+  "nombre_cientifico": "Crypturellus soui",
+  "nombre_ingles": "Little Tinamou",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Cali, Valle del Cauca",
+  "lat": 3.412,
+  "lon": null,
+  "altura": 2200.0,
+  "fecha": "2019-01-04",
+  "hora": "08:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:25",
+  "sexo": "uncertain",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Jaime Suárez ",
+  "comentarios": "",
+  "otras_especies": [
+    "Cacicus chrysonotus"
+  ],
+  "url_audio": "https://xeno-canto.org/841074/download",
+  "url_pagina": "https://xeno-canto.org/841074",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "447992",
+  "genero": "Sclerurus",
+  "especie": "obscurior",
+  "subespecie": "",
+  "nombre_cientifico": "Sclerurus obscurior",
+  "nombre_ingles": "Dusky Leaftosser",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Natural La Isla Escondida, Orito, Putumayo",
+  "lat": 0.6513,
+  "lon": null,
+  "altura": 850.0,
+  "fecha": "2018-01-23",
+  "hora": "08:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:28",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Ottavio Janni",
+  "comentarios": "Singing about 10-30 cm off the ground in dense vegetation beside a small stream",
+  "otras_especies": [
+    "Hylophylax naevius"
+  ],
+  "url_audio": "https://xeno-canto.org/447992/download",
+  "url_pagina": "https://xeno-canto.org/447992",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

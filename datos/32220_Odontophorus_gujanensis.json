@@ -1,0 +1,33 @@
+{
+  "xc_id": "32220",
+  "genero": "Odontophorus",
+  "especie": "gujanensis",
+  "subespecie": "marmoratus",
+  "nombre_cientifico": "Odontophorus gujanensis",
+  "nombre_ingles": "Marbled Wood Quail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RNA El Paujil, Serrania de las Quinchas,Santander, Colombia",
+  "lat": 5.9334,
+  "lon": null,
+  "altura": 280.0,
+  "fecha": "2007-12-01",
+  "hora": "06:14",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:12",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Nick Athanas",
+  "comentarios": "First few notes chopped off. Not seen. ",
+  "otras_especies": [
+    "Xiphorhynchus susurrans"
+  ],
+  "url_audio": "https://xeno-canto.org/32220/download",
+  "url_pagina": "https://xeno-canto.org/32220",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

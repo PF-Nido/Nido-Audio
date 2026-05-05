@@ -1,0 +1,33 @@
+{
+  "xc_id": "99532",
+  "genero": "Cercomacroides",
+  "especie": "parkeri",
+  "subespecie": "",
+  "nombre_cientifico": "Cercomacroides parkeri",
+  "nombre_ingles": "Parker's Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Santa Cecilia, Serrania de San Lucas",
+  "lat": 7.9759,
+  "lon": null,
+  "altura": 1550.0,
+  "fecha": "2010-01-08",
+  "hora": "09:30",
+  "calidad_xc": "B",
+  "tipo_canto": "duet, song",
+  "duracion": "1:09",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Myornis",
+  "comentarios": "One of the best recordings from this site - a lovely song of a pair singing together",
+  "otras_especies": [
+    "Myiotriccus ornatus"
+  ],
+  "url_audio": "https://xeno-canto.org/99532/download",
+  "url_pagina": "https://xeno-canto.org/99532",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

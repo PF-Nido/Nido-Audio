@@ -1,0 +1,33 @@
+{
+  "xc_id": "441218",
+  "genero": "Phaethornis",
+  "especie": "guy",
+  "subespecie": "",
+  "nombre_cientifico": "Phaethornis guy",
+  "nombre_ingles": "Green Hermit",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Villa Cielo, Pance",
+  "lat": 3.3335,
+  "lon": null,
+  "altura": 1600.0,
+  "fecha": "2018-11-03",
+  "hora": "08:30",
+  "calidad_xc": "B",
+  "tipo_canto": "call, song",
+  "duracion": "0:26",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Sebastian Ulloa",
+  "comentarios": "Recorded at a Phaethornis guy lek",
+  "otras_especies": [
+    "Phaethornis guy"
+  ],
+  "url_audio": "https://xeno-canto.org/441218/download",
+  "url_pagina": "https://xeno-canto.org/441218",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "284836",
+  "genero": "Percnostola",
+  "especie": "rufifrons",
+  "subespecie": "minor",
+  "nombre_cientifico": "Percnostola rufifrons",
+  "nombre_ingles": "Black-headed Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Mitu, Vaupes",
+  "lat": 1.2598,
+  "lon": null,
+  "altura": 170.0,
+  "fecha": "2014-09-30",
+  "hora": "10:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:16",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Guy Kirwan",
+  "comentarios": "Same individual as XC284835.",
+  "otras_especies": [
+    "Lipaugus vociferans"
+  ],
+  "url_audio": "https://xeno-canto.org/284836/download",
+  "url_pagina": "https://xeno-canto.org/284836",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

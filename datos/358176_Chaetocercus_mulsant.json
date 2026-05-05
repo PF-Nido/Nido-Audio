@@ -1,0 +1,33 @@
+{
+  "xc_id": "358176",
+  "genero": "Chaetocercus",
+  "especie": "mulsant",
+  "subespecie": "",
+  "nombre_cientifico": "Chaetocercus mulsant",
+  "nombre_ingles": "White-bellied Woodstar",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Parque Natural Chicaque, Cundinamarca",
+  "lat": 4.6073,
+  "lon": null,
+  "altura": 2600.0,
+  "fecha": "2017-02-19",
+  "hora": "09:00",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:14",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Guy Kirwan",
+  "comentarios": "Wing noise from a male White-bellied Woodstar at a feeder, then challenged by a Colibri coruscans, which makes antagonistic calls at 0:08, 0:10 and 0:11 seconds",
+  "otras_especies": [
+    "Colibri coruscans"
+  ],
+  "url_audio": "https://xeno-canto.org/358176/download",
+  "url_pagina": "https://xeno-canto.org/358176",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

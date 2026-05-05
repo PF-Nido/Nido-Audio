@@ -1,0 +1,33 @@
+{
+  "xc_id": "96210",
+  "genero": "Accipiter",
+  "especie": "collaris",
+  "subespecie": "",
+  "nombre_cientifico": "Accipiter collaris",
+  "nombre_ingles": "Semicollared Hawk",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Municipio El Calvario (Meta)",
+  "lat": 4.368,
+  "lon": null,
+  "altura": 2100.0,
+  "fecha": "2012-03-03",
+  "hora": "07:59",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:27",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oswaldo Cortes",
+  "comentarios": "",
+  "otras_especies": [
+    "Synallaxis azarae"
+  ],
+  "url_audio": "https://xeno-canto.org/96210/download",
+  "url_pagina": "https://xeno-canto.org/96210",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

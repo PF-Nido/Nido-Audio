@@ -1,0 +1,33 @@
+{
+  "xc_id": "772426",
+  "genero": "Synallaxis",
+  "especie": "brachyura",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis brachyura",
+  "nombre_ingles": "Slaty Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Finca El Placer, El Rosario, Caldas",
+  "lat": 5.0353,
+  "lon": null,
+  "altura": 1300.0,
+  "fecha": "2022-12-31",
+  "hora": "11:00",
+  "calidad_xc": "A",
+  "tipo_canto": "alarm call, call",
+  "duracion": "0:07",
+  "sexo": "uncertain",
+  "etapa_vida": "uncertain",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Nick Bayly",
+  "comentarios": "",
+  "otras_especies": [
+    "Geothlypis philadelphia"
+  ],
+  "url_audio": "https://xeno-canto.org/772426/download",
+  "url_pagina": "https://xeno-canto.org/772426",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

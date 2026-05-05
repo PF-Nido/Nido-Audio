@@ -1,0 +1,33 @@
+{
+  "xc_id": "20166",
+  "genero": "Thamnophilus",
+  "especie": "unicolor",
+  "subespecie": "",
+  "nombre_cientifico": "Thamnophilus unicolor",
+  "nombre_ingles": "Uniform Antshrike",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Risaralda: Fizebar, Retiro (near Medellín)",
+  "lat": 6.0667,
+  "lon": null,
+  "altura": 2300.0,
+  "fecha": "1994-06-13",
+  "hora": "?",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:36",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Niels Krabbe",
+  "comentarios": "Ref.: NK LXXXA 374-382, 386, 397-401, 406",
+  "otras_especies": [
+    "Drymophila striaticeps"
+  ],
+  "url_audio": "https://xeno-canto.org/20166/download",
+  "url_pagina": "https://xeno-canto.org/20166",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

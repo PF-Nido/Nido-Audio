@@ -1,0 +1,33 @@
+{
+  "xc_id": "104417",
+  "genero": "Thalurania",
+  "especie": "colombica",
+  "subespecie": "fannyae?",
+  "nombre_cientifico": "Thalurania colombica",
+  "nombre_ingles": "Crowned Woodnymph",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Santa Cecilia, Serrania de San Lucas",
+  "lat": 7.9759,
+  "lon": null,
+  "altura": 1550.0,
+  "fecha": "2010-01-10",
+  "hora": "08:30",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:04",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Myornis",
+  "comentarios": "Continuation of previous.  Female, calling whilst in the hand. ID of species is moot as males have both a violet and green crown in this part of the world ...",
+  "otras_especies": [
+    "Amazona farinosa"
+  ],
+  "url_audio": "https://xeno-canto.org/104417/download",
+  "url_pagina": "https://xeno-canto.org/104417",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

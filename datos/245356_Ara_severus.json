@@ -1,0 +1,33 @@
+{
+  "xc_id": "245356",
+  "genero": "Ara",
+  "especie": "severus",
+  "subespecie": "",
+  "nombre_cientifico": "Ara severus",
+  "nombre_ingles": "Chestnut-fronted Macaw",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Bosque de Don Gregorio, Vereda Caribabare, Tame, Arauca",
+  "lat": 6.28,
+  "lon": null,
+  "altura": 280.0,
+  "fecha": "2015-03-28",
+  "hora": "06:55",
+  "calidad_xc": "B",
+  "tipo_canto": "call, song",
+  "duracion": "4:26",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marín Gómez &amp; Natalia Perez Amaya",
+  "comentarios": "The same group of the track 150328_2195. Perched. ID accurancy: 100%. Habitat: Second growth forest and Morichal. Distance to mic: 50 m. Tascam DR-100MKII, Sennheiser ME66. Reference: 150328_2195C",
+  "otras_especies": [
+    "Pachyramphus polychopterus"
+  ],
+  "url_audio": "https://xeno-canto.org/245356/download",
+  "url_pagina": "https://xeno-canto.org/245356",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

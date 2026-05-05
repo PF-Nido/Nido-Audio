@@ -1,0 +1,33 @@
+{
+  "xc_id": "340137",
+  "genero": "Synallaxis",
+  "especie": "subpudica",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis subpudica",
+  "nombre_ingles": "Silvery-throated Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Lago Sochagota, Paipa, Colombia",
+  "lat": 5.7699,
+  "lon": null,
+  "altura": 2500.0,
+  "fecha": "2016-10-25",
+  "hora": "10:39",
+  "calidad_xc": "B",
+  "tipo_canto": "alarm call, song",
+  "duracion": "0:27",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Diana Carolina Macana",
+  "comentarios": "Grabación decapitada, respuesta a play back de una pareja",
+  "otras_especies": [
+    "Troglodytes aedon"
+  ],
+  "url_audio": "https://xeno-canto.org/340137/download",
+  "url_pagina": "https://xeno-canto.org/340137",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

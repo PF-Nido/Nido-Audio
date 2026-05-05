@@ -1,0 +1,33 @@
+{
+  "xc_id": "51199",
+  "genero": "Chlorostilbon",
+  "especie": "gibsoni",
+  "subespecie": "",
+  "nombre_cientifico": "Chlorostilbon gibsoni",
+  "nombre_ingles": "Red-billed Emerald",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Los Besotes Reserve, Sta. Marta foothills near Valledupar",
+  "lat": null,
+  "lon": null,
+  "altura": 200.0,
+  "fecha": "2010-01-16",
+  "hora": "8:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:49",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "David Geale",
+  "comentarios": "",
+  "otras_especies": [
+    "Saucerottia saucerottei"
+  ],
+  "url_audio": "https://xeno-canto.org/51199/download",
+  "url_pagina": "https://xeno-canto.org/51199",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

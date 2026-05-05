@@ -1,0 +1,33 @@
+{
+  "xc_id": "930347",
+  "genero": "Uranomitra",
+  "especie": "franciae",
+  "subespecie": "",
+  "nombre_cientifico": "Uranomitra franciae",
+  "nombre_ingles": "Andean Emerald",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Kasaguadua, Salento, Quindio",
+  "lat": 4.629,
+  "lon": null,
+  "altura": 1800.0,
+  "fecha": "2024-08-25",
+  "hora": "13:12",
+  "calidad_xc": "B",
+  "tipo_canto": "",
+  "duracion": "1:19",
+  "sexo": "male",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Alejandro Morales Betancourt",
+  "comentarios": "al menos tres individuos vocalizando desde perchas diferentes, también grabados en XC930348",
+  "otras_especies": [
+    "Myadestes ralloides"
+  ],
+  "url_audio": "https://xeno-canto.org/930347/download",
+  "url_pagina": "https://xeno-canto.org/930347",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

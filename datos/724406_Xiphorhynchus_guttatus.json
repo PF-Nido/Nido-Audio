@@ -1,0 +1,33 @@
+{
+  "xc_id": "724406",
+  "genero": "Xiphorhynchus",
+  "especie": "guttatus",
+  "subespecie": "",
+  "nombre_cientifico": "Xiphorhynchus guttatus",
+  "nombre_ingles": "Buff-throated Woodcreeper",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Centro Agroforestal Guayuyaco, Piamonte, Cauca",
+  "lat": 1.0207,
+  "lon": null,
+  "altura": 300.0,
+  "fecha": "2021-01-16",
+  "hora": "13:30",
+  "calidad_xc": "A",
+  "tipo_canto": "",
+  "duracion": "0:44",
+  "sexo": "uncertain",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Pablo López-O.",
+  "comentarios": "",
+  "otras_especies": [
+    "Legatus leucophaius"
+  ],
+  "url_audio": "https://xeno-canto.org/724406/download",
+  "url_pagina": "https://xeno-canto.org/724406",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

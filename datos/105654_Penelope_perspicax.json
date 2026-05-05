@@ -1,0 +1,33 @@
+{
+  "xc_id": "105654",
+  "genero": "Penelope",
+  "especie": "perspicax",
+  "subespecie": "",
+  "nombre_cientifico": "Penelope perspicax",
+  "nombre_ingles": "Cauca Guan",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "SFF Otun-Quimbaya, Risaralda",
+  "lat": 4.727,
+  "lon": null,
+  "altura": 1875.0,
+  "fecha": "2011-02-04",
+  "hora": "08:38",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "3:55",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Eric DeFonso",
+  "comentarios": "agitated single individual calling for several minutes, gradually increasing in volume through duration of recording",
+  "otras_especies": [
+    "Basileuterus tristriatus"
+  ],
+  "url_audio": "https://xeno-canto.org/105654/download",
+  "url_pagina": "https://xeno-canto.org/105654",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

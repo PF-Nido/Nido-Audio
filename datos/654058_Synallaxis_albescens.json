@@ -1,0 +1,33 @@
+{
+  "xc_id": "654058",
+  "genero": "Synallaxis",
+  "especie": "albescens",
+  "subespecie": "insignis",
+  "nombre_cientifico": "Synallaxis albescens",
+  "nombre_ingles": "Pale-breasted Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Laguna verde, vereda El Hatillo, El Peñón, Cundinamarca",
+  "lat": 5.2572,
+  "lon": null,
+  "altura": 1500.0,
+  "fecha": "2021-05-08",
+  "hora": "11:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:43",
+  "sexo": "uncertain",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Erick Nicolás Patiño Acosta",
+  "comentarios": "Two individuals, one singing slowly.\r\n\r\nRecording distance: 2m\r\n\r\nWeather: Fresh. Suny.\r\n\r\nHabitat: Andean forest. Secondary forest\r\n\r\nMicrophone: Audio-Technica AT875R\r\n\r\nCopy: ML344156271",
+  "otras_especies": [
+    "Legatus leucophaius"
+  ],
+  "url_audio": "https://xeno-canto.org/654058/download",
+  "url_pagina": "https://xeno-canto.org/654058",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

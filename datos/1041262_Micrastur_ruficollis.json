@@ -1,0 +1,33 @@
+{
+  "xc_id": "1041262",
+  "genero": "Micrastur",
+  "especie": "ruficollis",
+  "subespecie": "",
+  "nombre_cientifico": "Micrastur ruficollis",
+  "nombre_ingles": "Barred Forest Falcon",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Cerro Guamocó, Santa Rosa del Sur, Bolivar",
+  "lat": 7.659,
+  "lon": null,
+  "altura": 1800.0,
+  "fecha": "2025-06-25",
+  "hora": "05:30",
+  "calidad_xc": "B",
+  "tipo_canto": "begging call, duet, Dos indivudus (uno con llamados, otro con canto principal)",
+  "duracion": "2:11",
+  "sexo": "uncertain",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Pablo López-O.",
+  "comentarios": "",
+  "otras_especies": [
+    "Grallaria haplonota"
+  ],
+  "url_audio": "https://xeno-canto.org/1041262/download",
+  "url_pagina": "https://xeno-canto.org/1041262",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

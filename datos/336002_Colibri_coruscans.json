@@ -1,0 +1,33 @@
+{
+  "xc_id": "336002",
+  "genero": "Colibri",
+  "especie": "coruscans",
+  "subespecie": "",
+  "nombre_cientifico": "Colibri coruscans",
+  "nombre_ingles": "Sparkling Violetear",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Ibagué, Tolima",
+  "lat": 4.5693,
+  "lon": null,
+  "altura": 2000.0,
+  "fecha": "2013-10-05",
+  "hora": "14:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:56",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Yair Guillermo Molina Martínez.",
+  "comentarios": "",
+  "otras_especies": [
+    "Contopus fumigatus"
+  ],
+  "url_audio": "https://xeno-canto.org/336002/download",
+  "url_pagina": "https://xeno-canto.org/336002",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

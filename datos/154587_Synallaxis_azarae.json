@@ -1,0 +1,33 @@
+{
+  "xc_id": "154587",
+  "genero": "Synallaxis",
+  "especie": "azarae",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis azarae",
+  "nombre_ingles": "Azara's Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva La Romera, Sabaneta, Antioquia",
+  "lat": 6.1334,
+  "lon": null,
+  "altura": 1800.0,
+  "fecha": "2013-11-16",
+  "hora": "06:45",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:26",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Danny Zapata-Henao",
+  "comentarios": "",
+  "otras_especies": [
+    "Synallaxis azarae"
+  ],
+  "url_audio": "https://xeno-canto.org/154587/download",
+  "url_pagina": "https://xeno-canto.org/154587",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

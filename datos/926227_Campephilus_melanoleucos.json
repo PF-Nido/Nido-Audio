@@ -1,0 +1,33 @@
+{
+  "xc_id": "926227",
+  "genero": "Campephilus",
+  "especie": "melanoleucos",
+  "subespecie": "",
+  "nombre_cientifico": "Campephilus melanoleucos",
+  "nombre_ingles": "Crimson-crested Woodpecker",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Rio Claro, Doradal, Antioquia",
+  "lat": 5.9002,
+  "lon": null,
+  "altura": 400.0,
+  "fecha": "2024-08-03",
+  "hora": "08:00",
+  "calidad_xc": "A",
+  "tipo_canto": "drumming",
+  "duracion": "0:26",
+  "sexo": "male",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Carlos Delgado JUMABITA",
+  "comentarios": "",
+  "otras_especies": [
+    "Megarynchus pitangua"
+  ],
+  "url_audio": "https://xeno-canto.org/926227/download",
+  "url_pagina": "https://xeno-canto.org/926227",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

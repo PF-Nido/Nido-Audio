@@ -1,0 +1,33 @@
+{
+  "xc_id": "344355",
+  "genero": "Drymophila",
+  "especie": "striaticeps",
+  "subespecie": "",
+  "nombre_cientifico": "Drymophila striaticeps",
+  "nombre_ingles": "Streak-headed Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Rio Blanco, Aguas de Manizales, Manizales",
+  "lat": 5.0737,
+  "lon": null,
+  "altura": 2600.0,
+  "fecha": "2016-11-24",
+  "hora": "06:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:47",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Hotel Tinamu",
+  "comentarios": "Grabado por Juan Pablo Culasso\r\nwww.jpculasso.net\r\n\r\nUnderstory mature forest.",
+  "otras_especies": [
+    "Henicorhina leucophrys"
+  ],
+  "url_audio": "https://xeno-canto.org/344355/download",
+  "url_pagina": "https://xeno-canto.org/344355",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

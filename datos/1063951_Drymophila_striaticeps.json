@@ -1,0 +1,33 @@
+{
+  "xc_id": "1063951",
+  "genero": "Drymophila",
+  "especie": "striaticeps",
+  "subespecie": "",
+  "nombre_cientifico": "Drymophila striaticeps",
+  "nombre_ingles": "Streak-headed Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Villamaría, Caldas",
+  "lat": 4.9497,
+  "lon": null,
+  "altura": 1900.0,
+  "fecha": "2025-11-13",
+  "hora": "09:00",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:29",
+  "sexo": "",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andrés Mauricio López",
+  "comentarios": "",
+  "otras_especies": [
+    "Myioborus miniatus"
+  ],
+  "url_audio": "https://xeno-canto.org/1063951/download",
+  "url_pagina": "https://xeno-canto.org/1063951",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "564401",
+  "genero": "Streptoprocne",
+  "especie": "zonaris",
+  "subespecie": "",
+  "nombre_cientifico": "Streptoprocne zonaris",
+  "nombre_ingles": "White-collared Swift",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Mana Dulce, Cundinamarca",
+  "lat": 4.351,
+  "lon": null,
+  "altura": 380.0,
+  "fecha": "2020-06-01",
+  "hora": "16:30",
+  "calidad_xc": "A",
+  "tipo_canto": "flight call",
+  "duracion": "0:12",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Jerome Fischer",
+  "comentarios": "",
+  "otras_especies": [
+    "Myrmeciza longipes"
+  ],
+  "url_audio": "https://xeno-canto.org/564401/download",
+  "url_pagina": "https://xeno-canto.org/564401",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

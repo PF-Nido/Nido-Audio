@@ -1,0 +1,33 @@
+{
+  "xc_id": "237886",
+  "genero": "Rupornis",
+  "especie": "magnirostris",
+  "subespecie": "",
+  "nombre_cientifico": "Rupornis magnirostris",
+  "nombre_ingles": "Roadside Hawk",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-Buenos Aires",
+  "lat": 4.6683,
+  "lon": null,
+  "altura": 1900.0,
+  "fecha": "2009-04-08",
+  "hora": "18:15",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:48",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marin-Gomez",
+  "comentarios": "\r\n\r\nHabitat: Pasture near to Montane forest border at 1800m\r\nWeather: Sunny and clear\r\nCode: OHM_057A_1114 Rupornis magnirostris\r\nEquipment: Marantz PMD 222 with Sennheiser ME 66, TDK 60 SA-II",
+  "otras_especies": [
+    "Penelope perspicax"
+  ],
+  "url_audio": "https://xeno-canto.org/237886/download",
+  "url_pagina": "https://xeno-canto.org/237886",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

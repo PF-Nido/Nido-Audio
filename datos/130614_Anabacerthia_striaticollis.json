@@ -1,0 +1,33 @@
+{
+  "xc_id": "130614",
+  "genero": "Anabacerthia",
+  "especie": "striaticollis",
+  "subespecie": "",
+  "nombre_cientifico": "Anabacerthia striaticollis",
+  "nombre_ingles": "Montane Foliage-gleaner",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-La Popa",
+  "lat": 4.6717,
+  "lon": null,
+  "altura": 1800.0,
+  "fecha": "2007-11-30",
+  "hora": "10:00",
+  "calidad_xc": "B",
+  "tipo_canto": "call, song",
+  "duracion": "0:09",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marin-Gomez",
+  "comentarios": "Ref OHM0459",
+  "otras_especies": [
+    "Syndactyla subalaris"
+  ],
+  "url_audio": "https://xeno-canto.org/130614/download",
+  "url_pagina": "https://xeno-canto.org/130614",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

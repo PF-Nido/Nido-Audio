@@ -1,0 +1,33 @@
+{
+  "xc_id": "462003",
+  "genero": "Malacoptila",
+  "especie": "mystacalis",
+  "subespecie": "",
+  "nombre_cientifico": "Malacoptila mystacalis",
+  "nombre_ingles": "Moustached Puffbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "PRN Barbas-Bremen // Circuito Turistico Sur Oriente, Pereira, Risaralda",
+  "lat": 4.7175,
+  "lon": null,
+  "altura": 2000.0,
+  "fecha": "2019-03-15",
+  "hora": "08:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:06",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "David Monroy Rengifo",
+  "comentarios": "",
+  "otras_especies": [
+    "Trogon collaris"
+  ],
+  "url_audio": "https://xeno-canto.org/462003/download",
+  "url_pagina": "https://xeno-canto.org/462003",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

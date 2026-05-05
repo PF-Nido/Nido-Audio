@@ -1,0 +1,33 @@
+{
+  "xc_id": "215092",
+  "genero": "Podilymbus",
+  "especie": "podiceps",
+  "subespecie": "",
+  "nombre_cientifico": "Podilymbus podiceps",
+  "nombre_ingles": "Pied-billed Grebe",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Lago de Tota, Boyacá",
+  "lat": 5.5292,
+  "lon": null,
+  "altura": 3000.0,
+  "fecha": "2015-02-18",
+  "hora": "21:00",
+  "calidad_xc": "B",
+  "tipo_canto": "alarm call, call",
+  "duracion": "1:32",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Diana Carolina Macana",
+  "comentarios": "",
+  "otras_especies": [
+    "Fulica americana"
+  ],
+  "url_audio": "https://xeno-canto.org/215092/download",
+  "url_pagina": "https://xeno-canto.org/215092",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

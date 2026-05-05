@@ -1,0 +1,33 @@
+{
+  "xc_id": "1089758",
+  "genero": "Automolus",
+  "especie": "ochrolaemus",
+  "subespecie": "",
+  "nombre_cientifico": "Automolus ochrolaemus",
+  "nombre_ingles": "Buff-throated Foliage-gleaner",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Finca Los Farallones, Vereda Montebello, Berlín, Samaná, Caldas",
+  "lat": 5.5802,
+  "lon": null,
+  "altura": 850.0,
+  "fecha": "2026-03-19",
+  "hora": "16:25",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:28",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Alejandro Morales Betancourt",
+  "comentarios": "",
+  "otras_especies": [
+    "Pheugopedius fasciatoventris"
+  ],
+  "url_audio": "https://xeno-canto.org/1089758/download",
+  "url_pagina": "https://xeno-canto.org/1089758",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "317570",
+  "genero": "Furnarius",
+  "especie": "longirostris",
+  "subespecie": "",
+  "nombre_cientifico": "Furnarius longirostris",
+  "nombre_ingles": "Caribbean Hornero",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Cereté, Córdoba",
+  "lat": 8.8667,
+  "lon": null,
+  "altura": 10.0,
+  "fecha": "2016-05-09",
+  "hora": "09:30",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:07",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Nick Komar",
+  "comentarios": "Duet from a pair of birds singing from low density residential landscape with planted trees alongside cattle pastures. Original recording edited for clarity, using WavePad Sound Editor.",
+  "otras_especies": [
+    "Campylorhynchus griseus"
+  ],
+  "url_audio": "https://xeno-canto.org/317570/download",
+  "url_pagina": "https://xeno-canto.org/317570",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

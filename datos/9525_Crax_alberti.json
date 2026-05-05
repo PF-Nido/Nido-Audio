@@ -1,0 +1,33 @@
+{
+  "xc_id": "9525",
+  "genero": "Crax",
+  "especie": "alberti",
+  "subespecie": "",
+  "nombre_cientifico": "Crax alberti",
+  "nombre_ingles": "Blue-billed Curassow",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RNA El Paujil, Serrania de las Quinchas,Santander, Colombia",
+  "lat": 5.9334,
+  "lon": null,
+  "altura": 550.0,
+  "fecha": "2005-03-07",
+  "hora": "05:30",
+  "calidad_xc": "A",
+  "tipo_canto": "alarm call",
+  "duracion": "0:44",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Hernan Arias",
+  "comentarios": "female at nest",
+  "otras_especies": [
+    "Tinamus major"
+  ],
+  "url_audio": "https://xeno-canto.org/9525/download",
+  "url_pagina": "https://xeno-canto.org/9525",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

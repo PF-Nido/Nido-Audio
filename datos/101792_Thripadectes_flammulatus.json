@@ -1,0 +1,33 @@
+{
+  "xc_id": "101792",
+  "genero": "Thripadectes",
+  "especie": "flammulatus",
+  "subespecie": "flammulatus",
+  "nombre_cientifico": "Thripadectes flammulatus",
+  "nombre_ingles": "Flammulated Treehunter",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "San Lorenzo Ridge, Santa Marta Mts, Magdalena",
+  "lat": 11.1237,
+  "lon": null,
+  "altura": 2590.0,
+  "fecha": "2012-04-15",
+  "hora": "07:48",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:09",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Jeremy Minns",
+  "comentarios": "In dense bushes beside the road.",
+  "otras_especies": [
+    "Synallaxis fuscorufa"
+  ],
+  "url_audio": "https://xeno-canto.org/101792/download",
+  "url_pagina": "https://xeno-canto.org/101792",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

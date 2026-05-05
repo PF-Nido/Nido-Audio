@@ -1,0 +1,33 @@
+{
+  "xc_id": "467820",
+  "genero": "Melanerpes",
+  "especie": "rubricapillus",
+  "subespecie": "",
+  "nombre_cientifico": "Melanerpes rubricapillus",
+  "nombre_ingles": "Red-crowned Woodpecker",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Natural Gaia, Ibagué, Tolima",
+  "lat": 4.4611,
+  "lon": null,
+  "altura": 1400.0,
+  "fecha": "2017-06-01",
+  "hora": "06:16",
+  "calidad_xc": "A",
+  "tipo_canto": "call",
+  "duracion": "0:04",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Yair Guillermo Molina Martínez.",
+  "comentarios": "Grabación hecha en el marco del Proyecto \"Estudio técnico y participativo de la biodiversidad aviar del municipio de Ibagué – Tolima, como estrategia para la consolidación del ecoturismo de aves, la conservación de sus hábitats y el desarrollo de procesos de educación ambiental\" Universidad de Ibagué - Rednatur - Colciencias.",
+  "otras_especies": [
+    "Todirostrum cinereum"
+  ],
+  "url_audio": "https://xeno-canto.org/467820/download",
+  "url_pagina": "https://xeno-canto.org/467820",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

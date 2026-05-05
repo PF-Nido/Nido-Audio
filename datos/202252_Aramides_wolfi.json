@@ -1,0 +1,33 @@
+{
+  "xc_id": "202252",
+  "genero": "Aramides",
+  "especie": "wolfi",
+  "subespecie": "",
+  "nombre_cientifico": "Aramides wolfi",
+  "nombre_ingles": "Brown Wood Rail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Ensenada de Utría National Park-headquarters",
+  "lat": null,
+  "lon": null,
+  "altura": 0.0,
+  "fecha": "2014-09-26",
+  "hora": "07:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:50",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Guy Kirwan",
+  "comentarios": "",
+  "otras_especies": [
+    "Thamnophilus atrinucha"
+  ],
+  "url_audio": "https://xeno-canto.org/202252/download",
+  "url_pagina": "https://xeno-canto.org/202252",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

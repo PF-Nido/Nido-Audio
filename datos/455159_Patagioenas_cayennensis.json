@@ -1,0 +1,33 @@
+{
+  "xc_id": "455159",
+  "genero": "Patagioenas",
+  "especie": "cayennensis",
+  "subespecie": "",
+  "nombre_cientifico": "Patagioenas cayennensis",
+  "nombre_ingles": "Pale-vented Pigeon",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Natural Cauquitá",
+  "lat": 4.843,
+  "lon": null,
+  "altura": 1100.0,
+  "fecha": "2019-01-31",
+  "hora": "11:30",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:08",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "David Monroy Rengifo",
+  "comentarios": "",
+  "otras_especies": [
+    "Vireo olivaceus"
+  ],
+  "url_audio": "https://xeno-canto.org/455159/download",
+  "url_pagina": "https://xeno-canto.org/455159",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

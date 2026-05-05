@@ -1,0 +1,33 @@
+{
+  "xc_id": "412468",
+  "genero": "Myrmeciza",
+  "especie": "longipes",
+  "subespecie": "",
+  "nombre_cientifico": "Myrmeciza longipes",
+  "nombre_ingles": "White-bellied Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Mana Dulce, Tolima",
+  "lat": 4.351,
+  "lon": null,
+  "altura": 380.0,
+  "fecha": "2018-03-05",
+  "hora": "11:30",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:56",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Mitch Walters",
+  "comentarios": "Two pairs calling in the understory along a dry river bed",
+  "otras_especies": [
+    "Myrmeciza longipes"
+  ],
+  "url_audio": "https://xeno-canto.org/412468/download",
+  "url_pagina": "https://xeno-canto.org/412468",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

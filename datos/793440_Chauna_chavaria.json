@@ -1,0 +1,33 @@
+{
+  "xc_id": "793440",
+  "genero": "Chauna",
+  "especie": "chavaria",
+  "subespecie": "",
+  "nombre_cientifico": "Chauna chavaria",
+  "nombre_ingles": "Northern Screamer",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Charca de Guarinocito, La Dorada, Caldas",
+  "lat": 5.3366,
+  "lon": null,
+  "altura": 180.0,
+  "fecha": "2023-04-11",
+  "hora": "11:34",
+  "calidad_xc": "B",
+  "tipo_canto": "",
+  "duracion": "0:38",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Alejandro Morales Betancourt",
+  "comentarios": "Al menos 12 individuos perchados en la copa de árboles rodeados por potreros y un fragmento de bosque secundario. XC793433 es otra grabación del mismo grupo en el mismo sitio.",
+  "otras_especies": [
+    "Megarynchus pitangua"
+  ],
+  "url_audio": "https://xeno-canto.org/793440/download",
+  "url_pagina": "https://xeno-canto.org/793440",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

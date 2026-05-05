@@ -1,0 +1,33 @@
+{
+  "xc_id": "264511",
+  "genero": "Capito",
+  "especie": "quinticolor",
+  "subespecie": "",
+  "nombre_cientifico": "Capito quinticolor",
+  "nombre_ingles": "Five-colored Barbet",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Nariño: Pueblo Nuevo trail",
+  "lat": 1.433,
+  "lon": null,
+  "altura": 500.0,
+  "fecha": "1998-08-00",
+  "hora": "?",
+  "calidad_xc": "A",
+  "tipo_canto": "call, calls",
+  "duracion": "0:10",
+  "sexo": "male",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Paul Coopmans",
+  "comentarios": "<a href=\"http://johnvmoorenaturerecordings.com/pubs/ECUAD/main.htm\">Moore et al. 2013: Bird Sounds of Ecuador DVD</a>. ",
+  "otras_especies": [
+    "Patagioenas goodsoni"
+  ],
+  "url_audio": "https://xeno-canto.org/264511/download",
+  "url_pagina": "https://xeno-canto.org/264511",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

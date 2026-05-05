@@ -1,0 +1,33 @@
+{
+  "xc_id": "143824",
+  "genero": "Thripadectes",
+  "especie": "flammulatus",
+  "subespecie": "flammulatus",
+  "nombre_cientifico": "Thripadectes flammulatus",
+  "nombre_ingles": "Flammulated Treehunter",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "San Lorenzo Ridge, Santa Marta Mountains",
+  "lat": 11.1092,
+  "lon": null,
+  "altura": 2565.0,
+  "fecha": "2013-05-20",
+  "hora": "08:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "2:54",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Diego Calderon-F.",
+  "comentarios": "One ind. from a couple nesting nearby",
+  "otras_especies": [
+    "Henicorhina leucophrys"
+  ],
+  "url_audio": "https://xeno-canto.org/143824/download",
+  "url_pagina": "https://xeno-canto.org/143824",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

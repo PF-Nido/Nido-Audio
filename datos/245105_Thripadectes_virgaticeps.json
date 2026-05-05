@@ -1,0 +1,33 @@
+{
+  "xc_id": "245105",
+  "genero": "Thripadectes",
+  "especie": "virgaticeps",
+  "subespecie": "",
+  "nombre_cientifico": "Thripadectes virgaticeps",
+  "nombre_ingles": "Streak-capped Treehunter",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Bosque La Meseta, Vereda San José de Suaita, Suaita, Santander",
+  "lat": 6.18,
+  "lon": null,
+  "altura": 1800.0,
+  "fecha": "2014-07-02",
+  "hora": "05:57",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:57",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marín Gómez",
+  "comentarios": "Reference:  1789",
+  "otras_especies": [
+    "Aulacorhynchus haematopygus"
+  ],
+  "url_audio": "https://xeno-canto.org/245105/download",
+  "url_pagina": "https://xeno-canto.org/245105",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "167079",
+  "genero": "Gymnopithys",
+  "especie": "bicolor",
+  "subespecie": "",
+  "nombre_cientifico": "Gymnopithys bicolor",
+  "nombre_ingles": "Bicolored Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "El Valle-Utría National Park Trail",
+  "lat": 6.0747,
+  "lon": null,
+  "altura": 30.0,
+  "fecha": "2014-01-28",
+  "hora": "06:30",
+  "calidad_xc": "B",
+  "tipo_canto": "call, song",
+  "duracion": "0:55",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Ottavio Janni",
+  "comentarios": "Songs and a few calls from a bird responding to playback, with song from a more distant second individuals. Several birds were present (small antswarm perhaps?)",
+  "otras_especies": [
+    "Poliocrania exsul"
+  ],
+  "url_audio": "https://xeno-canto.org/167079/download",
+  "url_pagina": "https://xeno-canto.org/167079",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

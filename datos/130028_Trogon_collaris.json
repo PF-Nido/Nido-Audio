@@ -1,0 +1,33 @@
+{
+  "xc_id": "130028",
+  "genero": "Trogon",
+  "especie": "collaris",
+  "subespecie": "",
+  "nombre_cientifico": "Trogon collaris",
+  "nombre_ingles": "Collared Trogon",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-La Popa",
+  "lat": 4.6717,
+  "lon": null,
+  "altura": 1800.0,
+  "fecha": "2007-11-04",
+  "hora": "09:10",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:15",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marin-Gomez",
+  "comentarios": "OHM001B 2208.  Bosque montano bajo. A 30m del mic. Vocalización natural.",
+  "otras_especies": [
+    "Scytalopus atratus"
+  ],
+  "url_audio": "https://xeno-canto.org/130028/download",
+  "url_pagina": "https://xeno-canto.org/130028",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

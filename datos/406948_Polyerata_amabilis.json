@@ -1,0 +1,33 @@
+{
+  "xc_id": "406948",
+  "genero": "Polyerata",
+  "especie": "amabilis",
+  "subespecie": "",
+  "nombre_cientifico": "Polyerata amabilis",
+  "nombre_ingles": "Blue-chested Hummingbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "La Chocoana, Guachalito, Nuquí, Chocó",
+  "lat": 5.6271,
+  "lon": null,
+  "altura": 30.0,
+  "fecha": "2018-08-00",
+  "hora": "?",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:20",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Myornis",
+  "comentarios": "In primary forest. With a tanager flock in the background",
+  "otras_especies": [
+    "Poliocrania exsul"
+  ],
+  "url_audio": "https://xeno-canto.org/406948/download",
+  "url_pagina": "https://xeno-canto.org/406948",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

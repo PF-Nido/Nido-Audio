@@ -1,0 +1,33 @@
+{
+  "xc_id": "117687",
+  "genero": "Odontophorus",
+  "especie": "hyperythrus",
+  "subespecie": "",
+  "nombre_cientifico": "Odontophorus hyperythrus",
+  "nombre_ingles": "Chestnut Wood Quail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva privada Yotoco, Yotoco, Valle del Cauca",
+  "lat": 3.8775,
+  "lon": null,
+  "altura": null,
+  "fecha": "2003-02-11",
+  "hora": "07:09:59",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:15",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "José Agustín López (Colección de Sonidos Ambientales - Instituto Humboldt)",
+  "comentarios": "IAvH-CSA 11948\n\nTo obtain a wav file of the original recording, please contact csa@humboldt.org.co",
+  "otras_especies": [
+    "Campephilus pollens"
+  ],
+  "url_audio": "https://xeno-canto.org/117687/download",
+  "url_pagina": "https://xeno-canto.org/117687",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

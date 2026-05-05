@@ -1,0 +1,33 @@
+{
+  "xc_id": "245141",
+  "genero": "Colibri",
+  "especie": "delphinae",
+  "subespecie": "",
+  "nombre_cientifico": "Colibri delphinae",
+  "nombre_ingles": "Brown Violetear",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Bosque La Meseta, Vereda San José de Suaita, Suaita, Santander",
+  "lat": 6.18,
+  "lon": null,
+  "altura": 1800.0,
+  "fecha": "2014-07-03",
+  "hora": "08:15",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "3:42",
+  "sexo": "male",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marín Gómez",
+  "comentarios": "Reference:  1844",
+  "otras_especies": [
+    "Sporophila nigricollis"
+  ],
+  "url_audio": "https://xeno-canto.org/245141/download",
+  "url_pagina": "https://xeno-canto.org/245141",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

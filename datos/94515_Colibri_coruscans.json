@@ -1,0 +1,33 @@
+{
+  "xc_id": "94515",
+  "genero": "Colibri",
+  "especie": "coruscans",
+  "subespecie": "",
+  "nombre_cientifico": "Colibri coruscans",
+  "nombre_ingles": "Sparkling Violetear",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Soata (Reserva de Aves para Amazilia castaneiventris y Macroagelaius)",
+  "lat": 6.3001,
+  "lon": null,
+  "altura": 2000.0,
+  "fecha": "2012-02-08",
+  "hora": "06:54",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:42",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oswaldo Cortes",
+  "comentarios": "",
+  "otras_especies": [
+    "Myioborus miniatus"
+  ],
+  "url_audio": "https://xeno-canto.org/94515/download",
+  "url_pagina": "https://xeno-canto.org/94515",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

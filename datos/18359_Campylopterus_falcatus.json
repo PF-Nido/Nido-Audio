@@ -1,0 +1,33 @@
+{
+  "xc_id": "18359",
+  "genero": "Campylopterus",
+  "especie": "falcatus",
+  "subespecie": "",
+  "nombre_cientifico": "Campylopterus falcatus",
+  "nombre_ingles": "Lazuline Sabrewing",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Rogitama (Reserva Principe de Arcabuco)",
+  "lat": 5.779625,
+  "lon": null,
+  "altura": 2500.0,
+  "fecha": "2008-02-21",
+  "hora": "12:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song, fast song",
+  "duracion": "0:27",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Herman van Oosten",
+  "comentarios": "What a bird, a full adult male! This is the faster, more jumbled song, compare to the other recs of the same bird.",
+  "otras_especies": [
+    "Chaetocercus mulsant"
+  ],
+  "url_audio": "https://xeno-canto.org/18359/download",
+  "url_pagina": "https://xeno-canto.org/18359",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

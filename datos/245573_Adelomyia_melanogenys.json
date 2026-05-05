@@ -1,0 +1,33 @@
+{
+  "xc_id": "245573",
+  "genero": "Adelomyia",
+  "especie": "melanogenys",
+  "subespecie": "melanogenys",
+  "nombre_cientifico": "Adelomyia melanogenys",
+  "nombre_ingles": "Speckled Hummingbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Finca Buenos Aires, Vereda Los Alpes, Recetor, Casanare",
+  "lat": 5.333,
+  "lon": null,
+  "altura": 2050.0,
+  "fecha": "2015-04-11",
+  "hora": "06:55",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:24",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marín Gómez",
+  "comentarios": "ID accurancy: 100%. Habitat:  Low montane second growth forest. Distance to mic: 20 m. Tascam DR-100MKII Reference: 150411_2330_0112",
+  "otras_especies": [
+    "Nothocercus bonapartei"
+  ],
+  "url_audio": "https://xeno-canto.org/245573/download",
+  "url_pagina": "https://xeno-canto.org/245573",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "273725",
+  "genero": "Formicivora",
+  "especie": "intermedia",
+  "subespecie": "",
+  "nombre_cientifico": "Formicivora intermedia",
+  "nombre_ingles": "Northern White-fringed Antwren",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Mana Dulce, Cundinamarca",
+  "lat": 4.351,
+  "lon": null,
+  "altura": null,
+  "fecha": "2010-01-04",
+  "hora": "18:15",
+  "calidad_xc": "A",
+  "tipo_canto": "call, call female",
+  "duracion": "0:16",
+  "sexo": "female",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Peter Boesman",
+  "comentarios": "",
+  "otras_especies": [
+    "Dromococcyx phasianellus"
+  ],
+  "url_audio": "https://xeno-canto.org/273725/download",
+  "url_pagina": "https://xeno-canto.org/273725",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

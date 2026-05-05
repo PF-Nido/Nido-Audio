@@ -1,0 +1,33 @@
+{
+  "xc_id": "130173",
+  "genero": "Myrmotherula",
+  "especie": "schisticolor",
+  "subespecie": "",
+  "nombre_cientifico": "Myrmotherula schisticolor",
+  "nombre_ingles": "Slaty Antwren",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Barbas",
+  "lat": 4.6717,
+  "lon": null,
+  "altura": 1800.0,
+  "fecha": "2007-11-19",
+  "hora": "13:00",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:39",
+  "sexo": "female, male",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marin-Gomez",
+  "comentarios": "Ref: OHM007B 2829. In mixed flock. Low Montane Forest. 10m to Mic. Natural Vocalization.",
+  "otras_especies": [
+    "Myiothlypis coronata"
+  ],
+  "url_audio": "https://xeno-canto.org/130173/download",
+  "url_pagina": "https://xeno-canto.org/130173",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "496927",
+  "genero": "Glaucidium",
+  "especie": "brasilianum",
+  "subespecie": "",
+  "nombre_cientifico": "Glaucidium brasilianum",
+  "nombre_ingles": "Ferruginous Pygmy Owl",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Puerto Asís, Puerto Asís, Putumayo",
+  "lat": 0.4926,
+  "lon": null,
+  "altura": 260.0,
+  "fecha": "2019-09-12",
+  "hora": "02:30",
+  "calidad_xc": "A",
+  "tipo_canto": "song, nyctibeus griseus",
+  "duracion": "1:56",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Luisa Fernanda Chavez Paz",
+  "comentarios": "Grabado cerca a una zona de madre vieja del Río Putmayo en la periferia del municipio.",
+  "otras_especies": [
+    "Nyctibius griseus"
+  ],
+  "url_audio": "https://xeno-canto.org/496927/download",
+  "url_pagina": "https://xeno-canto.org/496927",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "7763",
+  "genero": "Dysithamnus",
+  "especie": "puncticeps",
+  "subespecie": "",
+  "nombre_cientifico": "Dysithamnus puncticeps",
+  "nombre_ingles": "Spot-crowned Antvireo",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "El Diviso, Narino",
+  "lat": 1.377278,
+  "lon": null,
+  "altura": null,
+  "fecha": "1997-10-16",
+  "hora": "00:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song, two birds",
+  "duracion": "0:15",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Todd Mark",
+  "comentarios": "two parts, interval shortened. link:http://www.birdlife.org/datazone/sites/index.html?action=SitHTMDetails.asp&sid=14479&m=0",
+  "otras_especies": [
+    "Patagioenas subvinacea"
+  ],
+  "url_audio": "https://xeno-canto.org/7763/download",
+  "url_pagina": "https://xeno-canto.org/7763",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

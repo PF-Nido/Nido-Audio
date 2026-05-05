@@ -1,0 +1,33 @@
+{
+  "xc_id": "10764",
+  "genero": "Pseudocolaptes",
+  "especie": "boissonneautii",
+  "subespecie": "boissonneautii",
+  "nombre_cientifico": "Pseudocolaptes boissonneautii",
+  "nombre_ingles": "Streaked Tuftedcheek",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RNA El Colibrí del Sol, Páramo de Frontino, Antioquia",
+  "lat": 6.4381,
+  "lon": null,
+  "altura": 3500.0,
+  "fecha": "2007-02-15",
+  "hora": "11:29",
+  "calidad_xc": "A",
+  "tipo_canto": "call",
+  "duracion": "0:23",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Nick Athanas",
+  "comentarios": "Calls given while mobbing Glaucidium jardinii.",
+  "otras_especies": [
+    "Glaucidium jardinii"
+  ],
+  "url_audio": "https://xeno-canto.org/10764/download",
+  "url_pagina": "https://xeno-canto.org/10764",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

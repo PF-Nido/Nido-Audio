@@ -1,0 +1,33 @@
+{
+  "xc_id": "766379",
+  "genero": "Myrmotherula",
+  "especie": "schisticolor",
+  "subespecie": "",
+  "nombre_cientifico": "Myrmotherula schisticolor",
+  "nombre_ingles": "Slaty Antwren",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Apía, Risaralda-DMI Agua Linda ",
+  "lat": 5.112,
+  "lon": null,
+  "altura": 1900.0,
+  "fecha": "2022-11-09",
+  "hora": "09:30",
+  "calidad_xc": "B",
+  "tipo_canto": "uncertain",
+  "duracion": "1:26",
+  "sexo": "male",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Fabio Agudelo Zapata",
+  "comentarios": "",
+  "otras_especies": [
+    "Zimmerius chrysops"
+  ],
+  "url_audio": "https://xeno-canto.org/766379/download",
+  "url_pagina": "https://xeno-canto.org/766379",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

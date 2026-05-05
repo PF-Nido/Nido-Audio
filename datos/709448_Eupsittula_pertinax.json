@@ -1,0 +1,33 @@
+{
+  "xc_id": "709448",
+  "genero": "Eupsittula",
+  "especie": "pertinax",
+  "subespecie": "",
+  "nombre_cientifico": "Eupsittula pertinax",
+  "nombre_ingles": "Brown-throated Parakeet",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Rey Zamuro, San Martin, Meta",
+  "lat": 3.5316,
+  "lon": null,
+  "altura": 248.0,
+  "fecha": "2022-03-13",
+  "hora": "15:36",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:21",
+  "sexo": "female, male",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Alejandro Morales Betancourt",
+  "comentarios": "",
+  "otras_especies": [
+    "Patagioenas cayennensis"
+  ],
+  "url_audio": "https://xeno-canto.org/709448/download",
+  "url_pagina": "https://xeno-canto.org/709448",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

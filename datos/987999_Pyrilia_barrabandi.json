@@ -1,0 +1,33 @@
+{
+  "xc_id": "987999",
+  "genero": "Pyrilia",
+  "especie": "barrabandi",
+  "subespecie": "",
+  "nombre_cientifico": "Pyrilia barrabandi",
+  "nombre_ingles": "Orange-cheeked Parrot",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Mapiripán, Meta",
+  "lat": 3.4789,
+  "lon": null,
+  "altura": 190.0,
+  "fecha": "2025-03-19",
+  "hora": "7:02",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:07",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "LiamDB99",
+  "comentarios": "More cleaner call than blue-headed parrot",
+  "otras_especies": [
+    "Cyanocorax violaceus"
+  ],
+  "url_audio": "https://xeno-canto.org/987999/download",
+  "url_pagina": "https://xeno-canto.org/987999",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

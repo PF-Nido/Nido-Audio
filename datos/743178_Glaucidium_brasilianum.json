@@ -1,0 +1,33 @@
+{
+  "xc_id": "743178",
+  "genero": "Glaucidium",
+  "especie": "brasilianum",
+  "subespecie": "ucayalae",
+  "nombre_cientifico": "Glaucidium brasilianum",
+  "nombre_ingles": "Ferruginous Pygmy Owl",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Leticia, Leticia, Amazonas",
+  "lat": -4.2173,
+  "lon": null,
+  "altura": 94.0,
+  "fecha": "2021-08-02",
+  "hora": "17:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:00",
+  "sexo": "uncertain",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Urias Edgardo Gonzalez Carreño",
+  "comentarios": "Se encontró al individuo perchado en un arbusto de Maticco (Tercio bajo), en el área de tierra alta (tierra firme), en la zona urbana de la ciudad de Leticia, Amazonas.",
+  "otras_especies": [
+    "Brotogeris versicolurus"
+  ],
+  "url_audio": "https://xeno-canto.org/743178/download",
+  "url_pagina": "https://xeno-canto.org/743178",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

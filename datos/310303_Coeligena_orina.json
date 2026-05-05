@@ -1,0 +1,33 @@
+{
+  "xc_id": "310303",
+  "genero": "Coeligena",
+  "especie": "orina",
+  "subespecie": "",
+  "nombre_cientifico": "Coeligena orina",
+  "nombre_ingles": "Dusky Starfrontlet",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Ventanas Jardín Antioquia",
+  "lat": 5.5374,
+  "lon": null,
+  "altura": 2600.0,
+  "fecha": "2015-12-15",
+  "hora": "08:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:25",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "A Edwar H Guarín",
+  "comentarios": "Dos machos peleando",
+  "otras_especies": [
+    "Diglossa cyanea"
+  ],
+  "url_audio": "https://xeno-canto.org/310303/download",
+  "url_pagina": "https://xeno-canto.org/310303",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "438709",
+  "genero": "Frederickena",
+  "especie": "fulva",
+  "subespecie": "",
+  "nombre_cientifico": "Frederickena fulva",
+  "nombre_ingles": "Fulvous Antshrike",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Vereda El Libano, Orito, Putumayo",
+  "lat": 0.6567,
+  "lon": null,
+  "altura": 800.0,
+  "fecha": "2018-10-13",
+  "hora": "10:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "7:39",
+  "sexo": "male",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Pablo López-O.",
+  "comentarios": "Un individuo adulto cantando al interior de bosque secundario, al fondo un individuo no observado de A. castaneiceps",
+  "otras_especies": [
+    "Rufirallus castaneiceps"
+  ],
+  "url_audio": "https://xeno-canto.org/438709/download",
+  "url_pagina": "https://xeno-canto.org/438709",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

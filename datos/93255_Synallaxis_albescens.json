@@ -1,0 +1,33 @@
+{
+  "xc_id": "93255",
+  "genero": "Synallaxis",
+  "especie": "albescens",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis albescens",
+  "nombre_ingles": "Pale-breasted Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Palestina, Caldas",
+  "lat": 5.065,
+  "lon": null,
+  "altura": 1067.0,
+  "fecha": "2011-10-26",
+  "hora": "06:12",
+  "calidad_xc": "A",
+  "tipo_canto": "call, song",
+  "duracion": "0:35",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Alejandro Morales Betancourt",
+  "comentarios": "",
+  "otras_especies": [
+    "Myiozetetes cayanensis"
+  ],
+  "url_audio": "https://xeno-canto.org/93255/download",
+  "url_pagina": "https://xeno-canto.org/93255",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

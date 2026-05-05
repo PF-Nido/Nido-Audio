@@ -1,0 +1,33 @@
+{
+  "xc_id": "116195",
+  "genero": "Ammonastes",
+  "especie": "pelzelni",
+  "subespecie": "",
+  "nombre_cientifico": "Ammonastes pelzelni",
+  "nombre_ingles": "Grey-bellied Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Mitu, Vaupes",
+  "lat": 1.2598,
+  "lon": null,
+  "altura": 170.0,
+  "fecha": "2012-01-07",
+  "hora": "06:00",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:16",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Ottavio Janni",
+  "comentarios": "Chip calls in response to playback; bird photographed by Lieven De Temmerman",
+  "otras_especies": [
+    "Thamnophilus amazonicus"
+  ],
+  "url_audio": "https://xeno-canto.org/116195/download",
+  "url_pagina": "https://xeno-canto.org/116195",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

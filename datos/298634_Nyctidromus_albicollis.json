@@ -1,0 +1,33 @@
+{
+  "xc_id": "298634",
+  "genero": "Nyctidromus",
+  "especie": "albicollis",
+  "subespecie": "",
+  "nombre_cientifico": "Nyctidromus albicollis",
+  "nombre_ingles": "Pauraque",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Silvania, Cundinamarca",
+  "lat": 4.3905,
+  "lon": null,
+  "altura": 1500.0,
+  "fecha": "2015-12-20",
+  "hora": "05:30",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:24",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "David Ricardo Rodríguez Villamil",
+  "comentarios": "",
+  "otras_especies": [
+    "Sicalis luteola"
+  ],
+  "url_audio": "https://xeno-canto.org/298634/download",
+  "url_pagina": "https://xeno-canto.org/298634",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

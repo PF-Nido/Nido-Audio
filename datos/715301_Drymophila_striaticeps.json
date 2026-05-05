@@ -1,0 +1,33 @@
+{
+  "xc_id": "715301",
+  "genero": "Drymophila",
+  "especie": "striaticeps",
+  "subespecie": "",
+  "nombre_cientifico": "Drymophila striaticeps",
+  "nombre_ingles": "Streak-headed Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "La Elvira Valle del Cauca",
+  "lat": null,
+  "lon": null,
+  "altura": 1850.0,
+  "fecha": "2022-04-12",
+  "hora": "13:30",
+  "calidad_xc": "A",
+  "tipo_canto": "imitation, song, mimicry/imitation",
+  "duracion": "1:00",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Marcela Gonzalez",
+  "comentarios": "En medio de un bosque y escondido entre rastrojos. \r\nCanto repetitivo por mucho rato.\r\nCoordenadas\r\n3.5391660, -76.6010820.\r\nNuevamente escuchado en el mismo lugar el día mayo 14 2022.",
+  "otras_especies": [
+    "Drymophila striaticeps"
+  ],
+  "url_audio": "https://xeno-canto.org/715301/download",
+  "url_pagina": "https://xeno-canto.org/715301",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

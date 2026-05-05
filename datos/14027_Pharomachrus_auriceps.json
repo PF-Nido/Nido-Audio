@@ -1,0 +1,33 @@
+{
+  "xc_id": "14027",
+  "genero": "Pharomachrus",
+  "especie": "auriceps",
+  "subespecie": "",
+  "nombre_cientifico": "Pharomachrus auriceps",
+  "nombre_ingles": "Golden-headed Quetzal",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RNA Reinita Cielo Azul, San Vicente de Chucuri, Santander",
+  "lat": 6.8464,
+  "lon": null,
+  "altura": 1660.0,
+  "fecha": "2007-06-16",
+  "hora": "06:28",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:40",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Bradley Davis",
+  "comentarios": "",
+  "otras_especies": [
+    "Troglodytes solstitialis"
+  ],
+  "url_audio": "https://xeno-canto.org/14027/download",
+  "url_pagina": "https://xeno-canto.org/14027",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

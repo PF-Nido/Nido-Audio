@@ -1,0 +1,33 @@
+{
+  "xc_id": "44989",
+  "genero": "Campephilus",
+  "especie": "pollens",
+  "subespecie": "",
+  "nombre_cientifico": "Campephilus pollens",
+  "nombre_ingles": "Powerful Woodpecker",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Huila, Municicpio Teruel, Vereda Corrales, Las Nubes",
+  "lat": 2.794,
+  "lon": null,
+  "altura": 2470.0,
+  "fecha": "2010-02-15",
+  "hora": "14 00",
+  "calidad_xc": "B",
+  "tipo_canto": "call?",
+  "duracion": "0:37",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Pablo López O",
+  "comentarios": "",
+  "otras_especies": [
+    "Pharomachrus auriceps"
+  ],
+  "url_audio": "https://xeno-canto.org/44989/download",
+  "url_pagina": "https://xeno-canto.org/44989",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

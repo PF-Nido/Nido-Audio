@@ -1,0 +1,33 @@
+{
+  "xc_id": "479078",
+  "genero": "Synallaxis",
+  "especie": "candei",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis candei",
+  "nombre_ingles": "White-whiskered Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "La Reserva, Hueso de Vaca, Santa Catalina, Bolívar",
+  "lat": 10.7754,
+  "lon": null,
+  "altura": 20.0,
+  "fecha": "2019-06-04",
+  "hora": "14:20",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "2:07",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Rolf A. de By",
+  "comentarios": "",
+  "otras_especies": [
+    "Atalotriccus pilaris"
+  ],
+  "url_audio": "https://xeno-canto.org/479078/download",
+  "url_pagina": "https://xeno-canto.org/479078",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "143889",
+  "genero": "Dysithamnus",
+  "especie": "occidentalis",
+  "subespecie": "occidentalis",
+  "nombre_cientifico": "Dysithamnus occidentalis",
+  "nombre_ingles": "Bicolored Antvireo",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Natural Mesenia - Paramillo",
+  "lat": 5.483,
+  "lon": null,
+  "altura": 2400.0,
+  "fecha": "2013-07-13",
+  "hora": "11:00",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "1:01",
+  "sexo": "male",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Diego Calderon-F.",
+  "comentarios": "A couple traveling together and singing, then  responding to playback; only male calls.",
+  "otras_especies": [
+    "Grallaria flavotincta"
+  ],
+  "url_audio": "https://xeno-canto.org/143889/download",
+  "url_pagina": "https://xeno-canto.org/143889",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

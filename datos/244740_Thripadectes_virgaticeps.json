@@ -1,0 +1,33 @@
+{
+  "xc_id": "244740",
+  "genero": "Thripadectes",
+  "especie": "virgaticeps",
+  "subespecie": "",
+  "nombre_cientifico": "Thripadectes virgaticeps",
+  "nombre_ingles": "Streak-capped Treehunter",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Alto Bonito, Cañón del río Barbas, Vereda Cruces, Filandia, Quindío",
+  "lat": 4.70138,
+  "lon": null,
+  "altura": 1850.0,
+  "fecha": "2009-03-14",
+  "hora": "06:25",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:08",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marín Gómez",
+  "comentarios": "OHM_052 _B2804",
+  "otras_especies": [
+    "Myadestes ralloides"
+  ],
+  "url_audio": "https://xeno-canto.org/244740/download",
+  "url_pagina": "https://xeno-canto.org/244740",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

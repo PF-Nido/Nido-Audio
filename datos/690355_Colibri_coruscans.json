@@ -1,0 +1,33 @@
+{
+  "xc_id": "690355",
+  "genero": "Colibri",
+  "especie": "coruscans",
+  "subespecie": "",
+  "nombre_cientifico": "Colibri coruscans",
+  "nombre_ingles": "Sparkling Violetear",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Santa Barbara, Zipaquirá, Cundinamarca",
+  "lat": 5.058,
+  "lon": null,
+  "altura": 3200.0,
+  "fecha": "2014-07-16",
+  "hora": "07:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:42",
+  "sexo": "male",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Sebastián León Lleras",
+  "comentarios": "",
+  "otras_especies": [
+    "Myiothlypis nigrocristata"
+  ],
+  "url_audio": "https://xeno-canto.org/690355/download",
+  "url_pagina": "https://xeno-canto.org/690355",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "59290",
+  "genero": "Percnostola",
+  "especie": "immaculata",
+  "subespecie": "",
+  "nombre_cientifico": "Percnostola immaculata",
+  "nombre_ingles": "Blue-lored Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Laguna Tabacal",
+  "lat": 5.0209,
+  "lon": null,
+  "altura": 2100.0,
+  "fecha": "2010-01-23",
+  "hora": "11:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:26",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Frank Lambert",
+  "comentarios": "male",
+  "otras_especies": [
+    "Synallaxis cinnamomea"
+  ],
+  "url_audio": "https://xeno-canto.org/59290/download",
+  "url_pagina": "https://xeno-canto.org/59290",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

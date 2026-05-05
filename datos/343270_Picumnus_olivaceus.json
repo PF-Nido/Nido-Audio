@@ -1,0 +1,33 @@
+{
+  "xc_id": "343270",
+  "genero": "Picumnus",
+  "especie": "olivaceus",
+  "subespecie": "",
+  "nombre_cientifico": "Picumnus olivaceus",
+  "nombre_ingles": "Olivaceous Piculet",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Amalfi, Antioquia",
+  "lat": 6.9599,
+  "lon": null,
+  "altura": 1600.0,
+  "fecha": "2016-03-12",
+  "hora": "08:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:55",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andres Angulo",
+  "comentarios": "Two individuals on tangled vegetation. Recording distance was 5 meters.",
+  "otras_especies": [
+    "Synallaxis albescens"
+  ],
+  "url_audio": "https://xeno-canto.org/343270/download",
+  "url_pagina": "https://xeno-canto.org/343270",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

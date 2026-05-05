@@ -1,0 +1,33 @@
+{
+  "xc_id": "676462",
+  "genero": "Patagioenas",
+  "especie": "subvinacea",
+  "subespecie": "",
+  "nombre_cientifico": "Patagioenas subvinacea",
+  "nombre_ingles": "Ruddy Pigeon",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Belmira, Antioquia",
+  "lat": 6.5793,
+  "lon": null,
+  "altura": 2700.0,
+  "fecha": "2021-07-11",
+  "hora": "03:00",
+  "calidad_xc": "A",
+  "tipo_canto": "uncertain",
+  "duracion": "1:05",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "A Edwar H Guarín",
+  "comentarios": "",
+  "otras_especies": [
+    "Grallaria ruficapilla"
+  ],
+  "url_audio": "https://xeno-canto.org/676462/download",
+  "url_pagina": "https://xeno-canto.org/676462",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

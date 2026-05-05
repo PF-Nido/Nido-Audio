@@ -1,0 +1,33 @@
+{
+  "xc_id": "905422",
+  "genero": "Aulacorhynchus",
+  "especie": "haematopygus",
+  "subespecie": "",
+  "nombre_cientifico": "Aulacorhynchus haematopygus",
+  "nombre_ingles": "Crimson-rumped Toucanet",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Alto Bonito (Manizales, Caldas)",
+  "lat": 5.1142,
+  "lon": null,
+  "altura": 1800.0,
+  "fecha": "2024-04-11",
+  "hora": "09:28",
+  "calidad_xc": "B",
+  "tipo_canto": "",
+  "duracion": "0:47",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "MasBiomas",
+  "comentarios": "el mismo individuo de la grabación  XC905420",
+  "otras_especies": [
+    "Habia cristata"
+  ],
+  "url_audio": "https://xeno-canto.org/905422/download",
+  "url_pagina": "https://xeno-canto.org/905422",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

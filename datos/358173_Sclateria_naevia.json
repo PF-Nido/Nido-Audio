@@ -1,0 +1,33 @@
+{
+  "xc_id": "358173",
+  "genero": "Sclateria",
+  "especie": "naevia",
+  "subespecie": "argentata",
+  "nombre_cientifico": "Sclateria naevia",
+  "nombre_ingles": "Silvered Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Cano Vitina, Inirida, Guainia",
+  "lat": 3.8196,
+  "lon": null,
+  "altura": 110.0,
+  "fecha": "2017-02-16",
+  "hora": "07:30",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "1:35",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Guy Kirwan",
+  "comentarios": "Understorey of seasonally flooded white-sand forest, near permanent water.",
+  "otras_especies": [
+    "Attila citriniventris"
+  ],
+  "url_audio": "https://xeno-canto.org/358173/download",
+  "url_pagina": "https://xeno-canto.org/358173",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

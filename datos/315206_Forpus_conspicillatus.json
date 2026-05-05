@@ -1,0 +1,33 @@
+{
+  "xc_id": "315206",
+  "genero": "Forpus",
+  "especie": "conspicillatus",
+  "subespecie": "",
+  "nombre_cientifico": "Forpus conspicillatus",
+  "nombre_ingles": "Spectacled Parrotlet",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Santa María, Boyacá",
+  "lat": 4.8467,
+  "lon": null,
+  "altura": 800.0,
+  "fecha": "2016-04-21",
+  "hora": "10:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "1:13",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "David Ricardo Rodríguez Villamil",
+  "comentarios": "",
+  "otras_especies": [
+    "Saltator maximus"
+  ],
+  "url_audio": "https://xeno-canto.org/315206/download",
+  "url_pagina": "https://xeno-canto.org/315206",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

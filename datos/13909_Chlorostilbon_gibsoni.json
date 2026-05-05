@@ -1,0 +1,33 @@
+{
+  "xc_id": "13909",
+  "genero": "Chlorostilbon",
+  "especie": "gibsoni",
+  "subespecie": "",
+  "nombre_cientifico": "Chlorostilbon gibsoni",
+  "nombre_ingles": "Red-billed Emerald",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RNA Hormiguero de Torcoroma, Ocaña, Norte de Santander",
+  "lat": 8.2031,
+  "lon": null,
+  "altura": 1600.0,
+  "fecha": "2007-06-19",
+  "hora": "08:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song, song from perch",
+  "duracion": "0:33",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Scott Olmstead",
+  "comentarios": "Species was common at this site.",
+  "otras_especies": [
+    "Myiothlypis cinereicollis"
+  ],
+  "url_audio": "https://xeno-canto.org/13909/download",
+  "url_pagina": "https://xeno-canto.org/13909",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

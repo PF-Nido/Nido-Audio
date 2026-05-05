@@ -1,0 +1,33 @@
+{
+  "xc_id": "814919",
+  "genero": "Mustelirallus",
+  "especie": "albicollis",
+  "subespecie": "",
+  "nombre_cientifico": "Mustelirallus albicollis",
+  "nombre_ingles": "Ash-throated Crake",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Finca Marengo, Pitalito, Huila",
+  "lat": null,
+  "lon": null,
+  "altura": 1300.0,
+  "fecha": "2023-07-01",
+  "hora": "10:30",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:27",
+  "sexo": "uncertain",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Miryon Montes Vargas",
+  "comentarios": "",
+  "otras_especies": [
+    "Laterallus albigularis"
+  ],
+  "url_audio": "https://xeno-canto.org/814919/download",
+  "url_pagina": "https://xeno-canto.org/814919",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

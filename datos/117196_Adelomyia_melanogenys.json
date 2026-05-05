@@ -1,0 +1,33 @@
+{
+  "xc_id": "117196",
+  "genero": "Adelomyia",
+  "especie": "melanogenys",
+  "subespecie": "",
+  "nombre_cientifico": "Adelomyia melanogenys",
+  "nombre_ingles": "Speckled Hummingbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "PNN Picachos, San vicente del Caguán, Caquetá",
+  "lat": 2.7975,
+  "lon": null,
+  "altura": 2000.0,
+  "fecha": "1997-11-01",
+  "hora": "07:48:00",
+  "calidad_xc": "A",
+  "tipo_canto": "call",
+  "duracion": "2:21",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)",
+  "comentarios": "IAvH-CSA 31\r\n\r\nTo obtain a wav file of the original recording, please contact csa@humboldt.org.co",
+  "otras_especies": [
+    "Colibri cyanotus"
+  ],
+  "url_audio": "https://xeno-canto.org/117196/download",
+  "url_pagina": "https://xeno-canto.org/117196",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

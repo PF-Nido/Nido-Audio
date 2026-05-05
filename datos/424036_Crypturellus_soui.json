@@ -1,0 +1,33 @@
+{
+  "xc_id": "424036",
+  "genero": "Crypturellus",
+  "especie": "soui",
+  "subespecie": "",
+  "nombre_cientifico": "Crypturellus soui",
+  "nombre_ingles": "Little Tinamou",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Natural la Primavera, Ibagué, Tolima",
+  "lat": 4.4804,
+  "lon": null,
+  "altura": 1100.0,
+  "fecha": "2017-06-09",
+  "hora": "16:08",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:32",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Yair Guillermo Molina Martínez.",
+  "comentarios": "Grabación hecha en el marco del Proyecto \"Estudio técnico y participativo de la biodiversidad aviar del municipio de Ibagué – Tolima, como estrategia para la consolidación del ecoturismo de aves, la conservación de sus hábitats y el desarrollo de procesos de educación ambiental\" Universidad de Ibagué - Rednatur - Colciencias.",
+  "otras_especies": [
+    "Pheugopedius fasciatoventris"
+  ],
+  "url_audio": "https://xeno-canto.org/424036/download",
+  "url_pagina": "https://xeno-canto.org/424036",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

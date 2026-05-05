@@ -1,0 +1,33 @@
+{
+  "xc_id": "116862",
+  "genero": "Sipia",
+  "especie": "palliata",
+  "subespecie": "",
+  "nombre_cientifico": "Sipia palliata",
+  "nombre_ingles": "Magdalena Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Rio Claro, Doradal, Antioquia",
+  "lat": 5.9002,
+  "lon": null,
+  "altura": 300.0,
+  "fecha": "2011-05-28",
+  "hora": "07:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "1:32",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Diego Calderon-F.",
+  "comentarios": "",
+  "otras_especies": [
+    "Xiphorhynchus susurrans"
+  ],
+  "url_audio": "https://xeno-canto.org/116862/download",
+  "url_pagina": "https://xeno-canto.org/116862",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

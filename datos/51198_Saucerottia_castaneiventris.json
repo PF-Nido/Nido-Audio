@@ -1,0 +1,33 @@
+{
+  "xc_id": "51198",
+  "genero": "Saucerottia",
+  "especie": "castaneiventris",
+  "subespecie": "",
+  "nombre_cientifico": "Saucerottia castaneiventris",
+  "nombre_ingles": "Chestnut-bellied Hummingbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Soatá, Boyaca",
+  "lat": null,
+  "lon": null,
+  "altura": 2000.0,
+  "fecha": "2010-02-08",
+  "hora": "16:30",
+  "calidad_xc": "B",
+  "tipo_canto": "call?",
+  "duracion": "0:31",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "David Geale",
+  "comentarios": "Human noises in BG",
+  "otras_especies": [
+    "Leptotila verreauxi"
+  ],
+  "url_audio": "https://xeno-canto.org/51198/download",
+  "url_pagina": "https://xeno-canto.org/51198",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

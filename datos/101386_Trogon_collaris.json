@@ -1,0 +1,33 @@
+{
+  "xc_id": "101386",
+  "genero": "Trogon",
+  "especie": "collaris",
+  "subespecie": "subtropicalis?",
+  "nombre_cientifico": "Trogon collaris",
+  "nombre_ingles": "Collared Trogon",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "SFF Otun-Quimbaya, Pereira, Risaralda, C Andes",
+  "lat": 4.727,
+  "lon": null,
+  "altura": 1875.0,
+  "fecha": "2012-04-26",
+  "hora": "11:09",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:44",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Jeremy Minns",
+  "comentarios": "Sendero los Bejucos. Montane forest. Group of about 4 birds (two seen).",
+  "otras_especies": [
+    "Cyclarhis nigrirostris"
+  ],
+  "url_audio": "https://xeno-canto.org/101386/download",
+  "url_pagina": "https://xeno-canto.org/101386",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

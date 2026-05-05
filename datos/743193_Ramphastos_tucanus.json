@@ -1,0 +1,33 @@
+{
+  "xc_id": "743193",
+  "genero": "Ramphastos",
+  "especie": "tucanus",
+  "subespecie": "",
+  "nombre_cientifico": "Ramphastos tucanus",
+  "nombre_ingles": "White-throated Toucan",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Leticia, Leticia, Amazonas",
+  "lat": -4.2173,
+  "lon": null,
+  "altura": 90.0,
+  "fecha": "2022-05-02",
+  "hora": "16:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:14",
+  "sexo": "uncertain",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Urias Edgardo Gonzalez Carreño",
+  "comentarios": "Las ave fueron encontradas perchadas a la altura del dosel de un árbol de Violeta, en el área de la Reserva Wairuru - Río Tacana, zona rural de la ciudad de Leticia, Amazonas.",
+  "otras_especies": [
+    "Crypturellus undulatus"
+  ],
+  "url_audio": "https://xeno-canto.org/743193/download",
+  "url_pagina": "https://xeno-canto.org/743193",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "241486",
+  "genero": "Phaethornis",
+  "especie": "yaruqui",
+  "subespecie": "",
+  "nombre_cientifico": "Phaethornis yaruqui",
+  "nombre_ingles": "White-whiskered Hermit",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Natural río Ñambí, Vereda el Barro, Altaquer, Barbacoas, Nariño.",
+  "lat": 1.3001,
+  "lon": null,
+  "altura": 1300.0,
+  "fecha": "2014-01-28",
+  "hora": "08:41",
+  "calidad_xc": "B",
+  "tipo_canto": "song, lek",
+  "duracion": "0:56",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marín Gómez",
+  "comentarios": "Another bird in lek, perched near to the ground and Heliconia patches. Distance: 10 m to mic. ID accurancy: 100%. Habitat: Low montane rain forest. Code: NAMBI _1520.  TASCAM DR 100 MKII with Sennheiser ME 66.",
+  "otras_especies": [
+    "Schiffornis veraepacis"
+  ],
+  "url_audio": "https://xeno-canto.org/241486/download",
+  "url_pagina": "https://xeno-canto.org/241486",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

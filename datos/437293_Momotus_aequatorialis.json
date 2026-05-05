@@ -1,0 +1,33 @@
+{
+  "xc_id": "437293",
+  "genero": "Momotus",
+  "especie": "aequatorialis",
+  "subespecie": "",
+  "nombre_cientifico": "Momotus aequatorialis",
+  "nombre_ingles": "Andean Motmot",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Heliconia, Antioquia",
+  "lat": 6.246,
+  "lon": null,
+  "altura": 1900.0,
+  "fecha": "2017-06-28",
+  "hora": "08:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:20",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andres Angulo ",
+  "comentarios": "I assume that is the same male recorded in this day because distance between recordings was less 50 meters. Recording distance was 30 meters.",
+  "otras_especies": [
+    "Atlapetes albinucha"
+  ],
+  "url_audio": "https://xeno-canto.org/437293/download",
+  "url_pagina": "https://xeno-canto.org/437293",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

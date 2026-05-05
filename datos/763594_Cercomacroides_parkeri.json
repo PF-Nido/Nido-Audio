@@ -1,0 +1,33 @@
+{
+  "xc_id": "763594",
+  "genero": "Cercomacroides",
+  "especie": "parkeri",
+  "subespecie": "",
+  "nombre_cientifico": "Cercomacroides parkeri",
+  "nombre_ingles": "Parker's Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Finca El Placer, El Rosario, Caldas",
+  "lat": 5.0353,
+  "lon": null,
+  "altura": 1300.0,
+  "fecha": "2021-12-29",
+  "hora": "07:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:38",
+  "sexo": "male",
+  "etapa_vida": "uncertain",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Nick Bayly",
+  "comentarios": "Singing from dense riparian strip dominated by Guadua bamboo.",
+  "otras_especies": [
+    "Empidonax virescens"
+  ],
+  "url_audio": "https://xeno-canto.org/763594/download",
+  "url_pagina": "https://xeno-canto.org/763594",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

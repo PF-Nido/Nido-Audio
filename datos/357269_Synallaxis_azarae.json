@@ -1,0 +1,33 @@
+{
+  "xc_id": "357269",
+  "genero": "Synallaxis",
+  "especie": "azarae",
+  "subespecie": "media",
+  "nombre_cientifico": "Synallaxis azarae",
+  "nombre_ingles": "Azara's Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Juntas, Tolima",
+  "lat": 4.566,
+  "lon": null,
+  "altura": 2000.0,
+  "fecha": "2017-02-20",
+  "hora": "08:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:52",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Guy Kirwan",
+  "comentarios": "At least three different birds vocalizing in roadside shrubbery.",
+  "otras_especies": [
+    "Grallaria ruficapilla"
+  ],
+  "url_audio": "https://xeno-canto.org/357269/download",
+  "url_pagina": "https://xeno-canto.org/357269",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

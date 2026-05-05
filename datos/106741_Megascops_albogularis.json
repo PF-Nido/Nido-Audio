@@ -1,0 +1,33 @@
+{
+  "xc_id": "106741",
+  "genero": "Megascops",
+  "especie": "albogularis",
+  "subespecie": "",
+  "nombre_cientifico": "Megascops albogularis",
+  "nombre_ingles": "White-throated Screech Owl",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Parque Nacional Natural Chingaza, Cundinamarca",
+  "lat": 4.747,
+  "lon": null,
+  "altura": 2900.0,
+  "fecha": "2012-08-01",
+  "hora": "20:18",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:47",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oswaldo Cortes",
+  "comentarios": "",
+  "otras_especies": [
+    "Strix albitarsis"
+  ],
+  "url_audio": "https://xeno-canto.org/106741/download",
+  "url_pagina": "https://xeno-canto.org/106741",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

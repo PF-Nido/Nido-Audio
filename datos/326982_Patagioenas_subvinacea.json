@@ -1,0 +1,33 @@
+{
+  "xc_id": "326982",
+  "genero": "Patagioenas",
+  "especie": "subvinacea",
+  "subespecie": "",
+  "nombre_cientifico": "Patagioenas subvinacea",
+  "nombre_ingles": "Ruddy Pigeon",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Santa María, Boyacá",
+  "lat": 4.8827,
+  "lon": null,
+  "altura": 1900.0,
+  "fecha": "2016-05-14",
+  "hora": "14:50",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:25",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "David Ricardo Rodríguez Villamil",
+  "comentarios": "Muy vocal después de la lluvia\r\nVery vowel after the rain",
+  "otras_especies": [
+    "Psarocolius angustifrons"
+  ],
+  "url_audio": "https://xeno-canto.org/326982/download",
+  "url_pagina": "https://xeno-canto.org/326982",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

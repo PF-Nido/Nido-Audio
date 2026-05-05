@@ -1,0 +1,33 @@
+{
+  "xc_id": "598869",
+  "genero": "Thamnophilus",
+  "especie": "atrinucha",
+  "subespecie": "",
+  "nombre_cientifico": "Thamnophilus atrinucha",
+  "nombre_ingles": "Black-crowned Antshrike",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Sendero Ecológico Guásimo, La Virginia, Risaralda",
+  "lat": 4.8968,
+  "lon": null,
+  "altura": 1000.0,
+  "fecha": "2020-10-29",
+  "hora": "03:30",
+  "calidad_xc": "A",
+  "tipo_canto": "subsong",
+  "duracion": "0:16",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Jorge Andres Lopez-Ospina",
+  "comentarios": "Alrededor de 7 individuos en estrato bajo del bosque. Hay otra especie que llegó solitaria pero no pude ver a ninguno. Porfavor me ayudan con el ID de las dos especies.",
+  "otras_especies": [
+    "Manacus vitellinus"
+  ],
+  "url_audio": "https://xeno-canto.org/598869/download",
+  "url_pagina": "https://xeno-canto.org/598869",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

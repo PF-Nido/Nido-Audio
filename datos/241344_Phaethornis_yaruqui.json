@@ -1,0 +1,33 @@
+{
+  "xc_id": "241344",
+  "genero": "Phaethornis",
+  "especie": "yaruqui",
+  "subespecie": "",
+  "nombre_cientifico": "Phaethornis yaruqui",
+  "nombre_ingles": "White-whiskered Hermit",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Natural río Ñambí, Vereda el Barro, Altaquer, Barbacoas, Nariño.",
+  "lat": 1.3001,
+  "lon": null,
+  "altura": 1150.0,
+  "fecha": "2014-01-27",
+  "hora": "08:27",
+  "calidad_xc": "A",
+  "tipo_canto": "song, lek",
+  "duracion": "2:29",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marín Gómez",
+  "comentarios": "Onebird in lek, perched near to the ground, moving the tail and raising the bill showing the red jaw. Distance: 4 m to mic. ID accurancy: 100%. Habitat: Low montane rain forest. Code: NAMBI _1470.  TASCAM DR 100 MKII with Sennheiser ME 66.",
+  "otras_especies": [
+    "Grallaria flavotincta"
+  ],
+  "url_audio": "https://xeno-canto.org/241344/download",
+  "url_pagina": "https://xeno-canto.org/241344",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

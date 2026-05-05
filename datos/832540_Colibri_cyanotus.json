@@ -1,0 +1,33 @@
+{
+  "xc_id": "832540",
+  "genero": "Colibri",
+  "especie": "cyanotus",
+  "subespecie": "",
+  "nombre_cientifico": "Colibri cyanotus",
+  "nombre_ingles": "Lesser Violetear",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Mirador el Roble",
+  "lat": null,
+  "lon": null,
+  "altura": 2900.0,
+  "fecha": "2023-09-28",
+  "hora": "06:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song, N/A",
+  "duracion": "0:12",
+  "sexo": "uncertain",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "A Edwar H Guarín",
+  "comentarios": "",
+  "otras_especies": [
+    "Odontophorus hyperythrus"
+  ],
+  "url_audio": "https://xeno-canto.org/832540/download",
+  "url_pagina": "https://xeno-canto.org/832540",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

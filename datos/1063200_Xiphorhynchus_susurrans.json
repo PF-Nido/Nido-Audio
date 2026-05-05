@@ -1,0 +1,33 @@
+{
+  "xc_id": "1063200",
+  "genero": "Xiphorhynchus",
+  "especie": "susurrans",
+  "subespecie": "rosenbergi",
+  "nombre_cientifico": "Xiphorhynchus susurrans",
+  "nombre_ingles": "Cocoa Woodcreeper",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Guadalajara de Buga, Valle del Cauca",
+  "lat": 3.8759,
+  "lon": null,
+  "altura": 950.0,
+  "fecha": "2025-07-27",
+  "hora": "11:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:06",
+  "sexo": "uncertain",
+  "etapa_vida": "uncertain",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Germán Darío Gallego Chica",
+  "comentarios": "Recorded vocalization of an individual vocalizing inside a dry forest.",
+  "otras_especies": [
+    "Forpus conspicillatus"
+  ],
+  "url_audio": "https://xeno-canto.org/1063200/download",
+  "url_pagina": "https://xeno-canto.org/1063200",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

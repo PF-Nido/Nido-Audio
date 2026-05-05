@@ -1,0 +1,33 @@
+{
+  "xc_id": "140771",
+  "genero": "Androdon",
+  "especie": "aequatorialis",
+  "subespecie": "",
+  "nombre_cientifico": "Androdon aequatorialis",
+  "nombre_ingles": "Tooth-billed Hummingbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Ensenada de Utría National Park-Trail across peninsula",
+  "lat": 6.0206,
+  "lon": null,
+  "altura": 60.0,
+  "fecha": "2013-06-13",
+  "hora": "09:14",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "2:25",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Nick Athanas",
+  "comentarios": "One bird at what I believe was a lek, since there was another one singing nearby. [Link to photo of the same bird in this recording](http://antpitta.com/images/photos/hummers/Tooth-billed-Hummingbird-utria_9808.jpg)",
+  "otras_especies": [
+    "Poliocrania exsul"
+  ],
+  "url_audio": "https://xeno-canto.org/140771/download",
+  "url_pagina": "https://xeno-canto.org/140771",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

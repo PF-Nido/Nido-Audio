@@ -1,0 +1,33 @@
+{
+  "xc_id": "118597",
+  "genero": "Glaucidium",
+  "especie": "brasilianum",
+  "subespecie": "",
+  "nombre_cientifico": "Glaucidium brasilianum",
+  "nombre_ingles": "Ferruginous Pygmy Owl",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "La Pedregoza, Puerto Carreño, Vichada",
+  "lat": 6.1132,
+  "lon": null,
+  "altura": 60.0,
+  "fecha": "2013-01-09",
+  "hora": "04:50",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:44",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "David Bradley",
+  "comentarios": "http://www.pedregoza.org/",
+  "otras_especies": [
+    "Nyctiprogne leucopyga"
+  ],
+  "url_audio": "https://xeno-canto.org/118597/download",
+  "url_pagina": "https://xeno-canto.org/118597",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

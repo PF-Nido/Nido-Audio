@@ -1,0 +1,33 @@
+{
+  "xc_id": "693667",
+  "genero": "Melanerpes",
+  "especie": "formicivorus",
+  "subespecie": "",
+  "nombre_cientifico": "Melanerpes formicivorus",
+  "nombre_ingles": "Acorn Woodpecker",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Piedra del Amor, Huila",
+  "lat": 1.6608855,
+  "lon": null,
+  "altura": null,
+  "fecha": "2021-11-15",
+  "hora": "08:00",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:40",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Peter Boesman",
+  "comentarios": "",
+  "otras_especies": [
+    "Leptotila conoveri"
+  ],
+  "url_audio": "https://xeno-canto.org/693667/download",
+  "url_pagina": "https://xeno-canto.org/693667",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

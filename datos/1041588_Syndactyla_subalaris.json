@@ -1,0 +1,33 @@
+{
+  "xc_id": "1041588",
+  "genero": "Syndactyla",
+  "especie": "subalaris",
+  "subespecie": "",
+  "nombre_cientifico": "Syndactyla subalaris",
+  "nombre_ingles": "Lineated Foliage-gleaner",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Cerro Guamocó, Santa Rosa del Sur, Bolivar",
+  "lat": 7.659,
+  "lon": null,
+  "altura": 1800.0,
+  "fecha": "2025-06-25",
+  "hora": "06:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "7:52",
+  "sexo": "uncertain",
+  "etapa_vida": "uncertain",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Pablo López-O.",
+  "comentarios": "",
+  "otras_especies": [
+    "Catharus maculatus"
+  ],
+  "url_audio": "https://xeno-canto.org/1041588/download",
+  "url_pagina": "https://xeno-canto.org/1041588",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

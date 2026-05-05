@@ -1,0 +1,33 @@
+{
+  "xc_id": "14036",
+  "genero": "Zentrygon",
+  "especie": "linearis",
+  "subespecie": "",
+  "nombre_cientifico": "Zentrygon linearis",
+  "nombre_ingles": "Lined Quail-Dove",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RNA Hormiguero de Torcoroma, Ocaña, Norte de Santander",
+  "lat": 8.2031,
+  "lon": null,
+  "altura": 1600.0,
+  "fecha": "2007-06-19",
+  "hora": "06:21",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:38",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Bradley Davis",
+  "comentarios": "seen poorly as it flushed across the road from a stand of Chusquea bamboo",
+  "otras_especies": [
+    "Drymophila klagesi"
+  ],
+  "url_audio": "https://xeno-canto.org/14036/download",
+  "url_pagina": "https://xeno-canto.org/14036",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

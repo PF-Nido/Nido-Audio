@@ -1,0 +1,33 @@
+{
+  "xc_id": "568004",
+  "genero": "Coccycua",
+  "especie": "minuta",
+  "subespecie": "",
+  "nombre_cientifico": "Coccycua minuta",
+  "nombre_ingles": "Little Cuckoo",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Mana Dulce, Cundinamarca",
+  "lat": 4.351,
+  "lon": null,
+  "altura": 380.0,
+  "fecha": "2020-06-12",
+  "hora": "08:30",
+  "calidad_xc": "A",
+  "tipo_canto": "call",
+  "duracion": "0:04",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Jerome Fischer",
+  "comentarios": "",
+  "otras_especies": [
+    "Polioptila plumbea"
+  ],
+  "url_audio": "https://xeno-canto.org/568004/download",
+  "url_pagina": "https://xeno-canto.org/568004",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "605938",
+  "genero": "Zentrygon",
+  "especie": "frenata",
+  "subespecie": "bourcieri",
+  "nombre_cientifico": "Zentrygon frenata",
+  "nombre_ingles": "White-throated Quail-Dove",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "La Cumbre, Valle del Cauca",
+  "lat": 3.5664,
+  "lon": null,
+  "altura": 2000.0,
+  "fecha": "2020-11-01",
+  "hora": "06:30",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:22",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Julio Delgado",
+  "comentarios": "",
+  "otras_especies": [
+    "Momotus aequatorialis"
+  ],
+  "url_audio": "https://xeno-canto.org/605938/download",
+  "url_pagina": "https://xeno-canto.org/605938",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

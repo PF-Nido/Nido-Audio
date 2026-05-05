@@ -1,0 +1,33 @@
+{
+  "xc_id": "425744",
+  "genero": "Campylorhamphus",
+  "especie": "trochilirostris",
+  "subespecie": "",
+  "nombre_cientifico": "Campylorhamphus trochilirostris",
+  "nombre_ingles": "Red-billed Scythebill",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Rio Claro, Doradal, Antioquia",
+  "lat": 5.9002,
+  "lon": null,
+  "altura": 400.0,
+  "fecha": "2018-07-14",
+  "hora": "09:30",
+  "calidad_xc": "A",
+  "tipo_canto": "call",
+  "duracion": "0:10",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Jerome Fischer",
+  "comentarios": "same ind. as XC425512",
+  "otras_especies": [
+    "Poecilotriccus sylvia"
+  ],
+  "url_audio": "https://xeno-canto.org/425744/download",
+  "url_pagina": "https://xeno-canto.org/425744",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "455042",
+  "genero": "Synallaxis",
+  "especie": "subpudica",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis subpudica",
+  "nombre_ingles": "Silvery-throated Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Humedal Córdoba sector III, Suba, Bogotá",
+  "lat": 4.7037,
+  "lon": null,
+  "altura": 2500.0,
+  "fecha": "2019-01-10",
+  "hora": "10:00",
+  "calidad_xc": "A",
+  "tipo_canto": "alarm call",
+  "duracion": "0:58",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Fernando Castro",
+  "comentarios": "",
+  "otras_especies": [
+    "Tyrannus melancholicus"
+  ],
+  "url_audio": "https://xeno-canto.org/455042/download",
+  "url_pagina": "https://xeno-canto.org/455042",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

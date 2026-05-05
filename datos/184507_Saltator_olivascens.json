@@ -1,0 +1,33 @@
+{
+  "xc_id": "184507",
+  "genero": "Saltator",
+  "especie": "olivascens",
+  "subespecie": "",
+  "nombre_cientifico": "Saltator olivascens",
+  "nombre_ingles": "Olivaceous Saltator",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Sabaneta, Antioquia",
+  "lat": 6.1449,
+  "lon": null,
+  "altura": 1600.0,
+  "fecha": "2014-06-30",
+  "hora": "17:13",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:28",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Danny Zapata-Henao",
+  "comentarios": "On a tree next to the road, singing for a while and foraging to the road.",
+  "otras_especies": [
+    "Sicalis flaveola"
+  ],
+  "url_audio": "https://xeno-canto.org/184507/download",
+  "url_pagina": "https://xeno-canto.org/184507",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

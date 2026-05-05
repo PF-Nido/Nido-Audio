@@ -1,0 +1,33 @@
+{
+  "xc_id": "519761",
+  "genero": "Nothocrax",
+  "especie": "urumutum",
+  "subespecie": "",
+  "nombre_cientifico": "Nothocrax urumutum",
+  "nombre_ingles": "Nocturnal Curassow",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Piamonte, Cauca",
+  "lat": 1.0246,
+  "lon": null,
+  "altura": 290.0,
+  "fecha": "2019-10-25",
+  "hora": "19:05",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "2:23",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Gerlando Delgado ",
+  "comentarios": "Interior de bosque, al menos dos individuos vocalizando. Audio amplificado y normalizado.",
+  "otras_especies": [
+    "Lophostrix cristata"
+  ],
+  "url_audio": "https://xeno-canto.org/519761/download",
+  "url_pagina": "https://xeno-canto.org/519761",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

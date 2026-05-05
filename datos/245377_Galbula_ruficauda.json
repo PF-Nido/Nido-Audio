@@ -1,0 +1,33 @@
+{
+  "xc_id": "245377",
+  "genero": "Galbula",
+  "especie": "ruficauda",
+  "subespecie": "",
+  "nombre_cientifico": "Galbula ruficauda",
+  "nombre_ingles": "Rufous-tailed Jacamar",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Bosque de Don Gregorio, Vereda Caribabare, Tame, Arauca",
+  "lat": 6.28,
+  "lon": null,
+  "altura": 280.0,
+  "fecha": "2015-03-28",
+  "hora": "11:15",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "1:19",
+  "sexo": "male",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marín Gómez &amp; Natalia Perez Amaya",
+  "comentarios": "A pair perched in open understory. Male exposed and singing. ID accurancy: 100%. Habitat: Second growth forest and Morichal. Distance to mic: 5 m. Tascam DR-100MKII, Sennheiser ME66. Reference: 150328_2201",
+  "otras_especies": [
+    "Eupsittula pertinax"
+  ],
+  "url_audio": "https://xeno-canto.org/245377/download",
+  "url_pagina": "https://xeno-canto.org/245377",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

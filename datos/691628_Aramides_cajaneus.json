@@ -1,0 +1,33 @@
+{
+  "xc_id": "691628",
+  "genero": "Aramides",
+  "especie": "cajaneus",
+  "subespecie": "cajaneus",
+  "nombre_cientifico": "Aramides cajaneus",
+  "nombre_ingles": "Grey-cowled Wood Rail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Neiva, Neiva, Huila",
+  "lat": 2.9386,
+  "lon": null,
+  "altura": 540.0,
+  "fecha": "2021-12-15",
+  "hora": "17:00",
+  "calidad_xc": "B",
+  "tipo_canto": "duet",
+  "duracion": "1:28",
+  "sexo": "",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Amado",
+  "comentarios": "The closest bird was seen walking at the limits of the bush, the second one (the background one) remained unseen, but the first one seemed to be moving towards it. They sing daily, mainly at dawn and sunset.",
+  "otras_especies": [
+    "Aramides cajaneus"
+  ],
+  "url_audio": "https://xeno-canto.org/691628/download",
+  "url_pagina": "https://xeno-canto.org/691628",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

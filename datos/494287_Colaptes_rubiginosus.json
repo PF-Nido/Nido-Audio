@@ -1,0 +1,33 @@
+{
+  "xc_id": "494287",
+  "genero": "Colaptes",
+  "especie": "rubiginosus",
+  "subespecie": "",
+  "nombre_cientifico": "Colaptes rubiginosus",
+  "nombre_ingles": "Golden-olive Woodpecker",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Andes, Heliconia, Antioquia",
+  "lat": 6.2476,
+  "lon": null,
+  "altura": 1900.0,
+  "fecha": "2017-07-02",
+  "hora": "06:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:02",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andres Angulo Rubiano",
+  "comentarios": "Fourth cut of the individual on XC494284.",
+  "otras_especies": [
+    "Turdus fuscater"
+  ],
+  "url_audio": "https://xeno-canto.org/494287/download",
+  "url_pagina": "https://xeno-canto.org/494287",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

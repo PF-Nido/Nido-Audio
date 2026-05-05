@@ -1,0 +1,33 @@
+{
+  "xc_id": "783188",
+  "genero": "Rallus",
+  "especie": "semiplumbeus",
+  "subespecie": "",
+  "nombre_cientifico": "Rallus semiplumbeus",
+  "nombre_ingles": "Bogota Rail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "PNN Chingaza, Laguna de Chingaza",
+  "lat": 4.5167,
+  "lon": null,
+  "altura": 3200.0,
+  "fecha": "2015-07-03",
+  "hora": "07:00",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "1:14",
+  "sexo": "uncertain",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Pedro Arturo Camargo Martínez",
+  "comentarios": "",
+  "otras_especies": [
+    "Dubusia taeniata"
+  ],
+  "url_audio": "https://xeno-canto.org/783188/download",
+  "url_pagina": "https://xeno-canto.org/783188",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

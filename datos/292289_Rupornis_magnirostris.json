@@ -1,0 +1,33 @@
+{
+  "xc_id": "292289",
+  "genero": "Rupornis",
+  "especie": "magnirostris",
+  "subespecie": "",
+  "nombre_cientifico": "Rupornis magnirostris",
+  "nombre_ingles": "Roadside Hawk",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "San Pedro de los Milagros, Antioquia",
+  "lat": 6.4396,
+  "lon": null,
+  "altura": 2600.0,
+  "fecha": "2015-11-16",
+  "hora": "11:30",
+  "calidad_xc": "A",
+  "tipo_canto": "call",
+  "duracion": "1:43",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andrea Lopera-Salazar",
+  "comentarios": "El canto no fue modificado significativamente. Se encontraba perchado en el estrato medio de eucaliptos cerca de matorral alto.\r\n ",
+  "otras_especies": [
+    "Zonotrichia capensis"
+  ],
+  "url_audio": "https://xeno-canto.org/292289/download",
+  "url_pagina": "https://xeno-canto.org/292289",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

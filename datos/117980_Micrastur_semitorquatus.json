@@ -1,0 +1,33 @@
+{
+  "xc_id": "117980",
+  "genero": "Micrastur",
+  "especie": "semitorquatus",
+  "subespecie": "",
+  "nombre_cientifico": "Micrastur semitorquatus",
+  "nombre_ingles": "Collared Forest Falcon",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Montaña de los Navas, Tolú, Sucre",
+  "lat": 9.5775,
+  "lon": null,
+  "altura": 40.0,
+  "fecha": "0000-00-00",
+  "hora": "?",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "3:43",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Fernando Forero (Colección de Sonidos Ambientales - Instituto Humboldt)",
+  "comentarios": "IAvH-CSA 31626\r\n\r\nTo obtain a wav file of the original recording, please contact csa@humboldt.org.co",
+  "otras_especies": [
+    "Tinamus major"
+  ],
+  "url_audio": "https://xeno-canto.org/117980/download",
+  "url_pagina": "https://xeno-canto.org/117980",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

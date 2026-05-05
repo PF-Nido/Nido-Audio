@@ -1,0 +1,33 @@
+{
+  "xc_id": "520389",
+  "genero": "Amazona",
+  "especie": "farinosa",
+  "subespecie": "",
+  "nombre_cientifico": "Amazona farinosa",
+  "nombre_ingles": "Southern Mealy Amazon",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Colosó, Sucre",
+  "lat": 9.5222,
+  "lon": null,
+  "altura": 160.0,
+  "fecha": "2019-12-11",
+  "hora": "06:40",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:24",
+  "sexo": "uncertain",
+  "etapa_vida": "uncertain",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Nick Komar",
+  "comentarios": "Three parrots flew into crown of large tree foraging on flowers or fruits on forested hillside. ",
+  "otras_especies": [
+    "Myiozetetes similis"
+  ],
+  "url_audio": "https://xeno-canto.org/520389/download",
+  "url_pagina": "https://xeno-canto.org/520389",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

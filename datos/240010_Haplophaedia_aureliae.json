@@ -1,0 +1,33 @@
+{
+  "xc_id": "240010",
+  "genero": "Haplophaedia",
+  "especie": "aureliae",
+  "subespecie": "",
+  "nombre_cientifico": "Haplophaedia aureliae",
+  "nombre_ingles": "Greenish Puffleg",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Bremen-La Popa, Vereda Cruces, Filandia, Quindío",
+  "lat": 4.68,
+  "lon": null,
+  "altura": 2000.0,
+  "fecha": "2008-01-10",
+  "hora": "15:20",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:20",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marín Gómez",
+  "comentarios": "A male emiting agonistic calls in flight. Habitat: Secondary humid forest border. Code: OHM019A_0150 Haplophaedia aureliae. Equipment: Marantz PMD 222 with Sennheiser ME 66, TDK 60 SA-II.",
+  "otras_especies": [
+    "Ocreatus underwoodii"
+  ],
+  "url_audio": "https://xeno-canto.org/240010/download",
+  "url_pagina": "https://xeno-canto.org/240010",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

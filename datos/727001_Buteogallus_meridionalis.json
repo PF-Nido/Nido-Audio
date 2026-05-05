@@ -1,0 +1,33 @@
+{
+  "xc_id": "727001",
+  "genero": "Buteogallus",
+  "especie": "meridionalis",
+  "subespecie": "",
+  "nombre_cientifico": "Buteogallus meridionalis",
+  "nombre_ingles": "Savanna Hawk",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Remedios, Antioquia",
+  "lat": 6.9439,
+  "lon": null,
+  "altura": 550.0,
+  "fecha": "2021-09-10",
+  "hora": "09:30",
+  "calidad_xc": "B",
+  "tipo_canto": "uncertain",
+  "duracion": "0:18",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Laura Franco",
+  "comentarios": "Singing from a high tree in a pasture near a stream",
+  "otras_especies": [
+    "Pitangus sulphuratus"
+  ],
+  "url_audio": "https://xeno-canto.org/727001/download",
+  "url_pagina": "https://xeno-canto.org/727001",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

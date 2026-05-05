@@ -1,0 +1,33 @@
+{
+  "xc_id": "814189",
+  "genero": "Xiphorhynchus",
+  "especie": "susurrans",
+  "subespecie": "",
+  "nombre_cientifico": "Xiphorhynchus susurrans",
+  "nombre_ingles": "Cocoa Woodcreeper",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Natural Cauquitá",
+  "lat": 4.843,
+  "lon": null,
+  "altura": 1100.0,
+  "fecha": "2023-05-13",
+  "hora": "11:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:36",
+  "sexo": "uncertain",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "David Monroy Rengifo",
+  "comentarios": "",
+  "otras_especies": [
+    "Polioptila plumbea"
+  ],
+  "url_audio": "https://xeno-canto.org/814189/download",
+  "url_pagina": "https://xeno-canto.org/814189",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

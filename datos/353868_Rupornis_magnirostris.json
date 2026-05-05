@@ -1,0 +1,33 @@
+{
+  "xc_id": "353868",
+  "genero": "Rupornis",
+  "especie": "magnirostris",
+  "subespecie": "magnirostris",
+  "nombre_cientifico": "Rupornis magnirostris",
+  "nombre_ingles": "Roadside Hawk",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Bosques de Bavaria, Villavicencio, Meta",
+  "lat": 4.1813,
+  "lon": null,
+  "altura": 650.0,
+  "fecha": "2010-01-20",
+  "hora": "06:00",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:14",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Diego Cueva",
+  "comentarios": "",
+  "otras_especies": [
+    "Thryophilus rufalbus"
+  ],
+  "url_audio": "https://xeno-canto.org/353868/download",
+  "url_pagina": "https://xeno-canto.org/353868",
+  "licencia": "https://creativecommons.org/licenses/by-sa/4.0/"
+}

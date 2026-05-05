@@ -1,0 +1,33 @@
+{
+  "xc_id": "273377",
+  "genero": "Myrmotherula",
+  "especie": "pacifica",
+  "subespecie": "",
+  "nombre_cientifico": "Myrmotherula pacifica",
+  "nombre_ingles": "Pacific Antwren",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Río Claro, Doradal, Antioquia",
+  "lat": 5.9,
+  "lon": null,
+  "altura": 1500.0,
+  "fecha": "2011-02-04",
+  "hora": "08:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:33",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Peter Boesman",
+  "comentarios": "",
+  "otras_especies": [
+    "Saltator maximus"
+  ],
+  "url_audio": "https://xeno-canto.org/273377/download",
+  "url_pagina": "https://xeno-canto.org/273377",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

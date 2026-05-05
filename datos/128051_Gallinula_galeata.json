@@ -1,0 +1,33 @@
+{
+  "xc_id": "128051",
+  "genero": "Gallinula",
+  "especie": "galeata",
+  "subespecie": "",
+  "nombre_cientifico": "Gallinula galeata",
+  "nombre_ingles": "Common Gallinule",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "La Florida Parque",
+  "lat": 4.7295,
+  "lon": null,
+  "altura": 2500.0,
+  "fecha": "2013-03-31",
+  "hora": "06:30",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:23",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oswaldo Cortes",
+  "comentarios": "",
+  "otras_especies": [
+    "Gallinula galeata"
+  ],
+  "url_audio": "https://xeno-canto.org/128051/download",
+  "url_pagina": "https://xeno-canto.org/128051",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

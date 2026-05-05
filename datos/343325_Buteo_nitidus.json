@@ -1,0 +1,33 @@
+{
+  "xc_id": "343325",
+  "genero": "Buteo",
+  "especie": "nitidus",
+  "subespecie": "",
+  "nombre_cientifico": "Buteo nitidus",
+  "nombre_ingles": "Grey-lined Hawk",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Distracción, La Guajira",
+  "lat": 10.9737,
+  "lon": null,
+  "altura": 500.0,
+  "fecha": "2016-07-02",
+  "hora": "09:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "2:52",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andres Angulo",
+  "comentarios": "same individual XC343324.",
+  "otras_especies": [
+    "Cyanocorax affinis"
+  ],
+  "url_audio": "https://xeno-canto.org/343325/download",
+  "url_pagina": "https://xeno-canto.org/343325",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

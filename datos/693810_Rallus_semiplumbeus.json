@@ -1,0 +1,33 @@
+{
+  "xc_id": "693810",
+  "genero": "Rallus",
+  "especie": "semiplumbeus",
+  "subespecie": "",
+  "nombre_cientifico": "Rallus semiplumbeus",
+  "nombre_ingles": "Bogota Rail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Guasca wetlands, Cundinamarca",
+  "lat": 4.8489,
+  "lon": null,
+  "altura": null,
+  "fecha": "2021-11-27",
+  "hora": "08:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:17",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Peter Boesman",
+  "comentarios": "Preceeded by Spot-flanked Gallinule.",
+  "otras_especies": [
+    "Porphyriops melanops"
+  ],
+  "url_audio": "https://xeno-canto.org/693810/download",
+  "url_pagina": "https://xeno-canto.org/693810",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

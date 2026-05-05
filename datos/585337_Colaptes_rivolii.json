@@ -1,0 +1,33 @@
+{
+  "xc_id": "585337",
+  "genero": "Colaptes",
+  "especie": "rivolii",
+  "subespecie": "",
+  "nombre_cientifico": "Colaptes rivolii",
+  "nombre_ingles": "Crimson-mantled Woodpecker",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Bogotá, Cerros orientales, Pico Águila, Senderos NE a SE de Monserrate",
+  "lat": 4.6124,
+  "lon": null,
+  "altura": null,
+  "fecha": "2020-06-21",
+  "hora": "11:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:04",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Marcela Morales sánchez",
+  "comentarios": "",
+  "otras_especies": [
+    "Troglodytes aedon"
+  ],
+  "url_audio": "https://xeno-canto.org/585337/download",
+  "url_pagina": "https://xeno-canto.org/585337",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

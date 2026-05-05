@@ -1,0 +1,33 @@
+{
+  "xc_id": "368252",
+  "genero": "Ramphastos",
+  "especie": "ambiguus",
+  "subespecie": "",
+  "nombre_cientifico": "Ramphastos ambiguus",
+  "nombre_ingles": "Yellow-throated Toucan",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Parque Nacional Natural Utría, Choco",
+  "lat": 6.0201,
+  "lon": null,
+  "altura": 20.0,
+  "fecha": "2017-01-27",
+  "hora": "17:51",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:09",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Martin St-Michel",
+  "comentarios": "Habitat: mangrove, primary forest.",
+  "otras_especies": [
+    "Ramphastos brevis"
+  ],
+  "url_audio": "https://xeno-canto.org/368252/download",
+  "url_pagina": "https://xeno-canto.org/368252",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

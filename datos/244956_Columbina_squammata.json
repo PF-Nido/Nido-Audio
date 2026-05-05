@@ -1,0 +1,33 @@
+{
+  "xc_id": "244956",
+  "genero": "Columbina",
+  "especie": "squammata",
+  "subespecie": "",
+  "nombre_cientifico": "Columbina squammata",
+  "nombre_ingles": "Scaled Dove",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Caño Orosi, Finca Candalayes, Vereda Candalayes, Trinidad, Casanare",
+  "lat": 5.3130555555556,
+  "lon": null,
+  "altura": 180.0,
+  "fecha": "2012-07-15",
+  "hora": "08:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:32",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marín Gómez &amp; Juan Pablo López",
+  "comentarios": "Sabana.Reference:OHMJPLLP_B_0016",
+  "otras_especies": [
+    "Phacellodomus inornatus"
+  ],
+  "url_audio": "https://xeno-canto.org/244956/download",
+  "url_pagina": "https://xeno-canto.org/244956",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "156311",
+  "genero": "Ara",
+  "especie": "macao",
+  "subespecie": "",
+  "nombre_cientifico": "Ara macao",
+  "nombre_ingles": "Scarlet Macaw",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Cortijo de San José, Sabaneta, Antioquia",
+  "lat": 6.141,
+  "lon": null,
+  "altura": 1700.0,
+  "fecha": "2013-12-01",
+  "hora": "16:08",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:12",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Danny Zapata-Henao",
+  "comentarios": "Two individuals flying together over the forest.",
+  "otras_especies": [
+    "Tyrannus melancholicus"
+  ],
+  "url_audio": "https://xeno-canto.org/156311/download",
+  "url_pagina": "https://xeno-canto.org/156311",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

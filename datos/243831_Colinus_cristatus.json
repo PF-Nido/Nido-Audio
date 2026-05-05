@@ -1,0 +1,33 @@
+{
+  "xc_id": "243831",
+  "genero": "Colinus",
+  "especie": "cristatus",
+  "subespecie": "leucotis",
+  "nombre_cientifico": "Colinus cristatus",
+  "nombre_ingles": "Crested Bobwhite",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Líbano, Tolima",
+  "lat": 4.9412,
+  "lon": null,
+  "altura": 1200.0,
+  "fecha": "2015-05-09",
+  "hora": "17:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:21",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Jeisson Poveda",
+  "comentarios": "Couple vocalizing in a pasture, responding to each other.\r\nRoadside, on a dead branches at 1 meter from the ground.",
+  "otras_especies": [
+    "Tapera naevia"
+  ],
+  "url_audio": "https://xeno-canto.org/243831/download",
+  "url_pagina": "https://xeno-canto.org/243831",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "706314",
+  "genero": "Momotus",
+  "especie": "momota",
+  "subespecie": "",
+  "nombre_cientifico": "Momotus momota",
+  "nombre_ingles": "Amazonian Motmot",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Bosque Chorro La Campana - Solano, Caqueta",
+  "lat": -0.4368,
+  "lon": null,
+  "altura": 120.0,
+  "fecha": "2022-02-16",
+  "hora": "06:30",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:20",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Mauricio Cuéllar Ramírez",
+  "comentarios": "",
+  "otras_especies": [
+    "Myiopagis gaimardii"
+  ],
+  "url_audio": "https://xeno-canto.org/706314/download",
+  "url_pagina": "https://xeno-canto.org/706314",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

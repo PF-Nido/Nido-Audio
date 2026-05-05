@@ -1,0 +1,33 @@
+{
+  "xc_id": "471178",
+  "genero": "Baryphthengus",
+  "especie": "martii",
+  "subespecie": "",
+  "nombre_cientifico": "Baryphthengus martii",
+  "nombre_ingles": "Rufous Motmot",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Cabaña Kawari, quebrada Piskuyaco. Miraflor (Cauca)",
+  "lat": 1.0721,
+  "lon": null,
+  "altura": 700.0,
+  "fecha": "2019-05-04",
+  "hora": "07:00",
+  "calidad_xc": "B",
+  "tipo_canto": "begging call, drumming, song",
+  "duracion": "1:56",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Pablo López-O.",
+  "comentarios": "",
+  "otras_especies": [
+    "Dysithamnus mentalis"
+  ],
+  "url_audio": "https://xeno-canto.org/471178/download",
+  "url_pagina": "https://xeno-canto.org/471178",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

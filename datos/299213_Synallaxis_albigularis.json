@@ -1,0 +1,33 @@
+{
+  "xc_id": "299213",
+  "genero": "Synallaxis",
+  "especie": "albigularis",
+  "subespecie": "rodolphei",
+  "nombre_cientifico": "Synallaxis albigularis",
+  "nombre_ingles": "Dark-breasted Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "V/ San Antonio Mocoa, Putumayo",
+  "lat": 1.1807,
+  "lon": null,
+  "altura": 1000.0,
+  "fecha": "2016-01-12",
+  "hora": "10:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:19",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Brayan Coral Jaramillo",
+  "comentarios": "",
+  "otras_especies": [
+    "Ramphocelus carbo"
+  ],
+  "url_audio": "https://xeno-canto.org/299213/download",
+  "url_pagina": "https://xeno-canto.org/299213",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

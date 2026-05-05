@@ -1,0 +1,33 @@
+{
+  "xc_id": "22223",
+  "genero": "Andigena",
+  "especie": "nigrirostris",
+  "subespecie": "occidentalis",
+  "nombre_cientifico": "Andigena nigrirostris",
+  "nombre_ingles": "Black-billed Mountain Toucan",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RNA Loro Orejiamarillo, Jardín, Antioquia",
+  "lat": 5.5389,
+  "lon": null,
+  "altura": 2800.0,
+  "fecha": "2008-07-28",
+  "hora": "09:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:13",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andrew Spencer",
+  "comentarios": "",
+  "otras_especies": [
+    "Pyrrhomyias cinnamomeus"
+  ],
+  "url_audio": "https://xeno-canto.org/22223/download",
+  "url_pagina": "https://xeno-canto.org/22223",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "102704",
+  "genero": "Ortalis",
+  "especie": "garrula",
+  "subespecie": "",
+  "nombre_cientifico": "Ortalis garrula",
+  "nombre_ingles": "Chestnut-winged Chachalaca",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Santa Marta",
+  "lat": 11.0362,
+  "lon": null,
+  "altura": null,
+  "fecha": "0000-00-00",
+  "hora": "6:20 AM",
+  "calidad_xc": "A",
+  "tipo_canto": "call",
+  "duracion": "0:22",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Fabrice Schmitt",
+  "comentarios": "without playback",
+  "otras_especies": [
+    "Buteo nitidus"
+  ],
+  "url_audio": "https://xeno-canto.org/102704/download",
+  "url_pagina": "https://xeno-canto.org/102704",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

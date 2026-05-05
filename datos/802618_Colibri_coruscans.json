@@ -1,0 +1,33 @@
+{
+  "xc_id": "802618",
+  "genero": "Colibri",
+  "especie": "coruscans",
+  "subespecie": "",
+  "nombre_cientifico": "Colibri coruscans",
+  "nombre_ingles": "Sparkling Violetear",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Casco Urbano Manizales, Caldas",
+  "lat": 5.0674,
+  "lon": null,
+  "altura": 2100.0,
+  "fecha": "2023-04-24",
+  "hora": "17:40",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:56",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Alejandro Morales Betancourt",
+  "comentarios": "En cable de luz al borde de la calle, ca. 6 m del suelo.",
+  "otras_especies": [
+    "Pygochelidon cyanoleuca"
+  ],
+  "url_audio": "https://xeno-canto.org/802618/download",
+  "url_pagina": "https://xeno-canto.org/802618",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

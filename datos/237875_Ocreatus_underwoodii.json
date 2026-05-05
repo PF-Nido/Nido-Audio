@@ -1,0 +1,33 @@
+{
+  "xc_id": "237875",
+  "genero": "Ocreatus",
+  "especie": "underwoodii",
+  "subespecie": "",
+  "nombre_cientifico": "Ocreatus underwoodii",
+  "nombre_ingles": "White-booted Racket-tail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-Buenos Aires",
+  "lat": 4.6683,
+  "lon": null,
+  "altura": 1900.0,
+  "fecha": "2009-04-07",
+  "hora": "11:30",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:12",
+  "sexo": "male",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marin-Gomez",
+  "comentarios": "\r\nHabitat: Secondary forest border and shrubs\r\nWeather: Sunny and clear\r\nCode: OHM_056B_2610 Ocreatus underwoodi\r\nEquipment: Marantz PMD 222 with Sennheiser ME 66, TDK 60 SA-II",
+  "otras_especies": [
+    "Myadestes ralloides"
+  ],
+  "url_audio": "https://xeno-canto.org/237875/download",
+  "url_pagina": "https://xeno-canto.org/237875",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

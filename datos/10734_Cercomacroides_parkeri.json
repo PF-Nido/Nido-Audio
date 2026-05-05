@@ -1,0 +1,33 @@
+{
+  "xc_id": "10734",
+  "genero": "Cercomacroides",
+  "especie": "parkeri",
+  "subespecie": "",
+  "nombre_cientifico": "Cercomacroides parkeri",
+  "nombre_ingles": "Parker's Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RNA Reinita Cielo Azul, San Vicente de Chucuri, Santander",
+  "lat": 6.8464,
+  "lon": null,
+  "altura": 1750.0,
+  "fecha": "2007-02-05",
+  "hora": "07:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:34",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Nick Athanas",
+  "comentarios": "Female, response to playback. link:http://www.proaves.org/rubrique.php?id_rubrique=78",
+  "otras_especies": [
+    "Patagioenas subvinacea"
+  ],
+  "url_audio": "https://xeno-canto.org/10734/download",
+  "url_pagina": "https://xeno-canto.org/10734",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

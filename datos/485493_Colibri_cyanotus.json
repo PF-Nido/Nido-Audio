@@ -1,0 +1,33 @@
+{
+  "xc_id": "485493",
+  "genero": "Colibri",
+  "especie": "cyanotus",
+  "subespecie": "",
+  "nombre_cientifico": "Colibri cyanotus",
+  "nombre_ingles": "Lesser Violetear",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Vereda Monte y Pinal, Pauna, Boyacá",
+  "lat": 5.5973,
+  "lon": null,
+  "altura": 2900.0,
+  "fecha": "2019-06-22",
+  "hora": "07:15",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:41",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Diana Carolina Macana",
+  "comentarios": "Edited at -3dB. Number ML 167427851 in Maculay Library",
+  "otras_especies": [
+    "Zonotrichia capensis"
+  ],
+  "url_audio": "https://xeno-canto.org/485493/download",
+  "url_pagina": "https://xeno-canto.org/485493",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

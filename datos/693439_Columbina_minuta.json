@@ -1,0 +1,33 @@
+{
+  "xc_id": "693439",
+  "genero": "Columbina",
+  "especie": "minuta",
+  "subespecie": "",
+  "nombre_cientifico": "Columbina minuta",
+  "nombre_ingles": "Plain-breasted Ground Dove",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Sabanitas, Inirida, Guainia",
+  "lat": 3.8809,
+  "lon": null,
+  "altura": null,
+  "fecha": "2021-11-23",
+  "hora": "05:30",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "1:06",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Peter Boesman",
+  "comentarios": "",
+  "otras_especies": [
+    "Patagioenas cayennensis"
+  ],
+  "url_audio": "https://xeno-canto.org/693439/download",
+  "url_pagina": "https://xeno-canto.org/693439",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "421242",
+  "genero": "Dichrozona",
+  "especie": "cincta",
+  "subespecie": "",
+  "nombre_cientifico": "Dichrozona cincta",
+  "nombre_ingles": "Banded Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Natural La Isla Escondida",
+  "lat": 0.6513,
+  "lon": null,
+  "altura": 850.0,
+  "fecha": "2018-05-13",
+  "hora": "09:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "2:00",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Jorge Muñoz",
+  "comentarios": "Escuchada en el descenso al segundo riachuelo luego de la plataforma de la casa en el árbol, vocaliza con frecuencia. Vuelos cortos sobre el sotobosque de 15 a 20 metros y no muy altos (50cm a un metro de altura), camina sigilosamente sobre el suelo cubierto de hojarasca húmeda de colores ocres, pardos y marrones que le ayudan a camuflarse. ",
+  "otras_especies": [
+    "Cercomacra cinerascens"
+  ],
+  "url_audio": "https://xeno-canto.org/421242/download",
+  "url_pagina": "https://xeno-canto.org/421242",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

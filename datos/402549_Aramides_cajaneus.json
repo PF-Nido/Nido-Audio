@@ -1,0 +1,33 @@
+{
+  "xc_id": "402549",
+  "genero": "Aramides",
+  "especie": "cajaneus",
+  "subespecie": "",
+  "nombre_cientifico": "Aramides cajaneus",
+  "nombre_ingles": "Grey-cowled Wood Rail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "PNN Los Katíos (sector Sautatá), Riosucio, Chocó",
+  "lat": 7.8436,
+  "lon": null,
+  "altura": 10.0,
+  "fecha": "2018-01-29",
+  "hora": "09:00",
+  "calidad_xc": "A",
+  "tipo_canto": "call",
+  "duracion": "0:14",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Diego Calderon-F.",
+  "comentarios": "Seen and IDed by Juan David Ramirez",
+  "otras_especies": [
+    "Aramides cajaneus"
+  ],
+  "url_audio": "https://xeno-canto.org/402549/download",
+  "url_pagina": "https://xeno-canto.org/402549",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

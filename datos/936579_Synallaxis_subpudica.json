@@ -1,0 +1,33 @@
+{
+  "xc_id": "936579",
+  "genero": "Synallaxis",
+  "especie": "subpudica",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis subpudica",
+  "nombre_ingles": "Silvery-throated Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Humedal Capellanía",
+  "lat": null,
+  "lon": null,
+  "altura": 2.645,
+  "fecha": "2024-09-21",
+  "hora": "08:00",
+  "calidad_xc": "B",
+  "tipo_canto": "plane",
+  "duracion": "0:56",
+  "sexo": "uncertain",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Dodo Colombia",
+  "comentarios": "You can hear how the Synallaxis subpudica tries to stand out above the plane.\r\nThis is not the first time we have noticed this. We have several identical recordings.",
+  "otras_especies": [
+    "Colibri coruscans"
+  ],
+  "url_audio": "https://xeno-canto.org/936579/download",
+  "url_pagina": "https://xeno-canto.org/936579",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

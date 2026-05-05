@@ -1,0 +1,33 @@
+{
+  "xc_id": "244822",
+  "genero": "Cercibis",
+  "especie": "oxycerca",
+  "subespecie": "",
+  "nombre_cientifico": "Cercibis oxycerca",
+  "nombre_ingles": "Sharp-tailed Ibis",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Finca La Bretaña, Vereda Guaracuara, San Luis de Palenque, Casanare",
+  "lat": 5.145,
+  "lon": null,
+  "altura": 190.0,
+  "fecha": "2012-07-06",
+  "hora": "07:30",
+  "calidad_xc": "B",
+  "tipo_canto": "alarm call",
+  "duracion": "2:05",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marín Gómez &amp; Juan Pablo López",
+  "comentarios": "Sabana, un individuo en el suelo.Reference:OHMJPLA_B_2220",
+  "otras_especies": [
+    "Vanellus chilensis"
+  ],
+  "url_audio": "https://xeno-canto.org/244822/download",
+  "url_pagina": "https://xeno-canto.org/244822",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "104218",
+  "genero": "Myrmotherula",
+  "especie": "schisticolor",
+  "subespecie": "",
+  "nombre_cientifico": "Myrmotherula schisticolor",
+  "nombre_ingles": "Slaty Antwren",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Santa Cecilia, Serrania de San Lucas",
+  "lat": 7.9759,
+  "lon": null,
+  "altura": 1550.0,
+  "fecha": "2010-01-09",
+  "hora": "07:00",
+  "calidad_xc": "B",
+  "tipo_canto": "call, in-hand distress call",
+  "duracion": "0:16",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Myornis",
+  "comentarios": "Call of individual in the hand.",
+  "otras_especies": [
+    "Microcerculus marginatus"
+  ],
+  "url_audio": "https://xeno-canto.org/104218/download",
+  "url_pagina": "https://xeno-canto.org/104218",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

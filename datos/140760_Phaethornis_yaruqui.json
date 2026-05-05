@@ -1,0 +1,33 @@
+{
+  "xc_id": "140760",
+  "genero": "Phaethornis",
+  "especie": "yaruqui",
+  "subespecie": "",
+  "nombre_cientifico": "Phaethornis yaruqui",
+  "nombre_ingles": "White-whiskered Hermit",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Ecolodge El Almejal",
+  "lat": 6.1133,
+  "lon": null,
+  "altura": 120.0,
+  "fecha": "2013-06-13",
+  "hora": "08:04",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "1:28",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Nick Athanas",
+  "comentarios": "Recorded at a lek, at least three birds were present.",
+  "otras_especies": [
+    "Tinamus major"
+  ],
+  "url_audio": "https://xeno-canto.org/140760/download",
+  "url_pagina": "https://xeno-canto.org/140760",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

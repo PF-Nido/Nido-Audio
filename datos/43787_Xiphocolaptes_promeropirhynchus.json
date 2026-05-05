@@ -1,0 +1,33 @@
+{
+  "xc_id": "43787",
+  "genero": "Xiphocolaptes",
+  "especie": "promeropirhynchus",
+  "subespecie": "",
+  "nombre_cientifico": "Xiphocolaptes promeropirhynchus",
+  "nombre_ingles": "Strong-billed Woodcreeper",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RNA El Dorado, Sierra de Santa Marta, Magdalena",
+  "lat": 11.1009,
+  "lon": null,
+  "altura": 2100.0,
+  "fecha": "2009-01-00",
+  "hora": "xx:xx",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:14",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Myornis",
+  "comentarios": "",
+  "otras_especies": [
+    "Aulacorhynchus albivitta"
+  ],
+  "url_audio": "https://xeno-canto.org/43787/download",
+  "url_pagina": "https://xeno-canto.org/43787",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

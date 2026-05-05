@@ -1,0 +1,33 @@
+{
+  "xc_id": "273709",
+  "genero": "Cercomacra",
+  "especie": "nigricans",
+  "subespecie": "",
+  "nombre_cientifico": "Cercomacra nigricans",
+  "nombre_ingles": "Jet Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Mana Dulce, Cundinamarca",
+  "lat": 4.351,
+  "lon": null,
+  "altura": null,
+  "fecha": "2010-01-04",
+  "hora": "15:15",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:58",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Peter Boesman",
+  "comentarios": "",
+  "otras_especies": [
+    "Hylophilus flavipes"
+  ],
+  "url_audio": "https://xeno-canto.org/273709/download",
+  "url_pagina": "https://xeno-canto.org/273709",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "1036901",
+  "genero": "Colibri",
+  "especie": "delphinae",
+  "subespecie": "",
+  "nombre_cientifico": "Colibri delphinae",
+  "nombre_ingles": "Brown Violetear",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Pava Negra Nature Reserve - Florencia, Caquetá.",
+  "lat": 1.7135,
+  "lon": null,
+  "altura": 1200.0,
+  "fecha": "2025-09-06",
+  "hora": "14:30",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "1:17",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Mauricio Cuéllar-Ramírez",
+  "comentarios": "",
+  "otras_especies": [
+    "Chrysuronia oenone"
+  ],
+  "url_audio": "https://xeno-canto.org/1036901/download",
+  "url_pagina": "https://xeno-canto.org/1036901",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

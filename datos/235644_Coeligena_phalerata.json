@@ -1,0 +1,33 @@
+{
+  "xc_id": "235644",
+  "genero": "Coeligena",
+  "especie": "phalerata",
+  "subespecie": "",
+  "nombre_cientifico": "Coeligena phalerata",
+  "nombre_ingles": "White-tailed Starfrontlet",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Magdalena: San Lorenzo ridge, Sierra Nevada de Santa Marta",
+  "lat": 11.1009,
+  "lon": null,
+  "altura": 2220.0,
+  "fecha": "2007-02-07",
+  "hora": "07:20",
+  "calidad_xc": "A",
+  "tipo_canto": "call, chase calls of 4 birds",
+  "duracion": "0:49",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Niels Krabbe",
+  "comentarios": "Humid forest. Krabbe (2008)  cut 1. Tape reference: A 507-521.",
+  "otras_especies": [
+    "Elaenia frantzii"
+  ],
+  "url_audio": "https://xeno-canto.org/235644/download",
+  "url_pagina": "https://xeno-canto.org/235644",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

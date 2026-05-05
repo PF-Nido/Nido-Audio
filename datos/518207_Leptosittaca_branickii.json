@@ -1,0 +1,33 @@
+{
+  "xc_id": "518207",
+  "genero": "Leptosittaca",
+  "especie": "branickii",
+  "subespecie": "",
+  "nombre_cientifico": "Leptosittaca branickii",
+  "nombre_ingles": "Golden-plumed Parakeet",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Área La Ceja/Toche",
+  "lat": 4.5333333,
+  "lon": null,
+  "altura": 2800.0,
+  "fecha": "1998-06-18",
+  "hora": "?",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "4:36",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Bernabé López-Lanus (Colección de Sonidos Ambientales - Instituto Humboldt)",
+  "comentarios": "IAvH-CSA-01042\r\nTo obtain a wav file of the original recording, please contact coleccionesbiologicas@humboldt.org.co\r\nGrabado por Bernabé López-Lanus el 18 de junio de 1998 en Área La Ceja/Toche en Tolima a los 2800 msnm",
+  "otras_especies": [
+    "Synallaxis azarae"
+  ],
+  "url_audio": "https://xeno-canto.org/518207/download",
+  "url_pagina": "https://xeno-canto.org/518207",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "117524",
+  "genero": "Aulacorhynchus",
+  "especie": "albivitta",
+  "subespecie": "",
+  "nombre_cientifico": "Aulacorhynchus albivitta",
+  "nombre_ingles": "White-throated Toucanet",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Sisavita, Carrizal, Cucutilla, Norte de Santander",
+  "lat": 7.459445,
+  "lon": null,
+  "altura": 2400.0,
+  "fecha": "2002-04-23",
+  "hora": "?",
+  "calidad_xc": "B",
+  "tipo_canto": "call, song",
+  "duracion": "0:57",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Sergio Córdoba Córdoba (Colección de Sonidos Ambientales - Instituto Humboldt)",
+  "comentarios": "IAvH-CSA 8784\r\n\r\nTo obtain a wav file of the original recording, please contact csa@humboldt.org.co",
+  "otras_especies": [
+    "Pharomachrus auriceps"
+  ],
+  "url_audio": "https://xeno-canto.org/117524/download",
+  "url_pagina": "https://xeno-canto.org/117524",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "773324",
+  "genero": "Aramides",
+  "especie": "cajaneus",
+  "subespecie": "",
+  "nombre_cientifico": "Aramides cajaneus",
+  "nombre_ingles": "Grey-cowled Wood Rail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Finca El Placer, El Rosario, Caldas",
+  "lat": 5.0353,
+  "lon": null,
+  "altura": 1300.0,
+  "fecha": "2023-01-02",
+  "hora": "08:30",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:25",
+  "sexo": "uncertain",
+  "etapa_vida": "uncertain",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Nick Bayly",
+  "comentarios": "Bird vocalizing from dense riparian strip dominated by guadua. ",
+  "otras_especies": [
+    "Cardellina canadensis"
+  ],
+  "url_audio": "https://xeno-canto.org/773324/download",
+  "url_pagina": "https://xeno-canto.org/773324",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

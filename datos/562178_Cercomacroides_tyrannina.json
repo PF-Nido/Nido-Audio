@@ -1,0 +1,33 @@
+{
+  "xc_id": "562178",
+  "genero": "Cercomacroides",
+  "especie": "tyrannina",
+  "subespecie": "",
+  "nombre_cientifico": "Cercomacroides tyrannina",
+  "nombre_ingles": "Dusky Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Nilo, Cundinamarca",
+  "lat": 4.3359,
+  "lon": null,
+  "altura": 550.0,
+  "fecha": "2020-05-25",
+  "hora": "09:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:44",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Jerome Fischer",
+  "comentarios": "",
+  "otras_especies": [
+    "Pheugopedius fasciatoventris"
+  ],
+  "url_audio": "https://xeno-canto.org/562178/download",
+  "url_pagina": "https://xeno-canto.org/562178",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

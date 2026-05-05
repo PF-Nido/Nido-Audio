@@ -1,0 +1,33 @@
+{
+  "xc_id": "464721",
+  "genero": "Megascops",
+  "especie": "albogularis",
+  "subespecie": "albogularis",
+  "nombre_cientifico": "Megascops albogularis",
+  "nombre_ingles": "White-throated Screech Owl",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Puerta de Rayo, Subachoque, Cundinamarca",
+  "lat": 4.9832,
+  "lon": null,
+  "altura": 3100.0,
+  "fecha": "2019-03-22",
+  "hora": "02:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:57",
+  "sexo": "female, male",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Sergio Reyes",
+  "comentarios": "Interaction Between Two species of Owls. First, male M.albogularis was singing and his Female answered. She has a little bit more pitched song (around 200Hz). After, Strix albitarsis enter in the conversation. ",
+  "otras_especies": [
+    "Strix albitarsis"
+  ],
+  "url_audio": "https://xeno-canto.org/464721/download",
+  "url_pagina": "https://xeno-canto.org/464721",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

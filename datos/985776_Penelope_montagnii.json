@@ -1,0 +1,33 @@
+{
+  "xc_id": "985776",
+  "genero": "Penelope",
+  "especie": "montagnii",
+  "subespecie": "",
+  "nombre_cientifico": "Penelope montagnii",
+  "nombre_ingles": "Andean Guan",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Arte y Conservación Chía Cundinamarca ",
+  "lat": 4.8654,
+  "lon": null,
+  "altura": 3000.0,
+  "fecha": "2025-04-02",
+  "hora": "09:30",
+  "calidad_xc": "A",
+  "tipo_canto": "",
+  "duracion": "0:23",
+  "sexo": "uncertain",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Emmanuel Laverde",
+  "comentarios": "Recorded by Iris Laverde and Emmanuel Laverde",
+  "otras_especies": [
+    "Zonotrichia capensis"
+  ],
+  "url_audio": "https://xeno-canto.org/985776/download",
+  "url_pagina": "https://xeno-canto.org/985776",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

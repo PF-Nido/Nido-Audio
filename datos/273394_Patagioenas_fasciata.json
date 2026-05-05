@@ -1,0 +1,33 @@
+{
+  "xc_id": "273394",
+  "genero": "Patagioenas",
+  "especie": "fasciata",
+  "subespecie": "",
+  "nombre_cientifico": "Patagioenas fasciata",
+  "nombre_ingles": "Band-tailed Pigeon",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Jardin, Antioquia",
+  "lat": 5.5451,
+  "lon": null,
+  "altura": null,
+  "fecha": "2011-02-06",
+  "hora": "07:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:28",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Peter Boesman",
+  "comentarios": "",
+  "otras_especies": [
+    "Thripadectes holostictus"
+  ],
+  "url_audio": "https://xeno-canto.org/273394/download",
+  "url_pagina": "https://xeno-canto.org/273394",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

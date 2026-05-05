@@ -1,0 +1,33 @@
+{
+  "xc_id": "131188",
+  "genero": "Systellura",
+  "especie": "longirostris",
+  "subespecie": "",
+  "nombre_cientifico": "Systellura longirostris",
+  "nombre_ingles": "Band-winged Nightjar",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-La Popa",
+  "lat": 4.6717,
+  "lon": null,
+  "altura": 1800.0,
+  "fecha": "2008-02-07",
+  "hora": "18:40",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:34",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marin-Gomez",
+  "comentarios": "OHM23A 1555",
+  "otras_especies": [
+    "Nyctidromus albicollis"
+  ],
+  "url_audio": "https://xeno-canto.org/131188/download",
+  "url_pagina": "https://xeno-canto.org/131188",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

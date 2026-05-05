@@ -1,0 +1,33 @@
+{
+  "xc_id": "301127",
+  "genero": "Cranioleuca",
+  "especie": "hellmayri",
+  "subespecie": "",
+  "nombre_cientifico": "Cranioleuca hellmayri",
+  "nombre_ingles": "Streak-capped Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Casa del Páramo (frente a Cebolletas), Sierra Nevada de Santa Marta, Ciénaga, Magdalena",
+  "lat": 10.8967,
+  "lon": null,
+  "altura": 2396.0,
+  "fecha": "2015-12-13",
+  "hora": "11:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:49",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Diego Calderon-F.",
+  "comentarios": "2 individuals \r\n\r\n\r\nDecember 2015 expedition to the highlands of the Sierra Nevada de Santa Marta to look for Blue-bearded Helmetcrest (Oxypogon cyanolaemus)\r\n\r\n\r\n[My expedition photos clicking HERE](https://www.facebook.com/media/set/?set=a.10153408091393517&type=1&l=abe0db4538)\r\n\r\n[Sebastian's expedition photos clicking HERE](https://www.flickr.com/photos/133941054@N05/sets/72157663591358435)",
+  "otras_especies": [
+    "Mecocerculus leucophrys"
+  ],
+  "url_audio": "https://xeno-canto.org/301127/download",
+  "url_pagina": "https://xeno-canto.org/301127",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

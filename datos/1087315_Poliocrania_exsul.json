@@ -1,0 +1,33 @@
+{
+  "xc_id": "1087315",
+  "genero": "Poliocrania",
+  "especie": "exsul",
+  "subespecie": "",
+  "nombre_cientifico": "Poliocrania exsul",
+  "nombre_ingles": "Chestnut-backed Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Rio Claro reserve, San Francisco, Antioquia",
+  "lat": 5.8959,
+  "lon": null,
+  "altura": 320.0,
+  "fecha": "2026-01-22",
+  "hora": "07:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:08",
+  "sexo": "male",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Brian Cox",
+  "comentarios": "",
+  "otras_especies": [
+    "Trogon caligatus"
+  ],
+  "url_audio": "https://xeno-canto.org/1087315/download",
+  "url_pagina": "https://xeno-canto.org/1087315",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

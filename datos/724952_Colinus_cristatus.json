@@ -1,0 +1,33 @@
+{
+  "xc_id": "724952",
+  "genero": "Colinus",
+  "especie": "cristatus",
+  "subespecie": "",
+  "nombre_cientifico": "Colinus cristatus",
+  "nombre_ingles": "Crested Bobwhite",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Ibague, Tolima",
+  "lat": 4.3492,
+  "lon": null,
+  "altura": 900.0,
+  "fecha": "2022-01-30",
+  "hora": "06:26",
+  "calidad_xc": "B",
+  "tipo_canto": "uncertain",
+  "duracion": "0:54",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Katherine Moreno",
+  "comentarios": "",
+  "otras_especies": [
+    "Crotophaga ani"
+  ],
+  "url_audio": "https://xeno-canto.org/724952/download",
+  "url_pagina": "https://xeno-canto.org/724952",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

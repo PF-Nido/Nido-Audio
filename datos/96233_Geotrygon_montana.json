@@ -1,0 +1,33 @@
+{
+  "xc_id": "96233",
+  "genero": "Geotrygon",
+  "especie": "montana",
+  "subespecie": "",
+  "nombre_cientifico": "Geotrygon montana",
+  "nombre_ingles": "Ruddy Quail-Dove",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Municipio El Calvario (Meta)",
+  "lat": 4.368,
+  "lon": null,
+  "altura": 2100.0,
+  "fecha": "2012-03-03",
+  "hora": "09:22",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:12",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oswaldo Cortes",
+  "comentarios": "",
+  "otras_especies": [
+    "Scytalopus latrans"
+  ],
+  "url_audio": "https://xeno-canto.org/96233/download",
+  "url_pagina": "https://xeno-canto.org/96233",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

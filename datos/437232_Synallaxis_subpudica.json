@@ -1,0 +1,33 @@
+{
+  "xc_id": "437232",
+  "genero": "Synallaxis",
+  "especie": "subpudica",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis subpudica",
+  "nombre_ingles": "Silvery-throated Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Bogotá, Bogotá",
+  "lat": 4.7642,
+  "lon": null,
+  "altura": 2600.0,
+  "fecha": "2018-07-03",
+  "hora": "08:29",
+  "calidad_xc": "B",
+  "tipo_canto": "duet, song",
+  "duracion": "0:30",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Victor Vanegas",
+  "comentarios": "Recording amplified.",
+  "otras_especies": [
+    "Grallaria ruficapilla"
+  ],
+  "url_audio": "https://xeno-canto.org/437232/download",
+  "url_pagina": "https://xeno-canto.org/437232",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

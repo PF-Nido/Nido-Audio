@@ -1,0 +1,33 @@
+{
+  "xc_id": "906359",
+  "genero": "Euchrepomis",
+  "especie": "callinota",
+  "subespecie": "",
+  "nombre_cientifico": "Euchrepomis callinota",
+  "nombre_ingles": "Rufous-rumped Antwren",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RN Las Tángaras, Chocó",
+  "lat": 5.8063,
+  "lon": null,
+  "altura": 1700.0,
+  "fecha": "2024-03-26",
+  "hora": "07:28",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:25",
+  "sexo": "",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Scott Olmstead",
+  "comentarios": "Moving with a mixed flock.",
+  "otras_especies": [
+    "Myadestes ralloides"
+  ],
+  "url_audio": "https://xeno-canto.org/906359/download",
+  "url_pagina": "https://xeno-canto.org/906359",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

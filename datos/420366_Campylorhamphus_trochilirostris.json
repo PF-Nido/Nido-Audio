@@ -1,0 +1,33 @@
+{
+  "xc_id": "420366",
+  "genero": "Campylorhamphus",
+  "especie": "trochilirostris",
+  "subespecie": "",
+  "nombre_cientifico": "Campylorhamphus trochilirostris",
+  "nombre_ingles": "Red-billed Scythebill",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Natural la Primavera, Ibagué, Tolima",
+  "lat": 4.4804,
+  "lon": null,
+  "altura": 1100.0,
+  "fecha": "2017-08-30",
+  "hora": "07:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:29",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Yair Guillermo Molina Martínez.",
+  "comentarios": "Grabación hecha en el marco del Proyecto \"Estudio técnico y participativo de la biodiversidad aviar del municipio de Ibagué – Tolima, como estrategia para la consolidación del ecoturismo de aves, la conservación de sus hábitats y el desarrollo de procesos de educación ambiental\" Universidad de Ibagué - Rednatur - Colciencias.",
+  "otras_especies": [
+    "Brotogeris jugularis"
+  ],
+  "url_audio": "https://xeno-canto.org/420366/download",
+  "url_pagina": "https://xeno-canto.org/420366",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

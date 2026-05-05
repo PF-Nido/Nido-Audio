@@ -1,0 +1,33 @@
+{
+  "xc_id": "763564",
+  "genero": "Formicivora",
+  "especie": "grisea",
+  "subespecie": "",
+  "nombre_cientifico": "Formicivora grisea",
+  "nombre_ingles": "Southern White-fringed Antwren",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Melgar, Melgar, Tolima",
+  "lat": 4.199,
+  "lon": null,
+  "altura": 360.0,
+  "fecha": "2022-10-05",
+  "hora": "07:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:05",
+  "sexo": "male",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Arcadio Marin ",
+  "comentarios": "",
+  "otras_especies": [
+    "Cyclarhis gujanensis"
+  ],
+  "url_audio": "https://xeno-canto.org/763564/download",
+  "url_pagina": "https://xeno-canto.org/763564",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

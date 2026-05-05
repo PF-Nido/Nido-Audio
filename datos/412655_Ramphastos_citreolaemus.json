@@ -1,0 +1,33 @@
+{
+  "xc_id": "412655",
+  "genero": "Ramphastos",
+  "especie": "citreolaemus",
+  "subespecie": "",
+  "nombre_cientifico": "Ramphastos citreolaemus",
+  "nombre_ingles": "Citron-throated Toucan",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Vegachí, Antioquia",
+  "lat": 6.833,
+  "lon": null,
+  "altura": 900.0,
+  "fecha": "2016-03-09",
+  "hora": "07:30",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "1:34",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andres Angulo ",
+  "comentarios": "Two adult males perched singing from exposed branches on forest interior of foothill forest from canopy. Recording distance was 10 meters.",
+  "otras_especies": [
+    "Saltator grossus"
+  ],
+  "url_audio": "https://xeno-canto.org/412655/download",
+  "url_pagina": "https://xeno-canto.org/412655",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "948725",
+  "genero": "Cymbilaimus",
+  "especie": "lineatus",
+  "subespecie": "",
+  "nombre_cientifico": "Cymbilaimus lineatus",
+  "nombre_ingles": "Fasciated Antshrike",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Porce II - Los Mangos, Amalfi, Antioquia",
+  "lat": 6.8101,
+  "lon": null,
+  "altura": 1000.0,
+  "fecha": "2024-11-10",
+  "hora": "09:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:51",
+  "sexo": "male",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Carlos Delgado JUMABITA",
+  "comentarios": "",
+  "otras_especies": [
+    "Taraba major"
+  ],
+  "url_audio": "https://xeno-canto.org/948725/download",
+  "url_pagina": "https://xeno-canto.org/948725",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

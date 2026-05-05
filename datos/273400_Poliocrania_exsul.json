@@ -1,0 +1,33 @@
+{
+  "xc_id": "273400",
+  "genero": "Poliocrania",
+  "especie": "exsul",
+  "subespecie": "",
+  "nombre_cientifico": "Poliocrania exsul",
+  "nombre_ingles": "Chestnut-backed Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RNA El Paujil, Santander",
+  "lat": 6.05,
+  "lon": null,
+  "altura": 310.0,
+  "fecha": "2011-02-03",
+  "hora": "06:15",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:38",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Peter Boesman",
+  "comentarios": "",
+  "otras_especies": [
+    "Leptotila verreauxi"
+  ],
+  "url_audio": "https://xeno-canto.org/273400/download",
+  "url_pagina": "https://xeno-canto.org/273400",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

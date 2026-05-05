@@ -1,0 +1,33 @@
+{
+  "xc_id": "443149",
+  "genero": "Dysithamnus",
+  "especie": "mentalis",
+  "subespecie": "",
+  "nombre_cientifico": "Dysithamnus mentalis",
+  "nombre_ingles": "Plain Antvireo",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "El Aserradero - Unknown road, Santa Rosa de Cabal, Risaralda",
+  "lat": 4.7761,
+  "lon": null,
+  "altura": 2100.0,
+  "fecha": "2018-09-28",
+  "hora": "09:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:30",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "David Monroy Rengifo",
+  "comentarios": "",
+  "otras_especies": [
+    "Cercomacroides parkeri"
+  ],
+  "url_audio": "https://xeno-canto.org/443149/download",
+  "url_pagina": "https://xeno-canto.org/443149",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

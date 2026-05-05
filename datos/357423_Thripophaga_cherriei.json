@@ -1,0 +1,33 @@
+{
+  "xc_id": "357423",
+  "genero": "Thripophaga",
+  "especie": "cherriei",
+  "subespecie": "",
+  "nombre_cientifico": "Thripophaga cherriei",
+  "nombre_ingles": "Orinoco Softtail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Inírida, Guainía",
+  "lat": 3.9712,
+  "lon": null,
+  "altura": 110.0,
+  "fecha": "2017-02-14",
+  "hora": "11:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:54",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Guy Kirwan",
+  "comentarios": "A pair vocalizing alongside a small (presumably permanent) watercourse in várzea forest (mainly dry at this season).",
+  "otras_especies": [
+    "Attila cinnamomeus"
+  ],
+  "url_audio": "https://xeno-canto.org/357423/download",
+  "url_pagina": "https://xeno-canto.org/357423",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

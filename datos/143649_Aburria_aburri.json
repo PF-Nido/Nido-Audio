@@ -1,0 +1,33 @@
+{
+  "xc_id": "143649",
+  "genero": "Aburria",
+  "especie": "aburri",
+  "subespecie": "",
+  "nombre_cientifico": "Aburria aburri",
+  "nombre_ingles": "Wattled Guan",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "SFF Otun-Quimbaya, Pereira, Risaralda, C Andes",
+  "lat": 4.727,
+  "lon": null,
+  "altura": 1900.0,
+  "fecha": "2013-01-29",
+  "hora": "05:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:42",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Diego Calderon-F.",
+  "comentarios": "Up to 3 individuals singing this early morning before dawn",
+  "otras_especies": [
+    "Megascops ingens"
+  ],
+  "url_audio": "https://xeno-canto.org/143649/download",
+  "url_pagina": "https://xeno-canto.org/143649",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

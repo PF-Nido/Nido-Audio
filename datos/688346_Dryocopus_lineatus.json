@@ -1,0 +1,33 @@
+{
+  "xc_id": "688346",
+  "genero": "Dryocopus",
+  "especie": "lineatus",
+  "subespecie": "",
+  "nombre_cientifico": "Dryocopus lineatus",
+  "nombre_ingles": "Lineated Woodpecker",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Ibague, Tolima",
+  "lat": 4.4734,
+  "lon": null,
+  "altura": 1700.0,
+  "fecha": "2020-12-23",
+  "hora": "07:00",
+  "calidad_xc": "A",
+  "tipo_canto": "call",
+  "duracion": "1:01",
+  "sexo": "male",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andres Felipe Espinosa",
+  "comentarios": "",
+  "otras_especies": [
+    "Cyanocorax yncas"
+  ],
+  "url_audio": "https://xeno-canto.org/688346/download",
+  "url_pagina": "https://xeno-canto.org/688346",
+  "licencia": "https://creativecommons.org/licenses/by-sa/4.0/"
+}

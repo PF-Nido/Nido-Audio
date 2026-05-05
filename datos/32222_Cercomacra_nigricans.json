@@ -1,0 +1,33 @@
+{
+  "xc_id": "32222",
+  "genero": "Cercomacra",
+  "especie": "nigricans",
+  "subespecie": "",
+  "nombre_cientifico": "Cercomacra nigricans",
+  "nombre_ingles": "Jet Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RNA El Paujil, Serrania de las Quinchas,Santander, Colombia",
+  "lat": 5.9334,
+  "lon": null,
+  "altura": 220.0,
+  "fecha": "2007-11-29",
+  "hora": "16:50",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:13",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Nick Athanas",
+  "comentarios": "Song from male, with female calling at the same time.",
+  "otras_especies": [
+    "Myiarchus crinitus"
+  ],
+  "url_audio": "https://xeno-canto.org/32222/download",
+  "url_pagina": "https://xeno-canto.org/32222",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

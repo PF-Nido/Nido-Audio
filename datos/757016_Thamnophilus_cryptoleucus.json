@@ -1,0 +1,33 @@
+{
+  "xc_id": "757016",
+  "genero": "Thamnophilus",
+  "especie": "cryptoleucus",
+  "subespecie": "",
+  "nombre_cientifico": "Thamnophilus cryptoleucus",
+  "nombre_ingles": "Castelnau's Antshrike",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Leticia, Amazonas",
+  "lat": -4.2026,
+  "lon": null,
+  "altura": 80.0,
+  "fecha": "2022-10-19",
+  "hora": "08:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:56",
+  "sexo": "uncertain",
+  "etapa_vida": "uncertain",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andrea Hinek",
+  "comentarios": "Seen and heard about 5-6 meters from the ground in patchy woods in a seasonal flood zone on a heavily intervened island in the Amazon River. ",
+  "otras_especies": [
+    "Saltator coerulescens"
+  ],
+  "url_audio": "https://xeno-canto.org/757016/download",
+  "url_pagina": "https://xeno-canto.org/757016",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

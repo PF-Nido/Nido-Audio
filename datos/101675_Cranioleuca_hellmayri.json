@@ -1,0 +1,33 @@
+{
+  "xc_id": "101675",
+  "genero": "Cranioleuca",
+  "especie": "hellmayri",
+  "subespecie": "",
+  "nombre_cientifico": "Cranioleuca hellmayri",
+  "nombre_ingles": "Streak-capped Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RNA El Dorado, Sierra de Santa Marta, Magdalena",
+  "lat": 11.1009,
+  "lon": null,
+  "altura": 1960.0,
+  "fecha": "2012-04-14",
+  "hora": "08:57",
+  "calidad_xc": "A",
+  "tipo_canto": "call, song",
+  "duracion": "0:15",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Jeremy Minns",
+  "comentarios": "Open area with bushes and scrub near montane forest. After playback.",
+  "otras_especies": [
+    "Elaenia frantzii"
+  ],
+  "url_audio": "https://xeno-canto.org/101675/download",
+  "url_pagina": "https://xeno-canto.org/101675",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "236052",
+  "genero": "Pharomachrus",
+  "especie": "fulgidus",
+  "subespecie": "festatus",
+  "nombre_cientifico": "Pharomachrus fulgidus",
+  "nombre_ingles": "White-tipped Quetzal",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Magdalena: San Lorenzo ridge, Sierra Nevada de Santa Marta",
+  "lat": 11.1009,
+  "lon": null,
+  "altura": 1950.0,
+  "fecha": "2007-02-03",
+  "hora": "16:35",
+  "calidad_xc": "A",
+  "tipo_canto": "call, song, songs of 2 birds and calls",
+  "duracion": "1:31",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Niels Krabbe",
+  "comentarios": "Humid forest. Krabbe (2008) cut 5. Tape reference: B 59-61, 63-76.",
+  "otras_especies": [
+    "Zentrygon linearis"
+  ],
+  "url_audio": "https://xeno-canto.org/236052/download",
+  "url_pagina": "https://xeno-canto.org/236052",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

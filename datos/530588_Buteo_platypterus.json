@@ -1,0 +1,33 @@
+{
+  "xc_id": "530588",
+  "genero": "Buteo",
+  "especie": "platypterus",
+  "subespecie": "platypterus",
+  "nombre_cientifico": "Buteo platypterus",
+  "nombre_ingles": "Broad-winged Hawk",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Bogotá, Bogotá",
+  "lat": 4.6665,
+  "lon": null,
+  "altura": 2600.0,
+  "fecha": "2020-02-15",
+  "hora": "09:40",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "1:51",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Erick Nicolás Patiño Acosta",
+  "comentarios": "Recording subject to leveling and trimming without affecting the intervals between vocalizations. DAW: Ableton Live Lite 10.\r\nThis recording has a copy in Macaulay Library. Catalog number: ML212163371.\r\nRecorder: Tascam DR 40\r\nMicrophone: Audio-technica AT875R\r\nAccessories: Rycote 15cm Classic-Softie Windshield\r\n\r\n",
+  "otras_especies": [
+    "Leiothlypis peregrina"
+  ],
+  "url_audio": "https://xeno-canto.org/530588/download",
+  "url_pagina": "https://xeno-canto.org/530588",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

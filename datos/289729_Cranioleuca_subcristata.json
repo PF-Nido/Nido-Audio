@@ -1,0 +1,33 @@
+{
+  "xc_id": "289729",
+  "genero": "Cranioleuca",
+  "especie": "subcristata",
+  "subespecie": "",
+  "nombre_cientifico": "Cranioleuca subcristata",
+  "nombre_ingles": "Crested Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Zetaquirá, Boyacá",
+  "lat": 5.2842,
+  "lon": null,
+  "altura": 1700.0,
+  "fecha": "2015-10-21",
+  "hora": "05:18",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:29",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Diana Carolina Macana",
+  "comentarios": "",
+  "otras_especies": [
+    "Gallus gallus"
+  ],
+  "url_audio": "https://xeno-canto.org/289729/download",
+  "url_pagina": "https://xeno-canto.org/289729",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

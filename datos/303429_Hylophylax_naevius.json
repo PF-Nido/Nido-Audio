@@ -1,0 +1,33 @@
+{
+  "xc_id": "303429",
+  "genero": "Hylophylax",
+  "especie": "naevius",
+  "subespecie": "",
+  "nombre_cientifico": "Hylophylax naevius",
+  "nombre_ingles": "Spot-backed Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Laguna Pelegrino, Caquetà",
+  "lat": -0.0507,
+  "lon": null,
+  "altura": 180.0,
+  "fecha": "2016-01-31",
+  "hora": "07:30",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:28",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Ottavio Janni",
+  "comentarios": "Two birds singing back and forth on either side of trail",
+  "otras_especies": [
+    "Attila citriniventris"
+  ],
+  "url_audio": "https://xeno-canto.org/303429/download",
+  "url_pagina": "https://xeno-canto.org/303429",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

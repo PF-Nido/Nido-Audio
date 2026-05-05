@@ -1,0 +1,33 @@
+{
+  "xc_id": "329989",
+  "genero": "Momotus",
+  "especie": "aequatorialis",
+  "subespecie": "",
+  "nombre_cientifico": "Momotus aequatorialis",
+  "nombre_ingles": "Andean Motmot",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Santa Rosa de Osos, Antioquia",
+  "lat": 6.7852,
+  "lon": null,
+  "altura": 2700.0,
+  "fecha": "2016-04-13",
+  "hora": "18:30",
+  "calidad_xc": "A",
+  "tipo_canto": "flight call, song",
+  "duracion": "2:04",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andres Angulo",
+  "comentarios": "the same individual of the recordings XC329986 s XC329987 andXC329988.",
+  "otras_especies": [
+    "Strix albitarsis"
+  ],
+  "url_audio": "https://xeno-canto.org/329989/download",
+  "url_pagina": "https://xeno-canto.org/329989",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

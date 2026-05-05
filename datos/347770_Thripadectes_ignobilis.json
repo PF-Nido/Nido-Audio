@@ -1,0 +1,33 @@
+{
+  "xc_id": "347770",
+  "genero": "Thripadectes",
+  "especie": "ignobilis",
+  "subespecie": "",
+  "nombre_cientifico": "Thripadectes ignobilis",
+  "nombre_ingles": "Uniform Treehunter",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "R. N. La Planada, Narino",
+  "lat": 1.1494,
+  "lon": null,
+  "altura": 1700.0,
+  "fecha": "2016-08-21",
+  "hora": "06:30",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "1:49",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Ottavio Janni",
+  "comentarios": "",
+  "otras_especies": [
+    "Odontophorus melanonotus"
+  ],
+  "url_audio": "https://xeno-canto.org/347770/download",
+  "url_pagina": "https://xeno-canto.org/347770",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

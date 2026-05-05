@@ -1,0 +1,33 @@
+{
+  "xc_id": "793144",
+  "genero": "Andigena",
+  "especie": "nigrirostris",
+  "subespecie": "",
+  "nombre_cientifico": "Andigena nigrirostris",
+  "nombre_ingles": "Black-billed Mountain Toucan",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "DCS Campoalegre - Carretera entrada San Vicente, Santa Rosa de Cabal, Risaralda",
+  "lat": 4.8612,
+  "lon": null,
+  "altura": 2600.0,
+  "fecha": "2023-03-08",
+  "hora": "10:00",
+  "calidad_xc": "B",
+  "tipo_canto": "call, duet",
+  "duracion": "0:37",
+  "sexo": "uncertain",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "David Monroy Rengifo",
+  "comentarios": "",
+  "otras_especies": [
+    "Synallaxis azarae"
+  ],
+  "url_audio": "https://xeno-canto.org/793144/download",
+  "url_pagina": "https://xeno-canto.org/793144",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "291921",
+  "genero": "Tapera",
+  "especie": "naevia",
+  "subespecie": "",
+  "nombre_cientifico": "Tapera naevia",
+  "nombre_ingles": "Striped Cuckoo",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Barbosa, Antioquia",
+  "lat": 6.4128,
+  "lon": null,
+  "altura": 1500.0,
+  "fecha": "2015-11-20",
+  "hora": "07:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:50",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andrea Lopera-Salazar",
+  "comentarios": "Observado cerca a la carretera que conduce a la Hidroelectrica La Tasajera. ",
+  "otras_especies": [
+    "Sporophila nigricollis"
+  ],
+  "url_audio": "https://xeno-canto.org/291921/download",
+  "url_pagina": "https://xeno-canto.org/291921",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

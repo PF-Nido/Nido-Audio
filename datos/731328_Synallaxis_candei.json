@@ -1,0 +1,33 @@
+{
+  "xc_id": "731328",
+  "genero": "Synallaxis",
+  "especie": "candei",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis candei",
+  "nombre_ingles": "White-whiskered Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Forestal Protectora El Palomar, Piojó, Atlantico, Colombia",
+  "lat": 10.7618,
+  "lon": null,
+  "altura": 190.0,
+  "fecha": "2022-05-26",
+  "hora": "08:00",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:36",
+  "sexo": "uncertain",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Hugo Oliveros-Salas",
+  "comentarios": "Finca de Nestor Julio Martinez, RFP El Palomar ",
+  "otras_especies": [
+    "Coereba flaveola"
+  ],
+  "url_audio": "https://xeno-canto.org/731328/download",
+  "url_pagina": "https://xeno-canto.org/731328",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

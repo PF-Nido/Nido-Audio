@@ -1,0 +1,33 @@
+{
+  "xc_id": "273644",
+  "genero": "Momotus",
+  "especie": "aequatorialis",
+  "subespecie": "",
+  "nombre_cientifico": "Momotus aequatorialis",
+  "nombre_ingles": "Andean Motmot",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Bosque Bremen, Quindio",
+  "lat": 4.674,
+  "lon": null,
+  "altura": null,
+  "fecha": "2010-01-03",
+  "hora": "09:15",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:29",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Peter Boesman",
+  "comentarios": "",
+  "otras_especies": [
+    "Scytalopus atratus"
+  ],
+  "url_audio": "https://xeno-canto.org/273644/download",
+  "url_pagina": "https://xeno-canto.org/273644",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

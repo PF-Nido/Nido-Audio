@@ -1,0 +1,33 @@
+{
+  "xc_id": "358171",
+  "genero": "Hypocnemis",
+  "especie": "flavescens",
+  "subespecie": "",
+  "nombre_cientifico": "Hypocnemis flavescens",
+  "nombre_ingles": "Imeri Warbling Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Cano Vitina, Inirida, Guainia",
+  "lat": 3.8196,
+  "lon": null,
+  "altura": 110.0,
+  "fecha": "2017-02-16",
+  "hora": "06:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:14",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Guy Kirwan",
+  "comentarios": "Pair responding to playback in the understorey of seasonally flooded white-sand forest.",
+  "otras_especies": [
+    "Attila citriniventris"
+  ],
+  "url_audio": "https://xeno-canto.org/358171/download",
+  "url_pagina": "https://xeno-canto.org/358171",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

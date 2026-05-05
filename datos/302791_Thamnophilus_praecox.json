@@ -1,0 +1,33 @@
+{
+  "xc_id": "302791",
+  "genero": "Thamnophilus",
+  "especie": "praecox",
+  "subespecie": "",
+  "nombre_cientifico": "Thamnophilus praecox",
+  "nombre_ingles": "Cocha Antshrike",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Rio Caucayà, Puerto Leguízamo, Putumayo",
+  "lat": -0.1767,
+  "lon": null,
+  "altura": 190.0,
+  "fecha": "2016-01-30",
+  "hora": "08:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "4:38",
+  "sexo": "female, male",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Ottavio Janni",
+  "comentarios": "First record of Cocha Antshrike for Colombia, discovered by myself and Jurgen Beckers. Songs of a male and female responding aggressively to playback in dense understory (about 1.5 -2 m off the ground) of streamside forest (the forest is presumably flooded at this spot for most of the year; water levels were very low). A third bird was singing just across the stream, presumably in response to this pair. Photographic documentation on eBird checklists. ",
+  "otras_especies": [
+    "Percnostola melanoceps"
+  ],
+  "url_audio": "https://xeno-canto.org/302791/download",
+  "url_pagina": "https://xeno-canto.org/302791",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "366817",
+  "genero": "Automolus",
+  "especie": "virgatus",
+  "subespecie": "",
+  "nombre_cientifico": "Automolus virgatus",
+  "nombre_ingles": "Western Woodhaunter",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RNA Arrierito Antioqueño, Anorí, Antioquia",
+  "lat": 6.9862,
+  "lon": null,
+  "altura": 1800.0,
+  "fecha": "2017-01-23",
+  "hora": "17:26",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:54",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Martin St-Michel",
+  "comentarios": "Habitat: primary forest.",
+  "otras_especies": [
+    "Campylorhamphus pusillus"
+  ],
+  "url_audio": "https://xeno-canto.org/366817/download",
+  "url_pagina": "https://xeno-canto.org/366817",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

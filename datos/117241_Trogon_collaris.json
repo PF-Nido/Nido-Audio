@@ -1,0 +1,33 @@
+{
+  "xc_id": "117241",
+  "genero": "Trogon",
+  "especie": "collaris",
+  "subespecie": "",
+  "nombre_cientifico": "Trogon collaris",
+  "nombre_ingles": "Collared Trogon",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "PNN Alto Guanentá-Reserva Cachalú, Encino, Santander",
+  "lat": 7.832556,
+  "lon": null,
+  "altura": null,
+  "fecha": "1994-10-01",
+  "hora": "08:10:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:41",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)",
+  "comentarios": "IAvH-CSA 729\n\nTo obtain a wav file of the original recording, please contact csa@humboldt.org.co",
+  "otras_especies": [
+    "Setophaga pitiayumi"
+  ],
+  "url_audio": "https://xeno-canto.org/117241/download",
+  "url_pagina": "https://xeno-canto.org/117241",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

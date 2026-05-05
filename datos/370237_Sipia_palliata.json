@@ -1,0 +1,33 @@
+{
+  "xc_id": "370237",
+  "genero": "Sipia",
+  "especie": "palliata",
+  "subespecie": "",
+  "nombre_cientifico": "Sipia palliata",
+  "nombre_ingles": "Magdalena Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Líbano, Tolima",
+  "lat": 4.8867,
+  "lon": null,
+  "altura": 1200.0,
+  "fecha": "2013-05-13",
+  "hora": "06:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:47",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Jeisson Poveda",
+  "comentarios": "Familiar group, 4 individuals. Undergrowth and sub montane forest.",
+  "otras_especies": [
+    "Habia cristata"
+  ],
+  "url_audio": "https://xeno-canto.org/370237/download",
+  "url_pagina": "https://xeno-canto.org/370237",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

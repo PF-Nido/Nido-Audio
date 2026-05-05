@@ -1,0 +1,33 @@
+{
+  "xc_id": "127712",
+  "genero": "Adelomyia",
+  "especie": "melanogenys",
+  "subespecie": "",
+  "nombre_cientifico": "Adelomyia melanogenys",
+  "nombre_ingles": "Speckled Hummingbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Bitaco, Valle",
+  "lat": 3.5573,
+  "lon": null,
+  "altura": 1800.0,
+  "fecha": "2013-03-08",
+  "hora": "08:00",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:14",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Ruben Palacio",
+  "comentarios": "Recorded in a disturbed fragment in Bitaco, Valle.",
+  "otras_especies": [
+    "Attila spadiceus"
+  ],
+  "url_audio": "https://xeno-canto.org/127712/download",
+  "url_pagina": "https://xeno-canto.org/127712",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "580757",
+  "genero": "Ara",
+  "especie": "ararauna",
+  "subespecie": "",
+  "nombre_cientifico": "Ara ararauna",
+  "nombre_ingles": "Blue-and-yellow Macaw",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Puerto Boyacá, Boyacá",
+  "lat": 6.0753,
+  "lon": null,
+  "altura": 140.0,
+  "fecha": "2020-07-22",
+  "hora": "06:30",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:45",
+  "sexo": "uncertain",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Javier Ricardo Salamanca-Reyes",
+  "comentarios": "8 individuals",
+  "otras_especies": [
+    "Crypturellus soui"
+  ],
+  "url_audio": "https://xeno-canto.org/580757/download",
+  "url_pagina": "https://xeno-canto.org/580757",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

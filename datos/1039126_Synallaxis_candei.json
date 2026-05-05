@@ -1,0 +1,33 @@
+{
+  "xc_id": "1039126",
+  "genero": "Synallaxis",
+  "especie": "candei",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis candei",
+  "nombre_ingles": "White-whiskered Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Camarones, Municipio Riohacha, La Guajira",
+  "lat": 11.4248,
+  "lon": null,
+  "altura": 10.0,
+  "fecha": "2025-01-26",
+  "hora": "6:54",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:07",
+  "sexo": "uncertain",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Sue Riffe",
+  "comentarios": "",
+  "otras_especies": [
+    "Pitangus sulphuratus"
+  ],
+  "url_audio": "https://xeno-canto.org/1039126/download",
+  "url_pagina": "https://xeno-canto.org/1039126",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

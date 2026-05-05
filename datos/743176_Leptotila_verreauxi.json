@@ -1,0 +1,33 @@
+{
+  "xc_id": "743176",
+  "genero": "Leptotila",
+  "especie": "verreauxi",
+  "subespecie": "hernandezi",
+  "nombre_cientifico": "Leptotila verreauxi",
+  "nombre_ingles": "White-tipped Dove",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Leticia, Leticia, Amazonas",
+  "lat": -4.2173,
+  "lon": null,
+  "altura": 94.0,
+  "fecha": "2021-06-11",
+  "hora": "10:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:52",
+  "sexo": "uncertain",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Urias Edgardo Gonzalez Carreño",
+  "comentarios": "Se encontró al individuo perchado en un árbol de Mango, en el área de tierra firme (alta), en la zona urbana de la ciudad de Leticia, Amazonas.",
+  "otras_especies": [
+    "Tyrannus melancholicus"
+  ],
+  "url_audio": "https://xeno-canto.org/743176/download",
+  "url_pagina": "https://xeno-canto.org/743176",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

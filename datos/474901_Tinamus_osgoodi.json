@@ -1,0 +1,33 @@
+{
+  "xc_id": "474901",
+  "genero": "Tinamus",
+  "especie": "osgoodi",
+  "subespecie": "hershkovitzi",
+  "nombre_cientifico": "Tinamus osgoodi",
+  "nombre_ingles": "Black Tinamou",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Mirador de las Tangaras, Flanco Oriental Serrania de los Churumbelos-Piamonte Cauca",
+  "lat": 1.0651,
+  "lon": null,
+  "altura": 850.0,
+  "fecha": "2017-02-01",
+  "hora": "14:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:33",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Gerlando Delgado ",
+  "comentarios": "Bosque primario del Piedemonte Amazonico, vocaliza dos veces con una diferencia de tiempo de un minuto 14 segundos entre las dos . el audio solamente fue amplificado.",
+  "otras_especies": [
+    "Patagioenas plumbea"
+  ],
+  "url_audio": "https://xeno-canto.org/474901/download",
+  "url_pagina": "https://xeno-canto.org/474901",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

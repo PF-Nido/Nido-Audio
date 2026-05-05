@@ -1,0 +1,33 @@
+{
+  "xc_id": "764067",
+  "genero": "Rupornis",
+  "especie": "magnirostris",
+  "subespecie": "",
+  "nombre_cientifico": "Rupornis magnirostris",
+  "nombre_ingles": "Roadside Hawk",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Sopó, Cundinamarca",
+  "lat": 4.9295,
+  "lon": null,
+  "altura": 2600.0,
+  "fecha": "2022-03-22",
+  "hora": "08:00",
+  "calidad_xc": "A",
+  "tipo_canto": "call",
+  "duracion": "0:10",
+  "sexo": "uncertain",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Arcadio Marin ",
+  "comentarios": "",
+  "otras_especies": [
+    "Myiothlypis nigrocristata"
+  ],
+  "url_audio": "https://xeno-canto.org/764067/download",
+  "url_pagina": "https://xeno-canto.org/764067",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

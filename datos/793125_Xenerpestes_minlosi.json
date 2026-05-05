@@ -1,0 +1,33 @@
+{
+  "xc_id": "793125",
+  "genero": "Xenerpestes",
+  "especie": "minlosi",
+  "subespecie": "",
+  "nombre_cientifico": "Xenerpestes minlosi",
+  "nombre_ingles": "Double-banded Greytail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "La Venecia, Lebrija, Santander",
+  "lat": 7.1458,
+  "lon": null,
+  "altura": 1000.0,
+  "fecha": "2023-01-09",
+  "hora": "10:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:14",
+  "sexo": "uncertain",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "David Monroy Rengifo",
+  "comentarios": "",
+  "otras_especies": [
+    "Leptotila verreauxi"
+  ],
+  "url_audio": "https://xeno-canto.org/793125/download",
+  "url_pagina": "https://xeno-canto.org/793125",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

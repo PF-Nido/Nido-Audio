@@ -1,0 +1,33 @@
+{
+  "xc_id": "522227",
+  "genero": "Nothocercus",
+  "especie": "julius",
+  "subespecie": "",
+  "nombre_cientifico": "Nothocercus julius",
+  "nombre_ingles": "Tawny-breasted Tinamou",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Guaquira, Vereda Pueblo Nuevo, Ubaque, Cundinamarca",
+  "lat": 4.5288,
+  "lon": null,
+  "altura": 2800.0,
+  "fecha": "2020-01-06",
+  "hora": "06:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:48",
+  "sexo": "male",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andres Angulo Rubiano",
+  "comentarios": "Male heard distant calling from high andean forest surely, from the ground. Recording distance was 80 meters or more, my guess. I amplified a little the cut. \r\n",
+  "otras_especies": [
+    "Henicorhina leucophrys"
+  ],
+  "url_audio": "https://xeno-canto.org/522227/download",
+  "url_pagina": "https://xeno-canto.org/522227",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

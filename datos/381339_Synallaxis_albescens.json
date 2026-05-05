@@ -1,0 +1,33 @@
+{
+  "xc_id": "381339",
+  "genero": "Synallaxis",
+  "especie": "albescens",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis albescens",
+  "nombre_ingles": "Pale-breasted Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Guaduas, Cundinamarca",
+  "lat": 5.1272,
+  "lon": null,
+  "altura": 1400.0,
+  "fecha": "2017-02-09",
+  "hora": "16:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:05",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Andres Angulo ",
+  "comentarios": "One individual very active vocally in the bushes in a pasture. Recording distance was 10 meters. ",
+  "otras_especies": [
+    "Turdus leucomelas"
+  ],
+  "url_audio": "https://xeno-canto.org/381339/download",
+  "url_pagina": "https://xeno-canto.org/381339",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "426196",
+  "genero": "Ara",
+  "especie": "macao",
+  "subespecie": "",
+  "nombre_cientifico": "Ara macao",
+  "nombre_ingles": "Scarlet Macaw",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Cerro Azúl, Serranía de la Lindosa, San José Del Guaviare, Guaviare",
+  "lat": 2.5272,
+  "lon": null,
+  "altura": 220.0,
+  "fecha": "2016-10-23",
+  "hora": "09:00",
+  "calidad_xc": "A",
+  "tipo_canto": "call, flight call, song",
+  "duracion": "0:29",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Pablo López-O.",
+  "comentarios": "Cantos gradabos en bordes de bosque y potreros con poca vegetación.",
+  "otras_especies": [
+    "Ara severus"
+  ],
+  "url_audio": "https://xeno-canto.org/426196/download",
+  "url_pagina": "https://xeno-canto.org/426196",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

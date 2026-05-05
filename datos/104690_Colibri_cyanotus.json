@@ -1,0 +1,33 @@
+{
+  "xc_id": "104690",
+  "genero": "Colibri",
+  "especie": "cyanotus",
+  "subespecie": "",
+  "nombre_cientifico": "Colibri cyanotus",
+  "nombre_ingles": "Lesser Violetear",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "FUNDEGAR ('Rio Blanco'), Manizales, Caldas",
+  "lat": 5.074,
+  "lon": null,
+  "altura": 2550.0,
+  "fecha": "2011-02-01",
+  "hora": "09:10",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:56",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Eric DeFonso",
+  "comentarios": "perched atop a 20-m tree and singing for minutes on end. some human conversation in background",
+  "otras_especies": [
+    "Synallaxis azarae"
+  ],
+  "url_audio": "https://xeno-canto.org/104690/download",
+  "url_pagina": "https://xeno-canto.org/104690",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

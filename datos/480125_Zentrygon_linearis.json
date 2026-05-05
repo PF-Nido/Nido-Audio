@@ -1,0 +1,33 @@
+{
+  "xc_id": "480125",
+  "genero": "Zentrygon",
+  "especie": "linearis",
+  "subespecie": "linearis",
+  "nombre_cientifico": "Zentrygon linearis",
+  "nombre_ingles": "Lined Quail-Dove",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Magdalena: San Lorenzo ridge, Sierra Nevada de Santa Marta",
+  "lat": 11.1009,
+  "lon": null,
+  "altura": 2700.0,
+  "fecha": "2019-06-03",
+  "hora": "05:53",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:36",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Rolf A. de By",
+  "comentarios": "",
+  "otras_especies": [
+    "Turdus fuscater"
+  ],
+  "url_audio": "https://xeno-canto.org/480125/download",
+  "url_pagina": "https://xeno-canto.org/480125",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

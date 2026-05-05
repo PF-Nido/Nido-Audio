@@ -1,0 +1,33 @@
+{
+  "xc_id": "1041003",
+  "genero": "Cercomacroides",
+  "especie": "parkeri",
+  "subespecie": "",
+  "nombre_cientifico": "Cercomacroides parkeri",
+  "nombre_ingles": "Parker's Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Cerro Guamocó, Santa Rosa del Sur, Bolivar",
+  "lat": 7.659,
+  "lon": null,
+  "altura": 1800.0,
+  "fecha": "2025-06-23",
+  "hora": "06:00",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:57",
+  "sexo": "uncertain",
+  "etapa_vida": "uncertain",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Pablo López-O.",
+  "comentarios": "",
+  "otras_especies": [
+    "Henicorhina leucophrys"
+  ],
+  "url_audio": "https://xeno-canto.org/1041003/download",
+  "url_pagina": "https://xeno-canto.org/1041003",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

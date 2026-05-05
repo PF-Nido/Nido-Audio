@@ -1,0 +1,33 @@
+{
+  "xc_id": "810030",
+  "genero": "Colibri",
+  "especie": "coruscans",
+  "subespecie": "",
+  "nombre_cientifico": "Colibri coruscans",
+  "nombre_ingles": "Sparkling Violetear",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Casco Urbano (Manizales, Caldas)",
+  "lat": 5.0638,
+  "lon": null,
+  "altura": 2120.0,
+  "fecha": "2023-06-19",
+  "hora": "14:04",
+  "calidad_xc": "B",
+  "tipo_canto": "",
+  "duracion": "0:11",
+  "sexo": "male",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Alejandro Morales Betancourt",
+  "comentarios": "Casco Urbano, en separador arbolado entre dos calles. Amazilia tzacatl perchado en el mismo árbol del colibrí grabado.",
+  "otras_especies": [
+    "Zonotrichia capensis"
+  ],
+  "url_audio": "https://xeno-canto.org/810030/download",
+  "url_pagina": "https://xeno-canto.org/810030",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

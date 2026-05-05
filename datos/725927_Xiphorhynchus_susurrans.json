@@ -1,0 +1,33 @@
+{
+  "xc_id": "725927",
+  "genero": "Xiphorhynchus",
+  "especie": "susurrans",
+  "subespecie": "nana",
+  "nombre_cientifico": "Xiphorhynchus susurrans",
+  "nombre_ingles": "Cocoa Woodcreeper",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Finca Los Cactos, Tocaima, Cundinamarca",
+  "lat": 4.4787,
+  "lon": null,
+  "altura": 380.0,
+  "fecha": "2022-04-24",
+  "hora": "12:27",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "1:11",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Rolf A. de By",
+  "comentarios": "",
+  "otras_especies": [
+    "Myrmotherula axillaris"
+  ],
+  "url_audio": "https://xeno-canto.org/725927/download",
+  "url_pagina": "https://xeno-canto.org/725927",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

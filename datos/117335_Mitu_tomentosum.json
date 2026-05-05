@@ -1,0 +1,33 @@
+{
+  "xc_id": "117335",
+  "genero": "Mitu",
+  "especie": "tomentosum",
+  "subespecie": "",
+  "nombre_cientifico": "Mitu tomentosum",
+  "nombre_ingles": "Crestless Curassow",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "PNN Chiribiquete, Solano, Caquetá",
+  "lat": 0.24,
+  "lon": null,
+  "altura": 350.0,
+  "fecha": "2000-01-01",
+  "hora": "?",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "2:34",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)",
+  "comentarios": "IAvH-CSA 1526\n\nTo obtain a wav file of the original recording, please contact csa@humboldt.org.co",
+  "otras_especies": [
+    "Momotus momota"
+  ],
+  "url_audio": "https://xeno-canto.org/117335/download",
+  "url_pagina": "https://xeno-canto.org/117335",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

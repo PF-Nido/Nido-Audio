@@ -1,0 +1,33 @@
+{
+  "xc_id": "344375",
+  "genero": "Melanerpes",
+  "especie": "formicivorus",
+  "subespecie": "",
+  "nombre_cientifico": "Melanerpes formicivorus",
+  "nombre_ingles": "Acorn Woodpecker",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Manizales, Manizales, Caldas",
+  "lat": 5.0652,
+  "lon": null,
+  "altura": 1900.0,
+  "fecha": "2016-08-17",
+  "hora": "08:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:53",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Hotel Tinamu",
+  "comentarios": "Grabado por Juan Pablo Culasso\r\nwww.jpculasso.net\r\n\r\nCanopy secondary forest.",
+  "otras_especies": [
+    "Pheugopedius mystacalis"
+  ],
+  "url_audio": "https://xeno-canto.org/344375/download",
+  "url_pagina": "https://xeno-canto.org/344375",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

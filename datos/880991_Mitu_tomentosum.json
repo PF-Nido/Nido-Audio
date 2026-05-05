@@ -1,0 +1,33 @@
+{
+  "xc_id": "880991",
+  "genero": "Mitu",
+  "especie": "tomentosum",
+  "subespecie": "",
+  "nombre_cientifico": "Mitu tomentosum",
+  "nombre_ingles": "Crestless Curassow",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Hato La Aurora ",
+  "lat": 6.0127,
+  "lon": null,
+  "altura": 150.0,
+  "fecha": "2024-02-04",
+  "hora": "05:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "2:42",
+  "sexo": "uncertain",
+  "etapa_vida": "uncertain",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Hernán Arias",
+  "comentarios": "",
+  "otras_especies": [
+    "Megarynchus pitangua"
+  ],
+  "url_audio": "https://xeno-canto.org/880991/download",
+  "url_pagina": "https://xeno-canto.org/880991",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

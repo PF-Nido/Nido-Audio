@@ -1,0 +1,33 @@
+{
+  "xc_id": "117747",
+  "genero": "Crax",
+  "especie": "alector",
+  "subespecie": "",
+  "nombre_cientifico": "Crax alector",
+  "nombre_ingles": "Black Curassow",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Centro de Investigaciones Ecológicas La Macarena. Río Duda, Macarena, Meta",
+  "lat": 2.742222,
+  "lon": null,
+  "altura": 500.0,
+  "fecha": "1993-02-24",
+  "hora": "?",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "2:07",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)",
+  "comentarios": "IAvH-CSA 9814\n\nTo obtain a wav file of the original recording, please contact csa@humboldt.org.co",
+  "otras_especies": [
+    "Momotus momota"
+  ],
+  "url_audio": "https://xeno-canto.org/117747/download",
+  "url_pagina": "https://xeno-canto.org/117747",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

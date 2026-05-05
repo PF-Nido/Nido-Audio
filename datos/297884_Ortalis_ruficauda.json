@@ -1,0 +1,33 @@
+{
+  "xc_id": "297884",
+  "genero": "Ortalis",
+  "especie": "ruficauda",
+  "subespecie": "",
+  "nombre_cientifico": "Ortalis ruficauda",
+  "nombre_ingles": "Rufous-vented Chachalaca",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "San Isidro (Predio Corponor), vereda El Tabiro, San Cayetano, Norte de Santander",
+  "lat": 7.8275,
+  "lon": null,
+  "altura": 380.0,
+  "fecha": "2009-12-16",
+  "hora": "06:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "1:35",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Laverde",
+  "comentarios": "BSA 708",
+  "otras_especies": [
+    "Pachyramphus polychopterus"
+  ],
+  "url_audio": "https://xeno-canto.org/297884/download",
+  "url_pagina": "https://xeno-canto.org/297884",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

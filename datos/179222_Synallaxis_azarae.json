@@ -1,0 +1,33 @@
+{
+  "xc_id": "179222",
+  "genero": "Synallaxis",
+  "especie": "azarae",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis azarae",
+  "nombre_ingles": "Azara's Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Natural Encanto Andino, El Encano, Pasto",
+  "lat": 1.0822,
+  "lon": null,
+  "altura": 2900.0,
+  "fecha": "2014-05-17",
+  "hora": "06:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:31",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Alejo Mendoza",
+  "comentarios": "Bosque secundario en regeneración, Reserva Natural Encanto Andino, El Encano, Pasto.",
+  "otras_especies": [
+    "Zonotrichia capensis"
+  ],
+  "url_audio": "https://xeno-canto.org/179222/download",
+  "url_pagina": "https://xeno-canto.org/179222",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

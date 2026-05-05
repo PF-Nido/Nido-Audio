@@ -1,0 +1,33 @@
+{
+  "xc_id": "1006007",
+  "genero": "Nyctidromus",
+  "especie": "albicollis",
+  "subespecie": "",
+  "nombre_cientifico": "Nyctidromus albicollis",
+  "nombre_ingles": "Pauraque",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Vereda La Cima, Dosquebradas, Risaralda",
+  "lat": 4.8616,
+  "lon": null,
+  "altura": 1750.0,
+  "fecha": "2025-06-10",
+  "hora": "18:32",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:37",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Alejandro Morales Betancourt",
+  "comentarios": "",
+  "otras_especies": [
+    "Nyctibius griseus"
+  ],
+  "url_audio": "https://xeno-canto.org/1006007/download",
+  "url_pagina": "https://xeno-canto.org/1006007",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

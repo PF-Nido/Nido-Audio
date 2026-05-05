@@ -1,0 +1,33 @@
+{
+  "xc_id": "244904",
+  "genero": "Cranioleuca",
+  "especie": "vulpina",
+  "subespecie": "vulpina",
+  "nombre_cientifico": "Cranioleuca vulpina",
+  "nombre_ingles": "Rusty-backed Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Caño Orosi, Finca Candalayes, Vereda Candalayes, Trinidad, Casanare",
+  "lat": 5.3130555555556,
+  "lon": null,
+  "altura": 180.0,
+  "fecha": "2012-07-12",
+  "hora": "08:30",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "5:23",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marín Gómez &amp; Juan Pablo López",
+  "comentarios": "Bosque galeria.Reference: OHM_JPLE_A_1200",
+  "otras_especies": [
+    "Dendrocygna autumnalis"
+  ],
+  "url_audio": "https://xeno-canto.org/244904/download",
+  "url_pagina": "https://xeno-canto.org/244904",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

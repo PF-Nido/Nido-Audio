@@ -1,0 +1,33 @@
+{
+  "xc_id": "520570",
+  "genero": "Columbina",
+  "especie": "talpacoti",
+  "subespecie": "",
+  "nombre_cientifico": "Columbina talpacoti",
+  "nombre_ingles": "Ruddy Ground Dove",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Parque Nacional del Arroz (La Guaira)Estación Ferrocarril Caldas Viejo, Alvarado, Tolima",
+  "lat": 4.5646,
+  "lon": null,
+  "altura": 400.0,
+  "fecha": "2020-01-10",
+  "hora": "12:08",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:19",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Yair Guillermo Molina Martínez.",
+  "comentarios": "",
+  "otras_especies": [
+    "Elaenia flavogaster"
+  ],
+  "url_audio": "https://xeno-canto.org/520570/download",
+  "url_pagina": "https://xeno-canto.org/520570",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

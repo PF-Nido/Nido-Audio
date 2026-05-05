@@ -1,0 +1,33 @@
+{
+  "xc_id": "86182",
+  "genero": "Columbina",
+  "especie": "squammata",
+  "subespecie": "",
+  "nombre_cientifico": "Columbina squammata",
+  "nombre_ingles": "Scaled Dove",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Coloso, Sucre, Montes de Maria",
+  "lat": 9.505,
+  "lon": null,
+  "altura": 300.0,
+  "fecha": "2011-08-08",
+  "hora": "08:00",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:20",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oswaldo Cortes",
+  "comentarios": "",
+  "otras_especies": [
+    "Fluvicola pica"
+  ],
+  "url_audio": "https://xeno-canto.org/86182/download",
+  "url_pagina": "https://xeno-canto.org/86182",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "95904",
+  "genero": "Dendrocincla",
+  "especie": "tyrannina",
+  "subespecie": "",
+  "nombre_cientifico": "Dendrocincla tyrannina",
+  "nombre_ingles": "Tyrannine Woodcreeper",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva Natural Mesenia - Paramillo",
+  "lat": 5.4828,
+  "lon": null,
+  "altura": 2200.0,
+  "fecha": "2012-02-15",
+  "hora": "07:21",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:26",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oswaldo Cortes",
+  "comentarios": "",
+  "otras_especies": [
+    "Henicorhina negreti"
+  ],
+  "url_audio": "https://xeno-canto.org/95904/download",
+  "url_pagina": "https://xeno-canto.org/95904",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

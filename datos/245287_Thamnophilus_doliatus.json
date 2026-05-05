@@ -1,0 +1,33 @@
+{
+  "xc_id": "245287",
+  "genero": "Thamnophilus",
+  "especie": "doliatus",
+  "subespecie": "",
+  "nombre_cientifico": "Thamnophilus doliatus",
+  "nombre_ingles": "Barred Antshrike",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Bosque El Algarrobo, Vereda San Pedro, Tamara, Casanare",
+  "lat": 5.76,
+  "lon": null,
+  "altura": 560.0,
+  "fecha": "2015-03-23",
+  "hora": "08:10",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "3:53",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marín Gómez &amp; Luis Hernán Carrasco Guanay",
+  "comentarios": "ID accurancy: 90%. Habitat: Borde de bosque de vega. Distance to mic: 15 m. Tascam DR-100MKII, Sennheiser ME66. Reference: 150321_2153",
+  "otras_especies": [
+    "Todirostrum cinereum"
+  ],
+  "url_audio": "https://xeno-canto.org/245287/download",
+  "url_pagina": "https://xeno-canto.org/245287",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

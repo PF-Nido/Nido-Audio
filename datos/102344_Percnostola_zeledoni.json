@@ -1,0 +1,33 @@
+{
+  "xc_id": "102344",
+  "genero": "Percnostola",
+  "especie": "zeledoni",
+  "subespecie": "berlepschi",
+  "nombre_cientifico": "Percnostola zeledoni",
+  "nombre_ingles": "Zeledon's Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Montezuma Peak Road, Pueblo Rico, Risaralda, W Andes - Tatama National Park",
+  "lat": 5.2431,
+  "lon": null,
+  "altura": 1500.0,
+  "fecha": "2012-04-23",
+  "hora": "07:14",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:21",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Jeremy Minns",
+  "comentarios": " Montane forest. Sounds like Pyriglena leucoptera of SE Brazil! Posted as mystery Nr. 3580 and IDed by Hermann Redies, Pai-luiz and Thomas Donegan.",
+  "otras_especies": [
+    "Manacus vitellinus"
+  ],
+  "url_audio": "https://xeno-canto.org/102344/download",
+  "url_pagina": "https://xeno-canto.org/102344",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

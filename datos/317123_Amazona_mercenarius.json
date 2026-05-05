@@ -1,0 +1,33 @@
+{
+  "xc_id": "317123",
+  "genero": "Amazona",
+  "especie": "mercenarius",
+  "subespecie": "canipalliata",
+  "nombre_cientifico": "Amazona mercenarius",
+  "nombre_ingles": "Scaly-naped Amazon",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RNA El Dorado, Sierra de Santa Marta, Magdalena",
+  "lat": 11.1009,
+  "lon": null,
+  "altura": 2000.0,
+  "fecha": "2016-04-03",
+  "hora": "17:00",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "3:11",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Guy Kirwan",
+  "comentarios": "Large flock feeding and flying high overhead.",
+  "otras_especies": [
+    "Pharomachrus fulgidus"
+  ],
+  "url_audio": "https://xeno-canto.org/317123/download",
+  "url_pagina": "https://xeno-canto.org/317123",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

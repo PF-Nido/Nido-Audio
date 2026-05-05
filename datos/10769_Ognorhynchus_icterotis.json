@@ -1,0 +1,33 @@
+{
+  "xc_id": "10769",
+  "genero": "Ognorhynchus",
+  "especie": "icterotis",
+  "subespecie": "",
+  "nombre_cientifico": "Ognorhynchus icterotis",
+  "nombre_ingles": "Yellow-eared Parrot",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "RNA Loro Orejiamarillo, Jardín, Antioquia",
+  "lat": 5.5389,
+  "lon": null,
+  "altura": 2500.0,
+  "fecha": "2007-02-16",
+  "hora": "12:40",
+  "calidad_xc": "A",
+  "tipo_canto": "flight call",
+  "duracion": "0:24",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Nick Athanas",
+  "comentarios": "A flock of about 11.",
+  "otras_especies": [
+    "Colibri cyanotus"
+  ],
+  "url_audio": "https://xeno-canto.org/10769/download",
+  "url_pagina": "https://xeno-canto.org/10769",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

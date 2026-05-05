@@ -1,0 +1,33 @@
+{
+  "xc_id": "130713",
+  "genero": "Psittacara",
+  "especie": "wagleri",
+  "subespecie": "",
+  "nombre_cientifico": "Psittacara wagleri",
+  "nombre_ingles": "Scarlet-fronted Parakeet",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-La Popa",
+  "lat": 4.6717,
+  "lon": null,
+  "altura": 1850.0,
+  "fecha": "2007-12-02",
+  "hora": "09:00",
+  "calidad_xc": "B",
+  "tipo_canto": "flight call",
+  "duracion": "0:13",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marin-Gomez",
+  "comentarios": "Ref: OHM11B 1613",
+  "otras_especies": [
+    "Atlapetes albinucha"
+  ],
+  "url_audio": "https://xeno-canto.org/130713/download",
+  "url_pagina": "https://xeno-canto.org/130713",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

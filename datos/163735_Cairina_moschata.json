@@ -1,0 +1,33 @@
+{
+  "xc_id": "163735",
+  "genero": "Cairina",
+  "especie": "moschata",
+  "subespecie": "",
+  "nombre_cientifico": "Cairina moschata",
+  "nombre_ingles": "Muscovy Duck",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Guatapé, Antioquia",
+  "lat": 6.2138,
+  "lon": null,
+  "altura": 1900.0,
+  "fecha": "2014-01-06",
+  "hora": "6:51",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:22",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Danny Zapata-Henao",
+  "comentarios": "Domestic type.",
+  "otras_especies": [
+    "Spatula discors"
+  ],
+  "url_audio": "https://xeno-canto.org/163735/download",
+  "url_pagina": "https://xeno-canto.org/163735",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

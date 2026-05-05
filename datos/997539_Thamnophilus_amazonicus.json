@@ -1,0 +1,33 @@
+{
+  "xc_id": "997539",
+  "genero": "Thamnophilus",
+  "especie": "amazonicus",
+  "subespecie": "",
+  "nombre_cientifico": "Thamnophilus amazonicus",
+  "nombre_ingles": "Amazonian Antshrike",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "La Pedrera, Amazonas, Resguardo Curare Los Ingleses",
+  "lat": -1.3012,
+  "lon": null,
+  "altura": 100.0,
+  "fecha": "2024-01-24",
+  "hora": "08:30",
+  "calidad_xc": "B",
+  "tipo_canto": "call, song",
+  "duracion": "1:39",
+  "sexo": "male",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Juan Pablo López-O.",
+  "comentarios": "Grabación realizada en borde de bosque aledaño al Resguardo Indigena Curare Los Ingleses, Rio Caquetá.",
+  "otras_especies": [
+    "Manacus manacus"
+  ],
+  "url_audio": "https://xeno-canto.org/997539/download",
+  "url_pagina": "https://xeno-canto.org/997539",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+}

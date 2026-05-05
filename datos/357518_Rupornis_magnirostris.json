@@ -1,0 +1,33 @@
+{
+  "xc_id": "357518",
+  "genero": "Rupornis",
+  "especie": "magnirostris",
+  "subespecie": "magnirostris",
+  "nombre_cientifico": "Rupornis magnirostris",
+  "nombre_ingles": "Roadside Hawk",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Inírida, Guainía",
+  "lat": 3.8186,
+  "lon": null,
+  "altura": 110.0,
+  "fecha": "2017-02-15",
+  "hora": "09:30",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:33",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Guy Kirwan",
+  "comentarios": "Pair rejoin each other on a perch.",
+  "otras_especies": [
+    "Formicivora grisea"
+  ],
+  "url_audio": "https://xeno-canto.org/357518/download",
+  "url_pagina": "https://xeno-canto.org/357518",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

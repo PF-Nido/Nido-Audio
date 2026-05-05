@@ -1,0 +1,33 @@
+{
+  "xc_id": "462687",
+  "genero": "Hypocnemis",
+  "especie": "flavescens",
+  "subespecie": "",
+  "nombre_cientifico": "Hypocnemis flavescens",
+  "nombre_ingles": "Imeri Warbling Antbird",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Inírida, Guainía",
+  "lat": 3.8806,
+  "lon": null,
+  "altura": 90.0,
+  "fecha": "2019-01-19",
+  "hora": "09:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:25",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Linda Stehlik",
+  "comentarios": "male and female sing, dry forest habitat.  Amplified with Audacity.",
+  "otras_especies": [
+    "Lipaugus vociferans"
+  ],
+  "url_audio": "https://xeno-canto.org/462687/download",
+  "url_pagina": "https://xeno-canto.org/462687",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

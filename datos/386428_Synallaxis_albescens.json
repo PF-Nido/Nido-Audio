@@ -1,0 +1,33 @@
+{
+  "xc_id": "386428",
+  "genero": "Synallaxis",
+  "especie": "albescens",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis albescens",
+  "nombre_ingles": "Pale-breasted Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Quebrada la Honda, zona 3, Ibagué, Tolima",
+  "lat": 4.3574,
+  "lon": null,
+  "altura": 850.0,
+  "fecha": "2017-07-21",
+  "hora": "09:10",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:51",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Yair Guillermo Molina Martínez.",
+  "comentarios": "Linea de matorral y arboles entre cultivos de arroz. ",
+  "otras_especies": [
+    "Todirostrum cinereum"
+  ],
+  "url_audio": "https://xeno-canto.org/386428/download",
+  "url_pagina": "https://xeno-canto.org/386428",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

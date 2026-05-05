@@ -1,0 +1,33 @@
+{
+  "xc_id": "583738",
+  "genero": "Asio",
+  "especie": "flammeus",
+  "subespecie": "bogotensis",
+  "nombre_cientifico": "Asio flammeus",
+  "nombre_ingles": "Short-eared Owl",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Humedal Jaboque, Bogotá",
+  "lat": 4.7257,
+  "lon": null,
+  "altura": 2500.0,
+  "fecha": "2020-08-09",
+  "hora": "07:00",
+  "calidad_xc": "A",
+  "tipo_canto": "begging call",
+  "duracion": "0:44",
+  "sexo": "uncertain",
+  "etapa_vida": "juvenile",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Jhon Jimenez",
+  "comentarios": "",
+  "otras_especies": [
+    "Zonotrichia capensis"
+  ],
+  "url_audio": "https://xeno-canto.org/583738/download",
+  "url_pagina": "https://xeno-canto.org/583738",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

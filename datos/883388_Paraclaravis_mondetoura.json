@@ -1,0 +1,33 @@
+{
+  "xc_id": "883388",
+  "genero": "Paraclaravis",
+  "especie": "mondetoura",
+  "subespecie": "",
+  "nombre_cientifico": "Paraclaravis mondetoura",
+  "nombre_ingles": "Maroon-chested Ground Dove",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Chamicero del Perijá Proaves Reserve, Cesar",
+  "lat": 10.3643,
+  "lon": null,
+  "altura": 2600.0,
+  "fecha": "2024-03-09",
+  "hora": "14:39",
+  "calidad_xc": "A",
+  "tipo_canto": "song, Frog call",
+  "duracion": "0:15",
+  "sexo": "female, male",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Manuel Espejo",
+  "comentarios": "Male and Female seen vocalizing from a branch inside Chusquea sp. behind the Proaves Lodge, Fade In and out and Amplify was applied to the recording with audacity. ",
+  "otras_especies": [
+    "Turdus serranus"
+  ],
+  "url_audio": "https://xeno-canto.org/883388/download",
+  "url_pagina": "https://xeno-canto.org/883388",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

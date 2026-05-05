@@ -1,0 +1,33 @@
+{
+  "xc_id": "957612",
+  "genero": "Colibri",
+  "especie": "cyanotus",
+  "subespecie": "",
+  "nombre_cientifico": "Colibri cyanotus",
+  "nombre_ingles": "Lesser Violetear",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Envigado, Antioquia",
+  "lat": 6.1185,
+  "lon": null,
+  "altura": 2500.0,
+  "fecha": "2024-12-19",
+  "hora": "07:25",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "6:16",
+  "sexo": "male",
+  "etapa_vida": "uncertain",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Danny Zapata-Henao",
+  "comentarios": "",
+  "otras_especies": [
+    "Cyclarhis nigrirostris"
+  ],
+  "url_audio": "https://xeno-canto.org/957612/download",
+  "url_pagina": "https://xeno-canto.org/957612",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "56010",
+  "genero": "Campylorhamphus",
+  "especie": "trochilirostris",
+  "subespecie": "venezuelensis",
+  "nombre_cientifico": "Campylorhamphus trochilirostris",
+  "nombre_ingles": "Red-billed Scythebill",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Boqueron (rio Sumapaz), Cundinamarca",
+  "lat": null,
+  "lon": null,
+  "altura": null,
+  "fecha": "2000-07-27",
+  "hora": "13:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:07",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Bernabe Lopez-Lanus",
+  "comentarios": "Also Euphonia concinna",
+  "otras_especies": [
+    "Euphonia concinna"
+  ],
+  "url_audio": "https://xeno-canto.org/56010/download",
+  "url_pagina": "https://xeno-canto.org/56010",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

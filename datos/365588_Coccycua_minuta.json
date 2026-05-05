@@ -1,0 +1,33 @@
+{
+  "xc_id": "365588",
+  "genero": "Coccycua",
+  "especie": "minuta",
+  "subespecie": "minuta",
+  "nombre_cientifico": "Coccycua minuta",
+  "nombre_ingles": "Little Cuckoo",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Isla , Vereda Salado Grande ,Puerto Leguízamo, Putumayo",
+  "lat": -0.235,
+  "lon": null,
+  "altura": 190.0,
+  "fecha": "2017-03-27",
+  "hora": "15:30",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:15",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "yes",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Brayan Coral Jaramillo",
+  "comentarios": "",
+  "otras_especies": [
+    "Leptotila rufaxilla"
+  ],
+  "url_audio": "https://xeno-canto.org/365588/download",
+  "url_pagina": "https://xeno-canto.org/365588",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

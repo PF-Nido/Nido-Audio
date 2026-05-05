@@ -1,0 +1,33 @@
+{
+  "xc_id": "117707",
+  "genero": "Micrastur",
+  "especie": "ruficollis",
+  "subespecie": "",
+  "nombre_cientifico": "Micrastur ruficollis",
+  "nombre_ingles": "Barred Forest Falcon",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Reserva privada Yotoco, Yotoco, Valle del Cauca",
+  "lat": 3.8775,
+  "lon": null,
+  "altura": null,
+  "fecha": "2003-02-17",
+  "hora": "?",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:44",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "José Agustín López (Colección de Sonidos Ambientales - Instituto Humboldt)",
+  "comentarios": "IAvH-CSA 12078\n\nTo obtain a wav file of the original recording, please contact csa@humboldt.org.co",
+  "otras_especies": [
+    "Trogon collaris"
+  ],
+  "url_audio": "https://xeno-canto.org/117707/download",
+  "url_pagina": "https://xeno-canto.org/117707",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

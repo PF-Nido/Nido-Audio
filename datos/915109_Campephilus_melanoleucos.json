@@ -1,0 +1,33 @@
+{
+  "xc_id": "915109",
+  "genero": "Campephilus",
+  "especie": "melanoleucos",
+  "subespecie": "",
+  "nombre_cientifico": "Campephilus melanoleucos",
+  "nombre_ingles": "Crimson-crested Woodpecker",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Palmira, Valle del Cauca",
+  "lat": 3.5026,
+  "lon": null,
+  "altura": 950.0,
+  "fecha": "2024-05-15",
+  "hora": "10:30",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:29",
+  "sexo": "male",
+  "etapa_vida": "adult",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Cristian Rodas y Raúl Sedano",
+  "comentarios": "A male inside a bamboo tree, jumping from culm to culm. No foraging or drumming behavior was seen.  Individual was between  10 to 15 m away, and flew away at the end of the recording. Noise from a forklift in the background (e.g. 0:05).",
+  "otras_especies": [
+    "Troglodytes aedon"
+  ],
+  "url_audio": "https://xeno-canto.org/915109/download",
+  "url_pagina": "https://xeno-canto.org/915109",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

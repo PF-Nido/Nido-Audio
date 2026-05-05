@@ -1,0 +1,33 @@
+{
+  "xc_id": "286793",
+  "genero": "Accipiter",
+  "especie": "ventralis",
+  "subespecie": "",
+  "nombre_cientifico": "Accipiter ventralis",
+  "nombre_ingles": "Plain-breasted Hawk",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Montezuma Peak Road, Pueblo Rico, Risaralda, W Andes - Tatama National Park",
+  "lat": 5.2431,
+  "lon": null,
+  "altura": 2400.0,
+  "fecha": "2015-10-13",
+  "hora": "07:00",
+  "calidad_xc": "B",
+  "tipo_canto": "call",
+  "duracion": "0:08",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Eliana Fierro-Calderón",
+  "comentarios": "Most probably Accipiter striatus ventralis.\r\nI'll be grateful if you can help me to check.",
+  "otras_especies": [
+    "Urochroa bougueri"
+  ],
+  "url_audio": "https://xeno-canto.org/286793/download",
+  "url_pagina": "https://xeno-canto.org/286793",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

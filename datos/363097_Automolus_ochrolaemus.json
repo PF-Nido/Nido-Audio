@@ -1,0 +1,33 @@
+{
+  "xc_id": "363097",
+  "genero": "Automolus",
+  "especie": "ochrolaemus",
+  "subespecie": "turdinus",
+  "nombre_cientifico": "Automolus ochrolaemus",
+  "nombre_ingles": "Buff-throated Foliage-gleaner",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Vereda La Sevilla, Río Inchiyaco (Piamonte, Cauca)",
+  "lat": 1.0989,
+  "lon": null,
+  "altura": 420.0,
+  "fecha": "2017-04-02",
+  "hora": "08:24",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:23",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Brayan Coral Jaramillo",
+  "comentarios": "",
+  "otras_especies": [
+    "Crypturellus soui"
+  ],
+  "url_audio": "https://xeno-canto.org/363097/download",
+  "url_pagina": "https://xeno-canto.org/363097",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

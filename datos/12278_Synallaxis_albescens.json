@@ -1,0 +1,33 @@
+{
+  "xc_id": "12278",
+  "genero": "Synallaxis",
+  "especie": "albescens",
+  "subespecie": "",
+  "nombre_cientifico": "Synallaxis albescens",
+  "nombre_ingles": "Pale-breasted Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Suaita, Santander",
+  "lat": 6.106418,
+  "lon": null,
+  "altura": 1400.0,
+  "fecha": "2003-04-08",
+  "hora": "14:40",
+  "calidad_xc": "A",
+  "tipo_canto": "song",
+  "duracion": "0:32",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "unknown",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Laverde",
+  "comentarios": "",
+  "otras_especies": [
+    "Saltator striatipectus"
+  ],
+  "url_audio": "https://xeno-canto.org/12278/download",
+  "url_pagina": "https://xeno-canto.org/12278",
+  "licencia": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+}

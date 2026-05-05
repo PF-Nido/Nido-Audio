@@ -1,0 +1,33 @@
+{
+  "xc_id": "379324",
+  "genero": "Theristicus",
+  "especie": "caudatus",
+  "subespecie": "",
+  "nombre_cientifico": "Theristicus caudatus",
+  "nombre_ingles": "Buff-necked Ibis",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Cali, Valle del Cauca",
+  "lat": 3.3924,
+  "lon": null,
+  "altura": 950.0,
+  "fecha": "2017-07-08",
+  "hora": "07:30",
+  "calidad_xc": "B",
+  "tipo_canto": "call, urban sounds",
+  "duracion": "2:06",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Luis Fernando Citelly Palacios",
+  "comentarios": "Two birds resting in a celular tower. One makes the call, the other reply, periodically.  Identified in silhouette and by calls in xeno canto.  Urban vegetation. Stay in the place 2 hours more or less.",
+  "otras_especies": [
+    "Pitangus sulphuratus"
+  ],
+  "url_audio": "https://xeno-canto.org/379324/download",
+  "url_pagina": "https://xeno-canto.org/379324",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}

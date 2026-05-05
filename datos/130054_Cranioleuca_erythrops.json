@@ -1,0 +1,33 @@
+{
+  "xc_id": "130054",
+  "genero": "Cranioleuca",
+  "especie": "erythrops",
+  "subespecie": "",
+  "nombre_cientifico": "Cranioleuca erythrops",
+  "nombre_ingles": "Red-faced Spinetail",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-La Popa",
+  "lat": 4.6717,
+  "lon": null,
+  "altura": 1800.0,
+  "fecha": "2007-11-05",
+  "hora": "06:45",
+  "calidad_xc": "B",
+  "tipo_canto": "call, song",
+  "duracion": "1:18",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "Oscar Humberto Marin-Gomez",
+  "comentarios": "OHM002A 0500. Un individuo en Borde de bosque, desplazándose en ramas de pino. 20m del mic. Bosque montano bajo. Vocalización natural.",
+  "otras_especies": [
+    "Henicorhina leucophrys"
+  ],
+  "url_audio": "https://xeno-canto.org/130054/download",
+  "url_pagina": "https://xeno-canto.org/130054",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "xc_id": "327117",
+  "genero": "Aulacorhynchus",
+  "especie": "haematopygus",
+  "subespecie": "",
+  "nombre_cientifico": "Aulacorhynchus haematopygus",
+  "nombre_ingles": "Crimson-rumped Toucanet",
+  "grupo": "",
+  "pais": "Colombia",
+  "localidad": "Santa María, Boyacá",
+  "lat": 4.8844,
+  "lon": null,
+  "altura": 1600.0,
+  "fecha": "2016-05-14",
+  "hora": "17:25",
+  "calidad_xc": "B",
+  "tipo_canto": "song",
+  "duracion": "0:45",
+  "sexo": "",
+  "etapa_vida": "",
+  "metodo_grabacion": "field recording",
+  "playback_usado": "no",
+  "ave_vista": "",
+  "temperatura": null,
+  "recordista": "David Ricardo Rodríguez Villamil",
+  "comentarios": "",
+  "otras_especies": [
+    "Patagioenas subvinacea"
+  ],
+  "url_audio": "https://xeno-canto.org/327117/download",
+  "url_pagina": "https://xeno-canto.org/327117",
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}
