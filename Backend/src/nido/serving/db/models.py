@@ -40,9 +40,9 @@ class PredictionLog(Base):
     __tablename__ = "predictions_log"
 
     id = Column(Integer, primary_key=True)
-    recording_id = Column(Integer, ForeignKey("recordings.id"), nullable=True)
-    predicted_species_id = Column(Integer, ForeignKey("species.id"))
-    predicted_family_id = Column(Integer, ForeignKey("families.id"))
+    recording_id = Column(Integer, nullable=True)  # sin ForeignKey por ahora
+    predicted_species_id = Column(Integer, nullable=True)
+    predicted_family_id = Column(Integer, nullable=True)
     confidence = Column(Float, nullable=False)
     audio_score = Column(Float)
     context_score = Column(Float)

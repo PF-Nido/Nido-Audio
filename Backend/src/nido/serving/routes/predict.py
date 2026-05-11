@@ -8,6 +8,7 @@ from typing import Optional
 from fastapi import APIRouter, Depends, File, Form, HTTPException, UploadFile
 from sqlalchemy.ext.asyncio import AsyncSession
 
+from nido.ml.birdnet import analyze_audio
 from nido.serving.db.database import get_db
 from nido.serving.db.models import PredictionLog
 from nido.serving.db.redis_client import cache_prediction, get_cached_prediction
@@ -41,62 +42,80 @@ async def predict(
             detail=f"Formato no soportado: {audio.content_type}.",
         )
 
-    # Leer audio y validar tamaño
+    # Leer y validar tamaño
     audio_bytes = await audio.read()
     size_mb = len(audio_bytes) / (1024 * 1024)
     if size_mb > MAX_FILE_SIZE_MB:
         raise HTTPException(
             status_code=400,
-            detail="Archivo demasiado grande:",
+            detail=f"Archivo demasiado grande: {size_mb:.1f}MB.",
         )
 
-    # Validar coordenadas dentro de Colombia
+    # Validar coordenadas Colombia
+    if not (-4.5 <= latitude <= 13.0 and -82.0 <= longitude <= -66.0):
+        raise HTTPException(
+            status_code=400,
+            detail="Las coordenadas están fuera de Colombia.",
+        )
 
-    # Hash del audio para cache
+    # Buscar en cache
     audio_hash = hashlib.sha256(audio_bytes).hexdigest()
-
-    # Buscar en cache de Redis
     cached = await get_cached_prediction(audio_hash)
     if cached:
         cached["request_id"] = str(uuid.uuid4())
-        cached["from_cache"] = True
         return PredictionResponse(**cached)
+    print(">>> ANTES DE BIRDNET")
+    # Analizar con BirdNET
+    detections = analyze_audio(
+        audio_bytes=audio_bytes,
+        latitude=latitude,
+        longitude=longitude,
+        recorded_at=recorded_at,
+        elevation=elevation,
+    )
 
-    # pipeline real
-    # Por ahora respuesta mock
+    if not detections:
+        raise HTTPException(
+            status_code=422,
+            detail="No se detectaron aves en el audio.",
+        )
+    print(">>> DESPUÉS DE BIRDNET")
+    # Construir respuesta
+    predictions = [
+        SpeciesPrediction(
+            scientific_name=d["scientific_name"],
+            common_name_en=d.get("common_name_en"),
+            confidence=d["confidence"],
+            audio_score=d["confidence"],
+            context_score=d["confidence"],
+        )
+        for d in detections
+    ]
+
     processing_time = int((time.time() - start_time) * 1000)
     request_id = str(uuid.uuid4())
 
     response = PredictionResponse(
-        predictions=[
-            SpeciesPrediction(
-                scientific_name="Zonotrichia capensis",
-                common_name_es="Copetón",
-                family="Passerellidae",
-                confidence=0.87,
-                audio_score=0.82,
-                context_score=0.94,
-            )
-        ],
+        predictions=predictions,
         audio_quality=AudioQuality(
             snr_db=None,
-            n_segments=0,
+            n_segments=len(detections),
             duration_seconds=round(size_mb, 2),
         ),
-        model_version="dev-mock",
+        model_version="birdnet-2.4",
         processing_time_ms=processing_time,
         request_id=request_id,
     )
 
-    # Guardar en cache de Redis
+    # Guardar en cache
     await cache_prediction(audio_hash, response.model_dump())
 
-    # Guardar log en PostgreSQL
+    # Guardar en DB
     log = PredictionLog(
-        confidence=response.predictions[0].confidence,
-        audio_score=response.predictions[0].audio_score,
-        context_score=response.predictions[0].context_score,
-        top5_predictions=json.dumps([p.model_dump() for p in response.predictions]),
+        confidence=predictions[0].confidence,
+        audio_score=predictions[0].audio_score,
+        context_score=predictions[0].context_score,
+        top5_predictions=json.dumps([p.model_dump() for p in predictions]),
         input_lat=latitude,
         input_lon=longitude,
         input_elevation=elevation,
@@ -106,6 +125,8 @@ async def predict(
         request_id=uuid.UUID(request_id),
     )
     db.add(log)
+
     await db.commit()
+    print("Guardando log de predicción request_id en la base de datos...")
 
     return response

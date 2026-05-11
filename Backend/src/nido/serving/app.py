@@ -1,17 +1,18 @@
+from contextlib import asynccontextmanager
+
 from fastapi import FastAPI
-from fastapi.concurrency import asynccontextmanager
 from fastapi.middleware.cors import CORSMiddleware
 
+from nido.ml.birdnet import get_analyzer
 from nido.serving.db.redis_client import close_redis, init_redis
 from nido.serving.routes import health, predict
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    # Al arrancar la API
+    get_analyzer()
     await init_redis()
     yield
-    # Al apagar la API
     await close_redis()
 
 
@@ -24,7 +25,6 @@ app = FastAPI(
     lifespan=lifespan,
 )
 
-# CORS — ajustar cuando haya frontend real
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -32,6 +32,5 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Rutas
 app.include_router(health.router, tags=["Sistema"])
 app.include_router(predict.router, tags=["Predicción"])

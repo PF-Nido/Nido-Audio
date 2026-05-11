@@ -13,8 +13,9 @@ class PredictionInput(BaseModel):
 
 class SpeciesPrediction(BaseModel):
     scientific_name: str
-    common_name_es: Optional[str]
-    family: str
+    common_name_es: Optional[str] = None
+    common_name_en: Optional[str] = None
+    family: Optional[str] = None
     confidence: float
     audio_score: float
     context_score: float
