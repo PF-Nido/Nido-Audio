@@ -17,3 +17,5 @@ models/
 # IDE
 .vscode/
 .idea/
+models/
+output/

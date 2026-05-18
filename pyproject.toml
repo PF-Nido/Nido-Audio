@@ -104,7 +104,10 @@ filterwarnings = [
 ]
 
 [tool.ruff]
-exclude = ["conf.py"]
+exclude = ["conf.py",
+            "birdnet_analyzer",
+            "backend/models"
+]
 line-length = 165
 
 [tool.ruff.lint]
@@ -151,3 +154,4 @@ ignore = [
     "PLC0415",
     "RUF015",
 ]
+

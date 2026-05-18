@@ -8,10 +8,12 @@ from typing import Optional
 from fastapi import APIRouter, Depends, File, Form, HTTPException, UploadFile
 from sqlalchemy.ext.asyncio import AsyncSession
 
-from nido.ml.birdnet import analyze_audio
+from nido.ml.audio_model import predict_audio
+from nido.ml.fusion import fusion_filtro_umbral
+from nido.ml.geo_model import predict_geo
 from nido.serving.db.database import get_db
 from nido.serving.db.models import PredictionLog
-from nido.serving.db.redis_client import cache_prediction, get_cached_prediction
+from nido.serving.db.redis_client import cache_prediction
 from nido.serving.schemas.prediction import (
     AudioQuality,
     PredictionResponse,
@@ -24,7 +26,7 @@ ALLOWED_FORMATS = {"audio/mpeg", "audio/wav", "audio/ogg", "audio/flac"}
 MAX_FILE_SIZE_MB = 50
 
 
-@router.post("/predict", response_model=PredictionResponse)
+@router.post("/predict")
 async def predict(
     audio: UploadFile = File(...),
     latitude: float = Form(...),
@@ -33,8 +35,21 @@ async def predict(
     elevation: Optional[int] = Form(None),
     db: AsyncSession = Depends(get_db),
 ):
-    start_time = time.time()
+    print("ENTRÓ")
+    return {"ok": True}
 
+
+@router.post("/predict2", response_model=PredictionResponse)
+async def predict2(
+    audio: UploadFile = File(...),
+    latitude: float = Form(...),
+    longitude: float = Form(...),
+    recorded_at: datetime = Form(...),
+    elevation: Optional[int] = Form(None),
+    db: AsyncSession = Depends(get_db),
+):
+    start_time = time.time()
+    print("Recibida solicitud de predicción")
     # Validar formato
     if audio.content_type not in ALLOWED_FORMATS:
         raise HTTPException(
@@ -60,53 +75,66 @@ async def predict(
 
     # Buscar en cache
     audio_hash = hashlib.sha256(audio_bytes).hexdigest()
-    cached = await get_cached_prediction(audio_hash)
-    if cached:
-        cached["request_id"] = str(uuid.uuid4())
-        return PredictionResponse(**cached)
-    print(">>> ANTES DE BIRDNET")
-    # Analizar con BirdNET
-    detections = analyze_audio(
-        audio_bytes=audio_bytes,
-        latitude=latitude,
-        longitude=longitude,
-        recorded_at=recorded_at,
-        elevation=elevation,
-    )
-
-    if not detections:
+    # cached = await get_cached_prediction(audio_hash)
+    # if cached:
+    #    cached["request_id"] = str(uuid.uuid4())
+    #    print(">>> RESPONDIENDO DESDE CACHE")
+    #    return PredictionResponse(**cached)
+    # print(">>> ANTES DE modelos de audio y geo")
+    # Modelo audio
+    audio_probs = predict_audio(audio_bytes)
+    if not audio_probs:
         raise HTTPException(
             status_code=422,
             detail="No se detectaron aves en el audio.",
         )
-    print(">>> DESPUÉS DE BIRDNET")
+    print(">>> DESPUÉS DE modelo de audio")
+    print(
+        f"Audio probs: {list(audio_probs.items())[:5]}"
+    )  # Mostrar solo un fragmento para no saturar el log
+    # Modelo geo
+
+    # Modelo geo
+    geo_probs = predict_geo(
+        latitude=latitude,
+        longitude=longitude,
+        month=recorded_at.month,
+        day_of_year=recorded_at.timetuple().tm_yday,
+        elevation=float(elevation) if elevation else None,
+    )
+    print(">>> DESPUÉS DE modelo geo")
+
+    # Fusión
+    detections, filtro_aplicado = fusion_filtro_umbral(
+        audio_probs=audio_probs,
+        geo_probs=geo_probs,
+    )
+    print(f">>> DESPUÉS DE fusión (filtro aplicado: {filtro_aplicado})")
     # Construir respuesta
+    print(detections)
     predictions = [
         SpeciesPrediction(
             scientific_name=d["scientific_name"],
-            common_name_en=d.get("common_name_en"),
             confidence=d["confidence"],
-            audio_score=d["confidence"],
-            context_score=d["confidence"],
+            audio_score=audio_probs.get(d["scientific_name"], 0.0),
+            context_score=geo_probs.get(d["scientific_name"], 0.0),
         )
         for d in detections
     ]
-
     processing_time = int((time.time() - start_time) * 1000)
     request_id = str(uuid.uuid4())
-
     response = PredictionResponse(
         predictions=predictions,
         audio_quality=AudioQuality(
             snr_db=None,
-            n_segments=len(detections),
+            n_segments=len(audio_probs),
             duration_seconds=round(size_mb, 2),
         ),
-        model_version="birdnet-2.4",
+        model_version="nido-v1.0",
         processing_time_ms=processing_time,
         request_id=request_id,
     )
-
+    return response
     # Guardar en cache
     await cache_prediction(audio_hash, response.model_dump())
 
@@ -128,5 +156,3 @@ async def predict(
 
     await db.commit()
     print("Guardando log de predicción request_id en la base de datos...")
-
-    return response
