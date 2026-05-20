@@ -8,12 +8,13 @@ from typing import Optional
 from fastapi import APIRouter, Depends, File, Form, HTTPException, UploadFile
 from sqlalchemy.ext.asyncio import AsyncSession
 
+from nido.audio.AudioQuality import estimate_snr
 from nido.ml.audio_model import predict_audio
 from nido.ml.fusion import fusion_filtro_umbral
 from nido.ml.geo_model import predict_geo
 from nido.serving.db.database import get_db
 from nido.serving.db.models import PredictionLog
-from nido.serving.db.redis_client import cache_prediction
+from nido.serving.db.redis_client import cache_prediction, get_cached_prediction
 from nido.serving.schemas.prediction import (
     AudioQuality,
     PredictionResponse,
@@ -26,21 +27,8 @@ ALLOWED_FORMATS = {"audio/mpeg", "audio/wav", "audio/ogg", "audio/flac"}
 MAX_FILE_SIZE_MB = 50
 
 
-@router.post("/predict")
+@router.post("/predict", response_model=PredictionResponse)
 async def predict(
-    audio: UploadFile = File(...),
-    latitude: float = Form(...),
-    longitude: float = Form(...),
-    recorded_at: datetime = Form(...),
-    elevation: Optional[int] = Form(None),
-    db: AsyncSession = Depends(get_db),
-):
-    print("ENTRÓ")
-    return {"ok": True}
-
-
-@router.post("/predict2", response_model=PredictionResponse)
-async def predict2(
     audio: UploadFile = File(...),
     latitude: float = Form(...),
     longitude: float = Form(...),
@@ -75,12 +63,12 @@ async def predict2(
 
     # Buscar en cache
     audio_hash = hashlib.sha256(audio_bytes).hexdigest()
-    # cached = await get_cached_prediction(audio_hash)
-    # if cached:
-    #    cached["request_id"] = str(uuid.uuid4())
-    #    print(">>> RESPONDIENDO DESDE CACHE")
-    #    return PredictionResponse(**cached)
-    # print(">>> ANTES DE modelos de audio y geo")
+    cached = await get_cached_prediction(audio_hash)
+    if cached:
+        cached["request_id"] = str(uuid.uuid4())
+        print(">>> RESPONDIENDO DESDE CACHE")
+        return PredictionResponse(**cached)
+    print(">>> ANTES DE modelos de audio y geo")
     # Modelo audio
     audio_probs = predict_audio(audio_bytes)
     if not audio_probs:
@@ -126,7 +114,7 @@ async def predict2(
     response = PredictionResponse(
         predictions=predictions,
         audio_quality=AudioQuality(
-            snr_db=None,
+            snr_db=estimate_snr(audio_bytes),
             n_segments=len(audio_probs),
             duration_seconds=round(size_mb, 2),
         ),
@@ -134,11 +122,11 @@ async def predict2(
         processing_time_ms=processing_time,
         request_id=request_id,
     )
-    return response
     # Guardar en cache
     await cache_prediction(audio_hash, response.model_dump())
 
     # Guardar en DB
+    recorded_at_db = recorded_at.replace(tzinfo=None)
     log = PredictionLog(
         confidence=predictions[0].confidence,
         audio_score=predictions[0].audio_score,
@@ -147,7 +135,7 @@ async def predict2(
         input_lat=latitude,
         input_lon=longitude,
         input_elevation=elevation,
-        input_datetime=recorded_at,
+        input_datetime=recorded_at_db,
         model_version=response.model_version,
         processing_time_ms=processing_time,
         request_id=uuid.UUID(request_id),
@@ -156,3 +144,4 @@ async def predict2(
 
     await db.commit()
     print("Guardando log de predicción request_id en la base de datos...")
+    return response

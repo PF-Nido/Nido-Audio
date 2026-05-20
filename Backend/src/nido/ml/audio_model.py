@@ -8,6 +8,9 @@ from pathlib import Path
 import lightgbm as lgb
 import numpy as np
 
+os.environ["TF_CPP_MIN_LOG_LEVEL"] = "3"
+os.environ["TF_ENABLE_ONEDNN_OPTS"] = "0"
+
 BASE_DIR = Path(__file__).resolve().parents[3]
 AUDIO_MODEL_DIR = BASE_DIR / "models" / "audio"
 

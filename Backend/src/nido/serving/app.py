@@ -6,7 +6,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from nido.ml.audio_model import _load_audio_model
 from nido.ml.geo_model import _load_geo_model
 from nido.serving.db.redis_client import close_redis, init_redis
-from nido.serving.routes import health, predict
+from nido.serving.routes import health, predict, species
 
 
 @asynccontextmanager
@@ -42,5 +42,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+
 app.include_router(health.router, tags=["Sistema"])
 app.include_router(predict.router, tags=["Predicción"])
+app.include_router(species.router, tags=["Especies"])

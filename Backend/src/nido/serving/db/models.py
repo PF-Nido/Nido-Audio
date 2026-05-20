@@ -51,7 +51,7 @@ class PredictionLog(Base):
     input_lon = Column(Float)
     input_elevation = Column(Integer)
     input_datetime = Column(DateTime)
-    snr_estimated = Column(Float)
+    snr_estimated = Column(Float, nullable=True)
     model_version = Column(String(50), nullable=False)
     processing_time_ms = Column(Integer)
     predicted_at = Column(DateTime, server_default=func.now())

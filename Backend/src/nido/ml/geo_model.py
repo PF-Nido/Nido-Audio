@@ -1,3 +1,4 @@
+import os
 import sys
 from pathlib import Path
 from typing import Optional
@@ -8,6 +9,8 @@ import pandas as pd
 
 import nido.config.validacion as validacion
 
+os.environ["TF_CPP_MIN_LOG_LEVEL"] = "3"
+os.environ["TF_ENABLE_ONEDNN_OPTS"] = "0"
 sys.modules["validacion"] = validacion
 
 BASE_DIR = Path(__file__).resolve().parents[3]
