@@ -1,15 +1,18 @@
-# Build from Python slim
-FROM python:3.11
+FROM python:3.11-slim
 
-# Install required packages while keeping the image small
-RUN apt-get update && apt-get install -y --no-install-recommends ffmpeg  && rm -rf /var/lib/apt/lists/*
+# Instalar dependencias del sistema que necesita LightGBM
+RUN apt-get update && apt-get install -y \
+    libgomp1 \
+    && rm -rf /var/lib/apt/lists/*
 
-# Import all scripts
-COPY . ./
+WORKDIR /app
 
-# Install required Python packages
-RUN pip3 install --no-cache-dir .
+COPY pyproject.toml .
+COPY src ./src
 
-# Add entry point to run the script
-ENTRYPOINT [ "python3" ]
-CMD [ "-m", "birdnet_analyzer.analyze" ]
+RUN pip install --no-cache-dir . && \
+    pip install --no-cache-dir pyarrow huggingface_hub
+
+EXPOSE 8080
+
+CMD ["uvicorn", "nido.serving.app:app", "--host", "0.0.0.0", "--port", "8080"]
