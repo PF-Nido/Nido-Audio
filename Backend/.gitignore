@@ -9,7 +9,6 @@ dist/
 # DVC (estos los maneja DVC, no Git)
 data/raw/audio/
 data/processed/embeddings/
-models/
 
 # Notebooks
 .ipynb_checkpoints/
@@ -17,5 +16,4 @@ models/
 # IDE
 .vscode/
 .idea/
-models/
 output/

@@ -7,12 +7,15 @@ from pathlib import Path
 
 import lightgbm as lgb
 import numpy as np
+from huggingface_hub import HfApi, hf_hub_download
 
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "3"
 os.environ["TF_ENABLE_ONEDNN_OPTS"] = "0"
 
 BASE_DIR = Path(__file__).resolve().parents[3]
-AUDIO_MODEL_DIR = BASE_DIR / "models" / "audio"
+
+HF_REPO = os.getenv("HF_REPO", "albertjjs/nido-models")
+HF_TOKEN = os.getenv("HF_TOKEN")
 
 # BirdNET no es thread-safe
 _BIRDNET_LOCK = threading.Lock()
@@ -27,22 +30,24 @@ def _load_audio_model():
     if _modelos_emb is not None:
         return
 
-    label_encoder_path = AUDIO_MODEL_DIR / "label_encoder.json"
-    if not label_encoder_path.exists():
-        raise FileNotFoundError(
-            f"label_encoder.json no encontrado en {AUDIO_MODEL_DIR}."
-        )
-
+    label_encoder_path = hf_hub_download(HF_REPO, "audio/label_encoder.json", token=HF_TOKEN)
+    
     with open(label_encoder_path, "r", encoding="utf-8") as f:
         data = json.load(f)
         _clases = np.array(data["clases"])
 
     _modelos_emb = []
-    for file in sorted(AUDIO_MODEL_DIR.glob("modelo_embeddings_fold*.txt")):
-        _modelos_emb.append(lgb.Booster(model_file=str(file)))
+    
+    api = HfApi(token=HF_TOKEN)
+    files = api.list_repo_files(repo_id=HF_REPO)
+    fold_files = [f for f in files if f.startswith("audio/modelo_embeddings_fold") and f.endswith(".txt")]
+    
+    for file in sorted(fold_files):
+        model_path = hf_hub_download(HF_REPO, file, token=HF_TOKEN)
+        _modelos_emb.append(lgb.Booster(model_file=str(model_path)))
 
     if not _modelos_emb:
-        raise ValueError(f"No se encontraron modelos fold en {AUDIO_MODEL_DIR}.")
+        raise ValueError(f"No se encontraron modelos fold en Hugging Face en {HF_REPO}.")
 
     print(f"Modelo de audio cargado: {len(_modelos_emb)} folds")
 

@@ -10,6 +10,8 @@ requires-python = ">=3.10"
 
 # Dependencias principales (lo que antes era requirements.txt)
 dependencies = [
+    "huggingface_hub>=0.20.0",
+    "pyarrow>=14.0.0",
     "fastapi>=0.109.0",
     "uvicorn>=0.27.0",
     "pydantic>=2.5.0",

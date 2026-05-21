@@ -4,6 +4,8 @@ uv.lock
 # IDE/Editor settings
 .vscode/*
 
+analisis_datos
+
 chat.txt
 
 # Allow VSCode recommendations

@@ -4,7 +4,7 @@ from typing import Optional
 
 import redis.asyncio as aioredis
 
-REDIS_URL = os.getenv("REDIS_URL", "redis://localhost:6379")
+REDIS_URL = os.getenv("REDIS_URL")
 
 # Cliente global, se inicializa al arrancar la API
 redis_client: Optional[aioredis.Redis] = None

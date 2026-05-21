@@ -6,15 +6,15 @@ from typing import Optional
 import joblib
 import lightgbm as lgb
 import pandas as pd
-
-import nido.config.validacion as validacion
+from huggingface_hub import hf_hub_download
 
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "3"
 os.environ["TF_ENABLE_ONEDNN_OPTS"] = "0"
-sys.modules["validacion"] = validacion
 
 BASE_DIR = Path(__file__).resolve().parents[3]
-GEO_MODEL_DIR = BASE_DIR / "models" / "geo"
+
+HF_REPO = os.getenv("HF_REPO", "albertjjs/nido-models")
+HF_TOKEN = os.getenv("HF_TOKEN")
 
 _featurizer = None
 _label_encoder = None
@@ -27,19 +27,13 @@ def _load_geo_model():
     if _model is not None:
         return
 
-    featurizer_path = GEO_MODEL_DIR / "featurizer.joblib"
-    label_encoder_path = GEO_MODEL_DIR / "label_encoder.joblib"
-    model_path = GEO_MODEL_DIR / "model_b.txt"
-
-    if not all(p.exists() for p in [featurizer_path, label_encoder_path, model_path]):
-        raise FileNotFoundError(
-            f"Archivos del modelo geo no encontrados en {GEO_MODEL_DIR}. "
-            "Copia los archivos del modelo antes de continuar."
-        )
+    featurizer_path = hf_hub_download(HF_REPO, "geo/featurizer.joblib", token=HF_TOKEN)
+    label_encoder_path = hf_hub_download(HF_REPO, "geo/label_encoder.joblib", token=HF_TOKEN)
+    model_path = hf_hub_download(HF_REPO, "geo/model_b.txt", token=HF_TOKEN)
 
     _featurizer = joblib.load(featurizer_path)
     _label_encoder = joblib.load(label_encoder_path)
-    _model = lgb.Booster(model_file=str(model_path))
+    _model = lgb.Booster(model_file=model_path)
     print("Modelo geoespacial cargado")
 
 

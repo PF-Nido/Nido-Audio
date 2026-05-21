@@ -4,7 +4,7 @@ from sqlalchemy.ext.asyncio import AsyncSession, async_sessionmaker, create_asyn
 from sqlalchemy.orm import DeclarativeBase
 
 DATABASE_URL = os.getenv(
-    "DATABASE_URL", "postgresql+asyncpg://nido_user:password@localhost:5432/nido"
+    "DATABASE_URL"
 )
 
 # SQLAlchemy usa postgresql+asyncpg para conexiones async
