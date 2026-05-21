@@ -30,7 +30,7 @@ def _load_audio_model():
     if _modelos_emb is not None:
         return
 
-    label_encoder_path = hf_hub_download(HF_REPO, "audio/label_encoder.json", token=HF_TOKEN)
+    label_encoder_path = hf_hub_download(HF_REPO, "models/audio/label_encoder.json", token=HF_TOKEN)
     
     with open(label_encoder_path, "r", encoding="utf-8") as f:
         data = json.load(f)
@@ -40,7 +40,7 @@ def _load_audio_model():
     
     api = HfApi(token=HF_TOKEN)
     files = api.list_repo_files(repo_id=HF_REPO)
-    fold_files = [f for f in files if f.startswith("audio/modelo_embeddings_fold") and f.endswith(".txt")]
+    fold_files = [f for f in files if f.startswith("models/audio/modelo_embeddings_fold") and f.endswith(".txt")]
     
     for file in sorted(fold_files):
         model_path = hf_hub_download(HF_REPO, file, token=HF_TOKEN)

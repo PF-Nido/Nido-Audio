@@ -27,9 +27,9 @@ def _load_geo_model():
     if _model is not None:
         return
 
-    featurizer_path = hf_hub_download(HF_REPO, "geo/featurizer.joblib", token=HF_TOKEN)
-    label_encoder_path = hf_hub_download(HF_REPO, "geo/label_encoder.joblib", token=HF_TOKEN)
-    model_path = hf_hub_download(HF_REPO, "geo/model_b.txt", token=HF_TOKEN)
+    featurizer_path = hf_hub_download(HF_REPO, "models/geo/featurizer.joblib", token=HF_TOKEN)
+    label_encoder_path = hf_hub_download(HF_REPO, "models/geo/label_encoder.joblib", token=HF_TOKEN)
+    model_path = hf_hub_download(HF_REPO, "models/geo/model_b.txt", token=HF_TOKEN)
 
     _featurizer = joblib.load(featurizer_path)
     _label_encoder = joblib.load(label_encoder_path)
