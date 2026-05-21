@@ -11,38 +11,38 @@ import pandas as pd
 # VALIDACIÓN RÁPIDA DEL DATASET
 # ================================================================
 
-print("Cargando dataset...")
-BASE_DIR = Path(__file__).resolve().parent
-df = pd.read_parquet(BASE_DIR / "output" / "observations_with_elevation.parquet")
-df = df.rename(columns={"elevation_y": "elevation"})
+# print("Cargando dataset...")
+# BASE_DIR = Path(__file__).resolve().parent
+# df = pd.read_parquet(BASE_DIR / "output" / "observations_with_elevation.parquet")
+# df = df.rename(columns={"elevation_y": "elevation"})
 
-print(f"\n{'='*60}")
-print("VALIDACIÓN DEL DATASET")
-print(f"{'='*60}")
-print(f"Filas: {len(df):,}")
-print(f"Columnas: {list(df.columns)}")
-print("\nNulos por columna:")
-for col in df.columns:
-    n_null = df[col].isna().sum()
-    pct = n_null / len(df) * 100
-    print(f"  {col:<25} {n_null:>10,} ({pct:.1f}%)")
+# print(f"\n{'='*60}")
+# print("VALIDACIÓN DEL DATASET")
+# print(f"{'='*60}")
+# print(f"Filas: {len(df):,}")
+# print(f"Columnas: {list(df.columns)}")
+# print("\nNulos por columna:")
+# for col in df.columns:
+#     n_null = df[col].isna().sum()
+#     pct = n_null / len(df) * 100
+#     print(f"  {col:<25} {n_null:>10,} ({pct:.1f}%)")
 
-print(f"\nEspecies únicas: {df['species'].nunique():,}")
-print("\nElevación:")
-print(df["elevation"].describe())
+# print(f"\nEspecies únicas: {df['species'].nunique():,}")
+# print("\nElevación:")
+# print(df["elevation"].describe())
 
-# Sanity check: ¿las elevaciones tienen sentido?
-print("\nMuestra de datos:")
-print(df.sample(5)[["species", "lat", "lon", "elevation"]].to_string())
+# # Sanity check: ¿las elevaciones tienen sentido?
+# print("\nMuestra de datos:")
+# print(df.sample(5)[["species", "lat", "lon", "elevation"]].to_string())
 
 
-# ================================================================
-# FEATURE ENGINEERING
-# ================================================================
+# # ================================================================
+# # FEATURE ENGINEERING
+# # ================================================================
 
-print(f"\n{'='*60}")
-print("GENERANDO FEATURES")
-print(f"{'='*60}")
+# print(f"\n{'='*60}")
+# print("GENERANDO FEATURES")
+# print(f"{'='*60}")
 
 
 class GeoTemporalFeaturizer:
@@ -150,27 +150,27 @@ class GeoTemporalFeaturizer:
 # EJECUTAR
 # ================================================================
 
-featurizer = GeoTemporalFeaturizer()
-features = featurizer.fit_transform(df)
+# featurizer = GeoTemporalFeaturizer()
+# features = featurizer.fit_transform(df)
 
-print(f"\nFeatures generadas: {features.shape[1]}")
-print("Columnas:")
-for col in features.columns:
-    print(f"  {col}: {features[col].dtype}")
+# print(f"\nFeatures generadas: {features.shape[1]}")
+# print("Columnas:")
+# for col in features.columns:
+#     print(f"  {col}: {features[col].dtype}")
 
-# Agregar labels
-features["species"] = df["species"].values
+# # Agregar labels
+# features["species"] = df["species"].values
 
-# Guardar features
+# # Guardar features
 
-output_path = BASE_DIR / "output" / "features_model_b.parquet"
-features.to_parquet(output_path, compression="snappy")
-size_mb = Path(output_path).stat().st_size / 1e6
-print(f"\nGuardado: {output_path} ({size_mb:.0f} MB)")
+# output_path = BASE_DIR / "output" / "features_model_b.parquet"
+# features.to_parquet(output_path, compression="snappy")
+# size_mb = Path(output_path).stat().st_size / 1e6
+# print(f"\nGuardado: {output_path} ({size_mb:.0f} MB)")
 
 
-Path("models/geo/").mkdir(parents=True, exist_ok=True)
-joblib.dump(featurizer, "models/geo/featurizer.joblib")
-print("Featurizer guardado: models/geo/featurizer.joblib")
+# Path("models/geo/").mkdir(parents=True, exist_ok=True)
+# joblib.dump(featurizer, "models/geo/featurizer.joblib")
+# print("Featurizer guardado: models/geo/featurizer.joblib")
 
-print("\n✅ Feature engineering completo")
+# print("\n✅ Feature engineering completo")
