@@ -1,9 +1,11 @@
 FROM python:3.11-slim
 
-# Instalar dependencias del sistema que necesita LightGBM
+# Instalar dependencias del sistema que necesita LightGBM y numba (usado por librosa/birdnet)
 RUN apt-get update && apt-get install -y \
     libgomp1 \
     libgcc-s1 \
+    ffmpeg \
+    libsndfile1 \
     && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app

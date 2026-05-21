@@ -30,7 +30,8 @@ dependencies = [
     "asyncpg>=0.29.0",        # driver async para PostgreSQL
     "redis>=5.0.1",
     "geoalchemy2>=0.14.3",
-    "birdnet-analyzer>=2.4.0",
+    "birdnet-analyzer[embeddings]>=2.4.0",
+    "usearch>=2.8.0",
 ]
 
 # Dependencias solo para desarrollo
