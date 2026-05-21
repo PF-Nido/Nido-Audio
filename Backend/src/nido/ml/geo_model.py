@@ -27,6 +27,14 @@ def _load_geo_model():
     if _model is not None:
         return
 
+    # To fix ModuleNotFoundError: No module named 'validacion' during unpickling
+    import sys
+    try:
+        from nido.config import validacion
+        sys.modules['validacion'] = validacion
+    except ImportError:
+        pass
+
     featurizer_path = hf_hub_download(HF_REPO, "models/geo/featurizer.joblib", token=HF_TOKEN)
     label_encoder_path = hf_hub_download(HF_REPO, "models/geo/label_encoder.joblib", token=HF_TOKEN)
     model_path = hf_hub_download(HF_REPO, "models/geo/model_b.txt", token=HF_TOKEN)
